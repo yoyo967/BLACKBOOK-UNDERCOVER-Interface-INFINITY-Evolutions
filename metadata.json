@@ -1,0 +1,25 @@
+{
+  "title": "BLACKBOOK UNDERCOVER: Interface INFINITY Evolutions",
+  "subtitle": "Band 1: Master & System — Die narrative Prosa des Willens (Schicht A) & das empirische Substrat der Logik (Schicht B)",
+  "band": 1,
+  "version": "1.0.0",
+  "date": "2026-07-13",
+  "status": "In Arbeit — Kapitel II–IV ausstehend",
+  "authors": [
+    "Yahya Yildirim",
+    "Interface INFINITY Open-Source Community"
+  ],
+  "collaborators": [
+    "Gemini (Autonomous AI Co-Creator)"
+  ],
+  "license": "CC BY 4.0",
+  "companion_spec": {
+    "title": "Interface INFINITY Evolutions: Swarm Governance Specification",
+    "repo": "https://github.com/yoyo967/DIE-LOGIK-UND-DIE-MATRIX",
+    "path": "books/undercover-blackbook"
+  },
+  "publishing_targets": {
+    "ebooks": ["PDF", "EPUB"],
+    "print": "Print-on-Demand (KDP/Lulu)"
+  }
+}
