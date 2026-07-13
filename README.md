@@ -40,7 +40,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 |---|---------|--------|
 | — | **[Prolog: Morpheus Echo — Das Gesetz des absoluten Besitzes](./chapters/00_prolog.md)** | ✅ |
 | I | **[GitHub als Weltgedächtnis](./chapters/01_github-als-weltgedaechtnis.md)** — das digitale Defter, der unzerstörbare Graph, die New World Order des OMM | ✅ |
-| II | **[Die Kathedrale auf dem Sumpf](./chapters/02_die-kathedrale-auf-dem-sumpf.md)** — Gründung des Second Brain, St. Petersburg, die Segnung des Bürgen | ✅ |
+| II | **[Die administrative Topographie & Account-Architekturen](./chapters/02_administrative-topographie.md)** — die Grenzen im Weltgedächtnis, die Verfassung des Enterprise, das Gesetz der souveränen Endpunkte | ✅ |
 | III | *(in Arbeit)* | 🚧 |
 | IV | *(in Arbeit)* | 🚧 |
 | V | **[Das Fünfte Element — Deep Idle, Blockbuster-Sci-Fi & die souveräne Runtime der AGI](./chapters/05_das-fuenfte-element-und-die-agi.md)** | ✅ |
