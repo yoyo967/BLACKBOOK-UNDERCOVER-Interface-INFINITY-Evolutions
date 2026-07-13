@@ -6,6 +6,10 @@ __pycache__/
 .idea/
 .vscode/
 node_modules/
-dist/
-build/
 .DS_Store
+
+# Generierte Build-Ausgaben (NICHT das build/-Tooling!)
+dist/
+site/
+_site/
+site-src/

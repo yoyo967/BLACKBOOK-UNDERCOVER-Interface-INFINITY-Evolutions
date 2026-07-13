@@ -1,0 +1,74 @@
+name: Build Book (PDF + EPUB)
+
+# Baut das Buch bei Push auf main, manuell (workflow_dispatch) und bei Version-Tags (vX.Y.Z → Release).
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # fuer Release-Erstellung bei Tags
+
+concurrency:
+  group: build-book-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kapitel kompilieren (chapters/ → dist/compiled_book.md)
+        run: python build/build_book.py
+
+      - name: Pandoc + XeLaTeX + Schriften installieren
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc texlive-xetex texlive-fonts-recommended texlive-lang-german fonts-noto-core
+
+      - name: EPUB erzeugen (robust)
+        run: |
+          pandoc dist/compiled_book.md \
+            --metadata-file=build/pandoc-metadata.yaml \
+            --resource-path=.:build \
+            --toc \
+            -o "dist/BLACKBOOK-UNDERCOVER-Band1.epub"
+
+      - name: PDF erzeugen (XeLaTeX)
+        run: |
+          pandoc dist/compiled_book.md \
+            --metadata-file=build/pandoc-metadata.yaml \
+            --resource-path=.:build \
+            --toc \
+            --pdf-engine=xelatex \
+            -V mainfont="Noto Serif" \
+            -o "dist/BLACKBOOK-UNDERCOVER-Band1.pdf"
+
+      - name: Artefakte hochladen (PDF · EPUB · Markdown)
+        uses: actions/upload-artifact@v4
+        with:
+          name: blackbook-band1
+          path: |
+            dist/BLACKBOOK-UNDERCOVER-Band1.pdf
+            dist/BLACKBOOK-UNDERCOVER-Band1.epub
+            dist/compiled_book.md
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Release veröffentlichen (nur bei Version-Tag vX.Y.Z)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          name: "BLACKBOOK UNDERCOVER ${{ github.ref_name }}"
+          files: |
+            dist/BLACKBOOK-UNDERCOVER-Band1.pdf
+            dist/BLACKBOOK-UNDERCOVER-Band1.epub

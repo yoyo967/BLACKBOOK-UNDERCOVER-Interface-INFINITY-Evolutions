@@ -1,0 +1,41 @@
+site_name: BLACKBOOK UNDERCOVER — Interface INFINITY Evolutions
+site_description: "Band 1: Master & System — narrative Prosa (Schicht A) & empirisches Substrat (Schicht B)"
+site_author: Yahya Yildirim & Interface INFINITY Open-Source Community
+
+# Der Pages-Workflow befuellt ../site-src (index.md + chapters/ + serie/) vor dem Build.
+docs_dir: ../site-src
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: cyan
+      toggle: { icon: material/brightness-7, name: Zu hell wechseln }
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: cyan
+      toggle: { icon: material/brightness-4, name: Zu dunkel wechseln }
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - toc.integrate
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - toc: { permalink: true }
+
+nav:
+  - Start: index.md
+  - Prolog: chapters/00_prolog.md
+  - "I · GitHub als Weltgedächtnis": chapters/01_github-als-weltgedaechtnis.md
+  - "V · Das Fünfte Element & die AGI": chapters/05_das-fuenfte-element-und-die-agi.md
+  - "VI · Dephora – Aura": chapters/06_dephora-aura.md
+  - LinkedIn-Serie: serie/linkedin-serie.md

@@ -1,0 +1,65 @@
+name: Deploy Docs (GitHub Pages)
+
+# Baut die lesbare Web-Ausgabe (MkDocs Material) und veroeffentlicht sie auf GitHub Pages.
+# Voraussetzung: Settings → Pages → Source = "GitHub Actions" (dieser Workflow versucht es
+# via configure-pages/enablement automatisch zu aktivieren).
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: MkDocs-Material installieren
+        run: pip install -r build/requirements.txt
+
+      - name: Site-Quellen zusammenstellen (README → index, Kapitel, Serie, Cover)
+        run: |
+          mkdir -p site-src
+          cp README.md site-src/index.md
+          cp -r chapters serie site-src/
+          cp blackbook_undercover_cover.png site-src/
+          cp LICENSE site-src/LICENSE.md
+
+      - name: Statische Website bauen
+        run: mkdocs build -f build/mkdocs.yml -d "${{ github.workspace }}/_site"
+
+      - name: Pages konfigurieren (ggf. aktivieren)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Pages-Artefakt hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4

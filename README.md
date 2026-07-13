@@ -10,6 +10,12 @@
 [![GCP - Vertex AI](https://img.shields.io/badge/GCP-Vertex%20AI-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
 [![Status - In Arbeit](https://img.shields.io/badge/Status-In%20Arbeit-orange?style=for-the-badge)](#globales-inhaltsverzeichnis)
 
+[![Build Book](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/build-book.yml/badge.svg)](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/build-book.yml)
+[![Deploy Docs](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml)
+
+> 📘 **[Strategisches Briefing](./docs/STRATEGISCHES-BRIEFING.md)** — IST-Zustand, SystemPlan, Masterplan & GitHub-Actions-Einführung.
+> ⚙️ **Bauen:** Push auf `main` erzeugt automatisch **PDF + EPUB** (*Actions → Build Book → Artifacts*); ein Tag `vX.Y.Z` schneidet ein **Release**.
+
 > **„Das ist kein Buch. Es ist das physisch ausführbare Skelett einer kommenden Ordnung."**
 
 ---
