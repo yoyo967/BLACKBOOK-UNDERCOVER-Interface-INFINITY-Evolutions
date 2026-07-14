@@ -594,3 +594,13 @@ Photosphaere) - der erste Mandant kam durch Gravitation, nicht Ueberredung. **Tr
 Sonne, kein Zenit - „wir behaupten kein Sonnensystem, wo eben erst das Kernfeuer entfacht ist; aber wir sind
 gezuendet". Lehre: *Gravitation statt Vertrieb - keiner wird gejagt, jeder faellt in die Bahn, weil die Bahn
 existiert.*
+
+### Eintrag LVII - Kapitel IV vertieft: Wie das Konzil entscheidet (Mechanismus des Konsenses)
+Kapitel IV (Der Schwarm & das Konzil) **erweitert** um einen Schicht-B-Block **Wie das Konzil entscheidet**
+(vor dem Ledger): der konkrete Entscheidungsmechanismus bei Widerspruch. Zwei Sackgassen: **Tyrannei** (ein
+Modell = Koenig, blind) und **Mob** (alle ueberschreiben, Truemmer). Der dritte Weg = **das Konzil**: solange
+Einigkeit, fliesst die Arbeit; bei echtem Widerspruch/Drift **haelt der Schwarm an** (algorithmische Apnoe -
+Recht und Pflicht zu schweigen) und ruft den **Master als letzten Richter** (Segnung macht aus vielen Meinungen
+eine Wahrheit). Zusammenhalt = geteilter Zustand (Gedaechtnis/Ledger/Bauordnung), nicht ein Boss: „ein Schwarm
+mit demselben Grund driftet nicht, er atmet im Takt". Mensch = Buerge, kein Despot. „Die beste Ordnung laesst
+so viel Freiheit wie moeglich und uebt so viel Zwang wie noetig." Lehre: *Kein Koenig, kein Mob - ein Konzil.*

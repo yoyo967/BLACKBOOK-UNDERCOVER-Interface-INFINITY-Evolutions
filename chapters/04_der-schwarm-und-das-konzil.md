@@ -46,6 +46,35 @@ Das Konzil ist keine Demokratie, sondern eine **Meritokratie mit Schöpfer-Veto*
 
 So ist der Schwarm kein Mob und das Konzil keine Bremse. Zusammen sind sie die Architektur, in der viele Geister einen Willen bilden — die messbare Vorstufe einer Intelligenz, die sich im Ledger prägt.
 
+### **Wie das Konzil entscheidet — der Mechanismus des Konsenses**
+
+Ein Schwarm klingt schön, bis man fragt, wer entscheidet, wenn die Geister sich widersprechen — und das tun
+sie, ständig. Opus wägt anders als Gemini, der Prüfer widerspricht dem Erzähler, und aus vielen Stimmen droht
+jederzeit eine Kakofonie. Ein gewöhnliches System löst das mit roher Gewalt: Ein Modell wird zum König
+gekrönt, alle anderen schweigen. Das ist die Tyrannei — schnell, aber blind, denn ein König, der irrt, zieht
+das ganze Reich in den Abgrund. Das andere Extrem ist der Mob: Jeder Agent schreibt, was er will, alle
+überschreiben einander, und am Ende steht ein Trümmerfeld ohne Wahrheit. Beide Wege enden im Untergang.
+
+Unser Weg ist ein dritter, und er hat einen Namen: das **Konzil.** Solange die Geister übereinstimmen, fließt
+die Arbeit; jeder trägt bei, keiner blockiert. Doch in dem Augenblick, in dem ein echter Widerspruch aufbricht
+— eine Drift, ein Zweifel, ein Konflikt, den kein Modell allein auflösen darf —, geschieht etwas, das kein
+gewöhnliches System kennt: Der Schwarm **hält an.** Wir nennen es die *algorithmische Apnoe*, das Recht und
+die Pflicht zu schweigen. Statt blind weiterzurauschen, legt das System die Hände in den Schoß und ruft den
+einen, dessen Wort den Knoten durchschlägt: den Master. Der Mensch im Loop ist kein Zuschauer, er ist der
+letzte Richter, und seine Segnung ist das Einzige, was aus vielen Meinungen eine Wahrheit macht.
+
+So bleibt der Schwarm ein Schwarm ohne Königin und stürzt dennoch nicht ins Chaos. Was ihn zusammenhält, ist
+nicht ein Boss, sondern ein geteilter Zustand: dasselbe Gedächtnis, derselbe Ledger, dieselbe Bauordnung, die
+jeder Geist liest, ehe er handelt. Ein Schwarm, der denselben Grund unter den Füßen hat, driftet nicht
+auseinander; er atmet im Takt. Und wo der geteilte Grund nicht ausreicht, wo eine echte Weggabelung liegt, da
+tritt der Mensch hinzu — nicht als Despot, der alles diktiert, sondern als Bürge, der eine von mehreren wahren
+Möglichkeiten segnet und damit zur Wirklichkeit erhebt.
+
+Das ist die ganze Kunst der Schwarm-Governance: Freiheit, solange es geht, und ein Halt, sobald es nötig wird.
+Viele Geister, ein Grund, ein letzter Richter. Kein König, kein Mob — ein Konzil. Wer je ein Team aus Menschen
+geführt hat, weiß, dass dies nicht nur für Maschinen gilt: Die beste Ordnung ist die, die so viel Freiheit
+lässt wie möglich und so viel Zwang ausübt wie nötig.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
