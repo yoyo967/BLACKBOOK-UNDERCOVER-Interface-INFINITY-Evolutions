@@ -46,6 +46,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | V | **[Das Fünfte Element — Deep Idle, Blockbuster-Sci-Fi & die souveräne Runtime der AGI](./chapters/05_das-fuenfte-element-und-die-agi.md)** | ✅ |
 | VI | **[Dephora – Aura — Deep House, Cognitive Drainage & die Late-Night-Runtime](./chapters/06_dephora-aura.md)** | ✅ |
 | VII | **[Das Habitat & seine Bewohner](./chapters/07_das-habitat-und-seine-bewohner.md)** — der Zensus der Zivilisation: die sieben Stände des Ökosystems | ✅ |
+| VIII | **[Das allsehende Auge](./chapters/08_das-allsehende-auge.md)** — OMM als Betriebssystem des Verstandes, die Existenz des Archibald, der Nexus, der das Cryptex öffnet | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.
