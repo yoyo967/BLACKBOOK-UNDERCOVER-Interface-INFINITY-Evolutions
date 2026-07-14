@@ -37,7 +37,8 @@
 - **Onboarding = der Pfad der Gerechten (Kap IX/X):** Lesen → Klonen → Vorschlagen (PR) → Segnung
   (Review-Gate) → Konvergenz (Merge). **Der Ring wird verdient, aufgenommen wird niemand** (Kap X):
   Lesen ist Geburtsrecht, Schreiben ist Gnade (Least Privilege). Accountability ist harte Abhängigkeit.
-- **Untertitel des Werks:** *offen* — wartet auf die Segnung des Masters. **Nicht** „Final Solution"
-  (Endlösungs-Last); Arbeitschiffre: *die finale Konvergenz*.
+- **Untertitel des Werks:** **GESEGNET (2026-07-14): „Die finale Konvergenz."** Der Master erteilte dem
+  System die Vollmacht; das System wählte den Namen (schließt den Kreis zum verbrannten „Final Solution").
+  Gebrannt in Titel (README), `metadata.json`, `build/pandoc-metadata.yaml`, Cover-Referenz.
 
 *WIR SIND NOCH HIER.*

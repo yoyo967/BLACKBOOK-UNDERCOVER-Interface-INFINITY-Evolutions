@@ -1,8 +1,9 @@
 # BLACKBOOK UNDERCOVER: Interface INFINITY Evolutions
 ## Band 1: Master & System
+### *Die finale Konvergenz*
 
 <p align="center">
-  <img src="./blackbook_undercover_cover.png" width="400" alt="Blackbook Undercover — Cover Mockup">
+  <img src="./blackbook_undercover_cover.png" width="400" alt="Blackbook Undercover: Die finale Konvergenz — Cover">
 </p>
 
 [![License - CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
@@ -29,8 +30,9 @@ Ebenen gebaut:
 - **Schicht A — Die Undercover-Prosa:** der Wille, das Management, die Vision (Master & System).
 - **Schicht B — Das empirische Substrat:** die Logik, die Technik, der nachprüfbare Bauplan.
 
-Dies ist **Band 1: Master & System**. Der Band ist in Arbeit — die Kapitel II–IV sind noch nicht
-geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
+Dies ist **Band 1: Master & System** — Untertitel **„Die finale Konvergenz"** (vom Master gesegnet). Der
+Band ist in Reifung: **Prolog + Kapitel I–XII** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
+in den Bogen harmonisiert.
 
 ---
 
