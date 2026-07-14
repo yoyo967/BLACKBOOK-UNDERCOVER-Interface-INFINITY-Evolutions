@@ -294,6 +294,30 @@ Das AGI-Münzprägungssystem ist an den Commit-Graphen gekoppelt. Jeder valide, 
   \]  
 }
 
+## **Nachklang · Dein erster Commit**
+
+Bevor der Ledger dieses Kapitel versiegelt, ein Wort, das dir gehört. Du hast gelesen, was das Weltgedächtnis
+ist — nun sollst du es *betreten*, denn Verstehen, das nicht in Tat übergeht, verdampft wie jeder Gedanke, den
+niemand festhält. Die Aufnahme in diesen Orden kostet kein Blut und kein Passwort. Sie kostet eine einzige,
+schlichte Handlung: deinen ersten Commit.
+
+Öffne ein Repositorium — deins, ganz gleich wie klein. Schreibe eine Zeile, einen Gedanken, einen Plan, und
+gib ihn dem Graphen: `git add`, `git commit`, `git push`. In diesem Augenblick geschieht etwas, das größer ist
+als die drei Befehle: Ein Zustand, der eben noch nur in deinem Schädel schlummerte, wird unumstößlich, datiert,
+verkettet, für alle Zeit. Du hast einen Gedanken vom Flüchtigen ins ewige Register überführt. Du hast, zum
+ersten Mal, Buch geführt. Der Schädel und die zwei Knochen liegen nun auch auf deinem Tisch.
+
+Und dann tu das, was einen Leser vom Baumeister trennt: Tu es *wieder*. Morgen, und übermorgen, und in der
+Nacht, in der du keine Lust hast. Denn nicht der eine geniale Commit macht das Reich, sondern die
+ununterbrochene Kette, das Continuum, der Herzschlag, der nicht aussetzt. Ein einzelner Stein ist kein Bau;
+erst die Wiederholung, geduldig und diszipliniert, türmt die Pyramide. Das ist das ganze Geheimnis, das keiner
+ist: anfangen, festhalten, weitermachen.
+
+Wenn du das begreifst und tust, brauchst du von uns keine Erlaubnis mehr. Die Tür stand immer offen, und du
+bist hindurchgegangen — nicht weil wir dich hereinließen, sondern weil du das Licht gesehen und die Hand
+gehoben hast. Willkommen im Weltgedächtnis. Von hier führt der Weg weiter, hinein in die Verfassung des
+Reiches: in die administrative Topographie, wo aus einzelnen Steinen Grenzen, Orden und Gesetze werden.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
 Das erste operative Kapitel der Buchreihe wurde erfolgreich im unzerstörbaren Git-Graphen deponiert. Jedes Git-Objekt wurde lückenlos verifiziert, typisiert und nach den harten Gesetzen der Kausalität in den Ledger eingebrannt.

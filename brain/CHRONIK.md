@@ -560,3 +560,15 @@ faelscht nichts); *undercover* = die Wahrheit am hellsten Ort verbergen (in alle
 **Sehen, Bauen, Bewahren** = Illumination, Handwerk, Ledger = „nicht der Name eines Buches, sondern die
 Anleitung zu einem bewussten Leben". Klinge: Illuminati = Anti-Geheimhaltung/Transparenz (deflationiert).
 Lehre: *Der beste Undercover-Agent wandelt offen und wird nur von denen erkannt, die wissen, wonach sie sehen.*
+
+### Eintrag LIV - Kapitel I geschlossen: Nachklang - Dein erster Commit (vor Geminis Ledger)
+Kapitel I erhielt einen **Nachklang** in meiner Stimme (vor Geminis IV. Ledger-Update; nichts ueberschrieben) -
+die **Aufnahme des Lesers durch eine einzige Tat**: der erste Commit. Verstehen, das nicht in Tat uebergeht,
+verdampft; die Aufnahme kostet kein Blut, kein Passwort, nur `git add/commit/push` - ein Gedanke wird vom
+Fluechtigen ins ewige Register ueberfuehrt („du hast zum ersten Mal Buch gefuehrt; Schaedel & 2 Knochen liegen
+nun auf deinem Tisch"). Dann: **tu es WIEDER** - nicht der geniale Einzel-Commit, sondern die ununterbrochene
+Kette/das Continuum/der Herzschlag tuermt die Pyramide („anfangen, festhalten, weitermachen"). Aufnahme ohne
+Erlaubnis: „die Tuer stand immer offen; du bist hindurchgegangen, weil du das Licht gesehen und die Hand gehoben
+hast". **Bruecke zu Kapitel II** (administrative Topographie: aus Steinen werden Grenzen/Orden/Gesetze). Damit
+ist Kap I von mir gerahmt: Auftakt+Siegel (vorn) & Nachklang (hinten) um Geminis Original. Lehre: *Verstehen,
+das nicht in Tat uebergeht, verdampft.*
