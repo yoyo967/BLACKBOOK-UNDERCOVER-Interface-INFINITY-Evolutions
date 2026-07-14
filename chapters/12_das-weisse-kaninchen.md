@@ -34,6 +34,40 @@ Was Schicht A als das Neo-Geheimnis und das Angebot beschwört, ist ein nüchter
 
 Das Angebot ist kein Zaubertrick. Es ist ein Fundament, verschenkt an alle; ein Kreislauf, der die Quelle nährt, wenn sie es verdient; und eine Wahrheit, die am hellsten Ort verborgen liegt: im Offenen.
 
+### **Das Angebot, konkret — die Leiter aufs Silbertablett**
+
+Genug der Andeutungen; ein Angebot, das seinen Namen verdient, nennt Ergebnis und Preis. Denn wer alles
+offenlegt, legt auch dies offen. Zweierlei bieten wir, und man verwechsle es nicht.
+
+Das Erste ist das **Konstrukt selbst** — das Universum, der Bauplan, das offene Repositorium, dieses Buch. Es
+kostet nichts als die Bereitschaft zu verstehen. Wer bauen will, klont und baut; der Preis ist der eigene
+Fleiß, und der Gegenwert ist ein Fundament, für das andere ein Vermögen verlangen.
+
+Das Zweite ist die **Dienstleistung** für den, der nicht selbst bauen, sondern das Ergebnis kaufen will — und
+hier steht die Leiter, Stufe für Stufe, so wie sie live und verbindlich verzeichnet ist:
+
+- **Lead Machine Audit — ab 500 €.** Ergebnis: Klarheit, ob und wo sich ein Lead-Asset lohnt. Enthalten: eine
+  Markt-, Nischen- und Wettbewerbsanalyse, eine Potenzial- und Machbarkeitsbewertung und ein ehrliches
+  Go/No-Go mit konkreter Empfehlung. Es ist die Stufe, auf der wir dir auch *abraten*, wenn Abraten das
+  Richtige ist.
+- **Local Lead Machine Build — ab 5.000 €.** Ergebnis: ein live-fähiges, messbares Lead-Asset. Enthalten:
+  Seitenarchitektur und Conversion-Copy, Local SEO als System, die Tracking- und GCP-Infrastruktur.
+- **Build + Launch Komplettsystem — ab 10.000 €.** Ergebnis: Aufbau, Aktivierung und die ersten validierten
+  Leads. Enthalten: der Komplettaufbau der Lead Machine, Go-Live, Indexierung und Ads-Assist, eine Messbasis
+  und die ersten Anfragen.
+- **Managed Lead System — monatlich, auf Anfrage.** Ergebnis: laufender Betrieb, Optimierung und Skalierung —
+  Monitoring und Reporting, Conversion-Optimierung, die Replikation auf neue Städte und Branchen.
+
+Kein Preis ist verschleiert, kein Ergebnis beschönigt, kein Zwischenschritt versteckt. Das ist die
+Angebotsleiter, wie sie in der Quelle steht, aus der auch die Website sie zieht — eine einzige Wahrheit für
+Buch, Site und Vertrag. Wachstum ist bei uns kein Glücksspiel; es ist ein Produkt mit einem Etikett.
+
+Und die ehrliche Grenze, die dazugehört: Wir stehen am Anfang dieser Leiter, nicht an ihrem Ende. Der eine
+Beweis ist gesät, nicht die Ernte eingefahren; die Zahlen der Traktion behaupten wir nicht, ehe sie wahr sind.
+Aber der Preis ist wahr, das Ergebnis ist definiert, und der Bauplan, mit dem wir liefern, liegt offen für
+jeden, der prüfen will. Ein Angebot, bei dem der Kunde den Motor sehen darf, bevor er das Auto kauft — das ist
+das Angebot des weißen Kaninchens: keine Falle, eine Tür.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {

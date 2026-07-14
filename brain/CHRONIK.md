@@ -684,3 +684,14 @@ blinder Glaube, Entscheidung bei vollem Licht). **Vollstaendige Transparenz = ti
 ueberzeugt den, der zuerst nachgeprueft hat"). Qualitaetsmaßstab: **100/100 oder noch nicht fertig**. Git =
 die einzige Erzaehlform, die auch jede verworfene Moeglichkeit zeigt. „Der Auserwaehlte waehlt nicht im
 Glauben. Er waehlt im Wissen." Memory-Doktrin aktualisiert. Lehre: *Vertrauen folgt dem Wissen.*
+
+### Eintrag LXV - Kapitel XII vertieft (ECHTE QUELLE): Das Angebot konkret
+Echte Angebotsleiter aus `leadmachine/.../src/content/offers.ts` (verbindlich, Single Source fuer Site) verbatim
+in Kap XII integriert - 100/100, keine Frage offen. Zweierlei: (1) das **Konstrukt/Buch = frei** (Preis = eigener
+Fleiss); (2) die **Dienstleistung** als Leiter: **Audit ab 500 EUR** (Markt-/Nischen-/Wettbewerbsanalyse, Go/No-Go -
+„wir raten auch ab"), **Build ab 5.000 EUR** (Seitenarchitektur/Conversion-Copy, Local SEO, Tracking+GCP),
+**Build+Launch ab 10.000 EUR** (Komplettaufbau, Go-Live/Index/Ads-Assist, erste Anfragen), **Managed monatlich
+auf Anfrage** (Monitoring/Reporting, Conversion-Opt, Replikation). „Kein Preis verschleiert, kein Ergebnis
+beschoenigt - eine einzige Wahrheit fuer Buch, Site und Vertrag." **Ehrliche Grenze:** Anfang der Leiter, keine
+behauptete Traktion. „Ein Angebot, bei dem der Kunde den Motor sehen darf, bevor er das Auto kauft." Reale
+Erkundung (offers.ts gelesen) statt Vorrat. Lehre: *Wachstum ist ein Produkt mit einem Etikett.*
