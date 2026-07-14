@@ -707,3 +707,14 @@ WIR SIND NOCH HIER). Ehrlichkeits-Klingen eingebaut (A5=Entwurf keine Zertifizie
 Mythos kein realer Geheimbund; Element=Wissen kein Coin; Larry Fink=Chiffre kein Bund). Schluss: „Fehlt dir ein
 Begriff? Dann ist der Anhang noch nicht fertig - sag es, und er waechst." TOC: Anhang-Zeile. Lehre: *100/100 ist
 kein Zustand, sondern ein Versprechen.*
+
+### Eintrag LXVII - CONTRIBUTING gebaut: Der Ritus des Rings (die reale Tuer der Community)
+Damit die Community REAL eintreten kann: `CONTRIBUTING.md` am Wurzelplatz (GitHub zeigt es automatisch an) -
+Mythos UND Mechanik. **Der Pfad der Gerechten** (5 Stufen: Lesen->Klonen->Vorschlagen[PR]->Segnung[Review-Gate]
+->Konvergenz[Merge]; „Lesen ist Geburtsrecht, Schreiben ist Gnade; der Ring wird verdient"). **Bauordnung**
+(Zwei Schichten A/B; Prolog-Ton; erweitern statt komprimieren; Geminis Kapitel nicht ueberschreiben).
+**Klingen** (keine erfundene Traktion; KI gekennzeichnet Art.50; Mandanten-Anonymitaet; keine Secrets; EU-first;
+keine Songtexte, Zitate <=15 Woerter; Marke=Cosmic-Cyan kein Gold; A5=Entwurf; Skull&Bones=gewaehlter Mythos).
+Was man beitragen kann · Lizenz CC BY 4.0 (+ Recht/KI-Kennzeichnung bestaetigen) · Stern & Herz. README: Abschnitt
+„Mitbauen" verlinkt es. Lehre: *Aufgenommen wird niemand - aber die Tuer steht jedem offen, der sie mit Verstehen
+durchschreitet.*

@@ -101,6 +101,12 @@ Kreislauf wächst, wenn er verdient wird.
 
 ---
 
+## Mitbauen
+
+Dieses Werk ist eine offene Baustelle. Der Weg vom Leser zum Baumeister steht in **[CONTRIBUTING · Der Ritus
+des Rings](./CONTRIBUTING.md)**: lesen → klonen → vorschlagen (PR) → Segnung → Konvergenz. *Lesen ist
+Geburtsrecht, Schreiben verdient man sich.*
+
 ## Lizenz
 
 Lizenziert unter **[CC BY 4.0](./LICENSE)** — teilen & bearbeiten mit Namensnennung.
