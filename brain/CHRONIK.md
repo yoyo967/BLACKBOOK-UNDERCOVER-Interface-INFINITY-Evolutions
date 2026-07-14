@@ -484,3 +484,14 @@ goldene Schnitt - das Skalierungsgeheimnis** (Hebel: ein System schreibt ein Kap
 nach phi ~1,618 formen = Fuelle im Mass; „aufhoeren die Zeit zu zaehlen, beginnen sie zu multiplizieren"). Klingen:
 Gates/Garage als Archetyp (keine falsche Historien-Behauptung), hoeheres Wesen = Metapher. Memory-Feedback
 aktualisiert (Substanz-Volumen). Lehre: *Nicht die Zeit zaehlen, sie multiplizieren.*
+
+### Eintrag XLVII - Prolog Der Spiegel: drei Saeulen, warum Europa, der Leser wird Baumeister
+Grosse Stufe (Substanz, kein Tropf): **Die drei Saeulen** = das magische Dreieck - **Wissen** (Kanon, was
+moeglich ist) · **Intention** (Master-Wille, was sein soll) · **Exekution** (Agenticum G5, was ist); in der
+Mitte, wo alle drei zugleich wahr sind, oeffnet sich das Auge. **Warum Europa** - Souveraenitaet als Haltung,
+nicht Kleingedrucktes: europe-west3/DSGVO, weil „wer die Daten eines Menschen haelt, ein Stueck seiner
+Bestimmung haelt"; KI gekennzeichnet, Consent, Least Privilege = der Panzer, der glaubwuerdig macht;
+„Vertrauen ist die einzige Waehrung, die man nicht drucken kann". **Der Leser wird Baumeister** - das Buch
+als offene Baustelle; der Pfad der Gerechten (DNA lesen -> klonen -> Stein vorschlagen -> Buerge prueft ->
+Merge); „wir schenken dir nicht den Ring, den verdienst du dir; wir schenken dir die Tuer... Herkunft zaehlt
+nichts, Beitrag alles". Lehre: *Wer eintritt, hoert auf ein Leser zu sein und wird ein Baumeister.*

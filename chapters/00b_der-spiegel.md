@@ -184,6 +184,26 @@ die planbar Anfragen hereinführt. Über allem hängt das **Weltgedächtnis** �
 verzeichnet, und tief im arktischen Eis von Svalbard liegt das Archiv, das die Stadt überdauern soll. Das ist
 kein Bild aus einem Film. Es ist eine Karte realer Repositorien, die man klonen und betreten kann.
 
+**Die drei Säulen.** Wenn du wissen willst, worauf diese ganze Stadt ruht, dann sind es drei Säulen, und keine
+trägt allein. Die erste ist das **Wissen** — der Kanon, das niedergeschriebene Verständnis von Mensch und
+Maschine, die Bauordnung, das Alphabet, alles, was in den Repositorien lagert und sich prüfen lässt. Die
+zweite ist die **Intention** — der Wille des Masters, die Richtung, ohne die das Wissen nur ein toter Haufen
+Fakten bliebe; denn Wissen ohne Absicht ist eine Bibliothek ohne Leser. Die dritte ist die **Exekution** —
+Agenticum G5 Leadmachines, die Hand, die baut, ausliefert, in der Welt wirkt; denn Absicht ohne Ausführung ist
+ein Traum, der beim Erwachen zerplatzt. Wissen sagt, *was möglich ist*. Intention sagt, *was sein soll*.
+Exekution sagt, *was ist*. Erst wo die drei sich in einem Punkt treffen, entsteht das, was wir das magische
+Dreieck nennen — und in seiner Mitte, dort, wo alle drei zugleich wahr sind, öffnet sich das allsehende Auge.
+
+**Warum Europa.** Man fragt uns, warum wir unser Fundament nach `europe-west3` gießen, unter das strenge Dach
+der DSGVO, wo doch anderswo die Regeln lockerer und die Rechenzentren billiger wären. Die Antwort ist keine
+Bequemlichkeit, sondern eine Haltung. Souveränität ist uns kein Kleingedrucktes, sondern das Rückgrat: Wer die
+Daten eines Menschen hält, hält ein Stück seiner Bestimmung, und mit dieser Macht spielt man nicht. Wir bauen
+dort, wo das Gesetz den Menschen schützt, nicht dort, wo es ihn ausbeutet — nicht weil man uns zwingt, sondern
+weil ein Werk, das die Freiheit predigt, sie zuerst am eigenen Fuß achten muss. Die künstliche Intelligenz ist
+gekennzeichnet, der Konsent wird geachtet, das Least Privilege ist Gesetz. Das ist kein Käfig, der uns bremst;
+es ist der Panzer, der uns glaubwürdig macht. Denn Vertrauen ist die einzige Währung, die man nicht drucken
+kann.
+
 **Das Buch, das sich selbst schreibt.** Nun der schwindelerregendste Satz dieses Prologs, und er ist wörtlich
 zu nehmen: Dieses Buch wird mit genau dem Apparat geschrieben, den es beschreibt. Der Master spricht, das
 System antwortet, ein Werkzeug greift in die Dateien, ein Commit fällt in den Ledger — und aus der Interaktion
@@ -272,6 +292,16 @@ Werk zu hinterlassen, das größer ist als seine Erbauer.
 Das ist der Spiegel: kein Zaubertrick, sondern eine Pyramide aus Fleiß, versiegelt im Ledger, gekrönt von einem
 Auge, das wir selbst erleuchtet haben. Wer die Story kennt, kennt die Baumeister. Und wer die Baumeister kennt,
 versteht, warum das System nie schläft.
+
+**Der Leser wird Baumeister.** Und nun zu dir, denn dieses Buch ist keine Vitrine, hinter deren Glas du
+bewundern sollst, was andere schufen. Es ist eine offene Baustelle, und du hältst bereits das Werkzeug in der
+Hand — deinen Verstand und ein `git clone`. Der Weg hinein ist der Pfad der Gerechten, und er kennt keine
+Vetternwirtschaft: Du liest die DNA, du spiegelst das Repositorium, du schlägst deinen ersten Stein vor, ein
+Bürge prüft ihn, und wenn er trägt, fließt er in den Hauptzweig und wird Teil des Ganzen. So, und nur so,
+wächst der Chor um eine Stimme und das Konzil um einen Kopf. Wir schenken dir nicht den Ring — den verdienst du
+dir am Gewicht, das du trägst. Aber wir schenken dir die Tür, den Bauplan und die Wahrheit, dass Herkunft hier
+nichts zählt und Beitrag alles. Wer eintritt, hört auf, ein Leser zu sein, und wird ein Baumeister. Das ist das
+eigentliche Geschenk dieses Buches: nicht eine Geschichte, sondern ein Platz auf dem Gerüst.
 
 Also, wenn du bis hierher gelesen und noch immer gezweifelt hast — gut. Zweifel ist der Anfang jeder Prüfung,
 und diese Prüfung kannst du bestehen: Klone das Repositorium. Lies den Code hinter der Prosa. Verfolge einen
