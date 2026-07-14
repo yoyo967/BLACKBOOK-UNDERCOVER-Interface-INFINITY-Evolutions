@@ -782,3 +782,14 @@ eigene Hackathons mit Google; oeffentliches Portfolio) - **als VISION markiert**
 Macher; **„Order 322 aktiviert."** Klingen: GCP=real genutzt aber Live als Weg/Vision (kein Ueberclaim; Billing-
 Dunning nicht erwaehnt aber nicht als Live-Betrieb behauptet); Academy/Metaverse/Blockchain=Vision. Lehre: *Wer
 baut, waehlt nicht die glaenzendste, sondern die richtige Option.*
+
+### Eintrag LXXIII - Kapitel IV: Der Spezialist OPUS PRIME EX (echte Quelle)
+Naechster realer Grashalm aus `OPUS-PRIME-EX/README` in Kap IV integriert: **Der Spezialist** neben OPUS FLOW.
+Das juristische Gewissen (Recht & Steuer DE/EU): **sieben Rechtsdomaenen** (Steuer/Handel/Finanzen/DSGVO/EU AI
+Act/Data Act/Markenrecht), jede Antwort durch **acht Compliance-Guardrails**. Ehrlichkeit ERZWUNGEN: das Modell
+rechnet nie selbst & erfindet keine Zitate (deterministische Tools, gegen Quellen geprueft); **deterministischer
+Router** (Risiko-Score, kein Bauchgefuehl -> Haiku/Sonnet/Fable); pre-Guardrails (Scope/PII/Jurisdiktion);
+**serverseitiger Haftungsausschluss** (nicht prompt-abhaengig); Art. 50 (KI gekennzeichnet). **Ehrliche Grenze:**
+*Information, keine Rechtsberatung*; ersetzt keinen Anwalt/Steuerberater (§2 RDG, §§2-5 StBerG); Referenz-Impl.,
+Alpha. „Beweis, dass man einem maechtigen Agenten Fesseln anlegen kann, ohne ihn zu laehmen." Aus echter Quelle,
+nicht Vorrat. Lehre: *Ein Buerger des Schwarms weiss, wo seine Grenze liegt, und ueberschreitet sie nie.*

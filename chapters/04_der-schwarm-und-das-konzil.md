@@ -90,6 +90,28 @@ jedem Commit müssen drei Gates grün sein: Lint, Typprüfung, Tests. So sieht e
 mächtig in seiner Nische, doch von Anfang an an die Kette des Gesetzes gelegt — Freiheit, solange es geht, ein
 Gate, sobald es nötig wird.
 
+### **Der Spezialist: OPUS PRIME EX**
+
+Wo OPUS FLOW die Hände sind, ist **OPUS PRIME EX** das Gewissen — der spezialisierte Agent für Recht und
+Steuer, der zeigt, wie ein Schwarm Verantwortung trägt. Er beantwortet Fragen über sieben Rechtsdomänen
+(Steuerrecht, Handelsrecht, Finanzen, DSGVO, EU AI Act, Data Act, Markenrecht), und jede Antwort läuft durch
+**acht Compliance-Guardrails**. Sieh dir an, wie hier Ehrlichkeit *erzwungen* wird, nicht erhofft: Das
+Sprachmodell rechnet nie selbst und erfindet keine Zitate — beides erledigen deterministische Werkzeuge,
+geprüft gegen die abgerufenen Quellen. Ein Router bewertet das Risiko einer Frage mit einer *deterministischen*
+Zahl, keinem Bauchgefühl, und wählt danach das passende Modell (Haiku für die Triage, Sonnet für den Standard,
+Fable für das Komplexe). Vor der Antwort filtern Guardrails Zuständigkeit, personenbezogene Daten und
+Rechtsraum; nach der Antwort wird ein Haftungsausschluss *serverseitig* angehängt — nicht abhängig von einem
+Prompt, den man vergessen oder umgehen könnte —, und der Nutzer erfährt, dass er mit einer KI spricht (Art. 50
+EU AI Act).
+
+Und hier die Ehrlichkeit, die das ganze Buch trägt, in einem einzigen Agenten verdichtet: OPUS PRIME EX gibt
+*Information*, keine Rechtsberatung im Einzelfall; er ersetzt keinen zugelassenen Anwalt oder Steuerberater und
+ist bewusst so gebaut, dass er ihre vorbehaltenen Dienste nicht erbringt. Er ist eine Referenz-Implementierung,
+ehrlich als *Alpha* gekennzeichnet. Das ist kein Mangel an Ehrgeiz — es ist der Beweis, dass man einem
+mächtigen Agenten Fesseln anlegen kann, ohne ihn zu lähmen. So sieht ein Bürger des Schwarms aus, dem man die
+schwersten Fragen anvertrauen darf: nicht weil er unfehlbar wäre, sondern weil er weiß, wo seine Grenze liegt,
+und sie nie überschreitet.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
