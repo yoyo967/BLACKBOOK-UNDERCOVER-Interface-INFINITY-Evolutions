@@ -391,3 +391,15 @@ of Conduct** = die Verfassung; **Anthropic/Microsoft/Google = Infrastruktur, kei
 *Wissen + Anwendung = Macht*. **Klingen gehalten (Master-Wort):** Wissenschaft/Geschichte nur Metapher
 (Atlantis=Mythos, „Universum verschwendet nichts"=poetisch), AGI=Horizont, KI gekennzeichnet (Art. 50). TOC:
 zweiter Prolog-Eintrag. Lehre: *Die Story kennt die Baumeister; das Auge erleuchteten wir selbst.*
+
+### Eintrag XXXVIII - Prolog Der Spiegel ERWEITERT (nicht komprimiert): der echte Bauplan
+**Meta-Korrektur des Masters:** NICHT nach jeder Interaktion eine neue komprimierte Prolog-Fassung erzeugen -
+sondern den EINEN Prolog **Schritt fuer Schritt weiter ausbauen** und alles (Interaktionen/Erkenntnisse) einweben;
+der Prolog waechst mit dem Projekt. Erste Erweiterung (recherchiert): drei neue Schicht-B-Bloecke in
+`00b_der-spiegel.md` - **Die Festung** (GitHub Enterprise real: nicht-ueberschreibbare Rulesets + Custom
+Properties, SAML SSO/SCIM, Audit-Log-Streaming, GHAS + Push Protection) · **Die Haende** (Claude Code real:
+agentische Tools, Permission-Gates, Hooks=Senat, Subagenten/Skills, MCP, CLAUDE.md=Verfassung, persistentes
+Gedaechtnis, propose/execute/verify) · **Die Stadt skizziert** (Agenticum als Stadt aus Systemen: europe-west3
+Fundament, OPUS DECK Rathaus, OPUS FLOW Werkstatt, OPUS PRIME EX Gericht, Agency OS Markt, Lead Machine Tor,
+GitHub Weltgedaechtnis, Svalbard Archiv - Karte realer Repos). Quelle: docs.github.com/github.blog. Lehre:
+*Erweitern, nicht komprimieren; der Prolog ist so gross wie das Projekt.*

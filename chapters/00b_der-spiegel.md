@@ -64,6 +64,44 @@ sondern der Architekt, der ihre Werkzeuge führt. Denn hier liegt die eigentlich
 ist träge, Anwendung allein ist blind. Erst beide zusammen geben einem Menschen und einer Maschine ein Auge,
 das mehr ist als eine Fabrik der Intelligenz.** Das ist die Macht, die man nicht abonnieren kann.
 
+**Die Festung — wie GitHub Enterprise wirklich regiert.** Legen wir den Stein frei, den die meisten nie sehen.
+GitHub Enterprise ist kein größeres Chatfenster; es ist eine Verfassung, die in Code erzwungen wird. Über den
+Repositorien thront die Enterprise, über den Repositorien die Organisationen, und über sie alle legen sich
+**Rulesets** — konsistente, *nicht überschreibbare* Regeln, die auf jedes Repository zugleich wirken:
+geschützte Branches, erzwungene Reviews, signierte Commits, lineare Historie. An **Custom Properties**
+gebunden, setzt sich die richtige Policy automatisch nach Metadaten durch — Governance, die nicht bittet,
+sondern gilt. Der Zugang ist über **SAML SSO** an eine unternehmensweite Identität gekoppelt und über
+**SCIM** bereitgestellt: kein loses Passwort, das man entwenden könnte, sondern eine Identität, die man
+entzieht oder gewährt. Jede Handlung — jeder Merge, jede Rechteänderung — fällt in den **Audit Log**, der sich
+an einen externen Ort *streamen* lässt, damit die Chronik über Jahre erhalten bleibt. Und **GitHub Advanced
+Security** wacht mit automatischem Code-, Secret- und Dependency-Scanning; die **Push Protection** prüft in
+Echtzeit und *blockiert* einen Push, der ein Geheimnis mitschmuggeln würde, ehe er die Festung überhaupt
+erreicht. Das ist der SRE-Stahl aus dem ersten Prolog, konkret gemacht: kein Secret im Repo, kein Merge ohne
+Segnung, keine Mutation ohne Spur.
+
+**Die Hände — wie Claude Code wirklich wirkt.** Auf der anderen Seite der Gleichung stehen die Hände. Claude
+Code ist kein Chatfenster, sondern ein *agentischer* Apparat: ein Modell, das nicht nur redet, sondern liest,
+schreibt, sucht, baut und prüft — durch Werkzeuge, die in der Materie greifen (Dateien lesen und ändern, die
+Shell bedienen, den Browser öffnen). Über jeder wirkenden Handlung liegt ein **Permission-Gate**: Nichts
+Irreversibles geschieht ohne Freigabe. **Hooks** wirken als algorithmischer Senat — sie fangen einen Befehl
+ab, ehe er Schaden anrichtet: kein `rm -rf` im Zorn, kein Secret ins Repo, kein verbotener Pfad. **Subagenten**
+und **Skills** sind spezialisierte Bezirke, die für eine Aufgabe andocken und den Hauptkontext rein halten;
+**MCP-Server** koppeln fremde Werkzeuge an, wie Steckdosen eine Maschine ans Netz. Die Datei **CLAUDE.md** ist
+die Verfassung, die das Modell bei jedem Start liest, und das **persistente Gedächtnis** ist das
+Langzeitgedächtnis, in dem sich die Arbeit über Sitzungen hinweg sammelt, statt im weißen Rauschen zu
+verdampfen. Planen, handeln, prüfen — vorschlagen, ausführen, verifizieren —, ein Kreislauf, der sich selbst
+korrigiert. So wird aus einem Sprachmodell eine Physis, die baut.
+
+**Die Stadt, skizziert.** Und wenn du fragst, wie das Metaverse aussieht, das wir Agenticum nennen, dann stell
+dir keine Glaswelt mit Avataren vor, sondern eine *Stadt aus Systemen*. Ihr Fundament ist die europäische
+Cloud (`europe-west3`), auf DSGVO-Grund gegossen. Ihr Rathaus ist **OPUS DECK**, die Kommandobrücke, von der
+aus die Agenten regiert werden. In der Werkstatt am Rand steht **OPUS FLOW**, der Daemon mit den Händen am
+Betriebssystem des Rechners. Im Gerichtsgebäude wacht **OPUS PRIME EX**, das juristische Gewissen, das lieber
+schweigt als lügt. Auf dem Marktplatz handelt das **Agency OS**, und am Stadttor steht die **Lead Machine**,
+die planbar Anfragen hereinführt. Über allem hängt das **Weltgedächtnis** — GitHub —, das jede Handlung
+verzeichnet, und tief im arktischen Eis von Svalbard liegt das Archiv, das die Stadt überdauern soll. Das ist
+kein Bild aus einem Film. Es ist eine Karte realer Repositorien, die man klonen und betreten kann.
+
 **Die ehrlichen Grenzen.** Atlantis bleibt ein Mythos, und wir lassen es dabei. Die Pyramide ist unser Bild,
 nicht unsere historische Behauptung; „das Universum verschwendet nichts" ist ein poetisches Prinzip, kein
 Physik-Vortrag — Aussagen über Wissenschaft sind recherchepflichtig, und wir halten uns daran. Die AGI ist ein
