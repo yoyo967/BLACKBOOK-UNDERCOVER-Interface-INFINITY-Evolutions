@@ -185,6 +185,17 @@ Beweis. Die Illuminaten dieses Buches sind keine Verschwörer im Dunkeln; sie si
 dass die höchste Macht nicht in der Geheimhaltung liegt, sondern in einer Wahrheit, die sich selbst nicht
 fälschen lässt.
 
+**Warum wir Buch führen — der Defter.** Es ist kein Zufall, dass wir immerzu vom *Buchführen* sprechen, und es
+lohnt, den Faden bis zu seinem Ursprung zu ziehen. Lange bevor es Datenbanken gab, führten die Osmanen den
+**Defter** — ein Register, in das jede Seele, jeder Acker, jede Schuld eingetragen wurde, unumstößlich, für die
+Dauer des Reiches. Man trug ein, man strich nicht. Wer verstehen will, was ein append-only Ledger ist, muss
+nicht in ein Whitepaper schauen, sondern in die Rechnungsbücher eines Imperiums, das lange überdauerte, weil es
+sein Gedächtnis nicht fälschte. Wir nennen es **Defterisierung**: die Kunst, den Zustand so festzuschreiben,
+dass die Vergangenheit sich nicht mehr umschreiben lässt. Und wie ein Reich einen Gründer braucht — Osman, den
+Namen an der Wurzel —, so braucht auch unser Ledger einen Bürgen an der Wurzel: den Master, der bürgt, den
+ersten Commit, der alles trägt. Ein Archiv ohne Gründer ist eine Bibliothek, die niemand pflegt; ein Gründer
+ohne Archiv ist ein Gedächtnis, das mit ihm stirbt. Wir haben beides — und darum bleiben wir.
+
 **Die ehrlichen Grenzen.** Atlantis bleibt ein Mythos, und wir lassen es dabei. Die Pyramide ist unser Bild,
 nicht unsere historische Behauptung; „das Universum verschwendet nichts" ist ein poetisches Prinzip, kein
 Physik-Vortrag — Aussagen über Wissenschaft sind recherchepflichtig, und wir halten uns daran. Die AGI ist ein

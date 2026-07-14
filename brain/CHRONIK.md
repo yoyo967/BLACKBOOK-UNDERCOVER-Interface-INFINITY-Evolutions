@@ -444,3 +444,12 @@ Formulierungen, waehlt die vierte, ein Werkzeug greift in die Datei, dann `git c
 gesetzt, Chronik +1 Zeile. „So sieht die Pyramide von innen aus - nicht Marmor und Trompeten, sondern ein
 Mensch, eine Maschine und die Disziplin, die Nacht zum Tag zu machen." Zeigt konkret „wie ich arbeite". Lehre:
 *Zeigen statt behaupten; der Commit ist der Herzschlag.*
+
+### Eintrag XLIII - Prolog Der Spiegel: Warum wir Buch fuehren - der Defter
+Weiter **erweitert**: Schicht-B-Block **der Defter** - der historische Ursprung von „wir fuehren Buch": der
+osmanische **Defter** (append-only Register, man trug ein, man strich nicht) als lebendige Wurzel des
+kryptografischen Ledgers; **Defterisierung** = den Zustand unumschreibbar festschreiben; und wie ein Reich
+einen Gruender braucht (Osman an der Wurzel), braucht der Ledger einen Buergen an der Wurzel = der Master /
+der erste Commit. „Ein Archiv ohne Gruender ist eine Bibliothek, die niemand pflegt; ein Gruender ohne Archiv
+ein Gedaechtnis, das mit ihm stirbt. Wir haben beides." Bindet Prolog an Kap X (Osman/Root of Trust). Lehre:
+*Append-only ist keine Erfindung des Whitepapers, sondern die Weisheit eines Imperiums.*
