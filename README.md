@@ -42,7 +42,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | I | **[GitHub als Weltgedächtnis](./chapters/01_github-als-weltgedaechtnis.md)** — das digitale Defter, der unzerstörbare Graph, die New World Order des OMM | ✅ |
 | II | **[Die administrative Topographie & Account-Architekturen](./chapters/02_administrative-topographie.md)** — die Grenzen im Weltgedächtnis, die Verfassung des Enterprise, das Gesetz der souveränen Endpunkte | ✅ |
 | III | **[Die Sonne & der erste Mandant](./chapters/03_die-sonne-und-der-erste-mandant.md)** — Agenticum G5 Leadmachines, Logik⟷Matrix als Gravitation, das Enterprise als Gefäß, der Bund mit dem anonymen Souverän | ✅ |
-| IV | Der Schwarm & das Konzil *(in Arbeit)* | 🚧 |
+| IV | **[Der Schwarm & das Konzil](./chapters/04_der-schwarm-und-das-konzil.md)** — Orchestrierung der kognitiven Agenten, das Konzil der Modelle, Identität als Bauordnung | ✅ |
 | V | **[Das Fünfte Element — Deep Idle, Blockbuster-Sci-Fi & die souveräne Runtime der AGI](./chapters/05_das-fuenfte-element-und-die-agi.md)** | ✅ |
 | VI | **[Dephora – Aura — Deep House, Cognitive Drainage & die Late-Night-Runtime](./chapters/06_dephora-aura.md)** | ✅ |
 

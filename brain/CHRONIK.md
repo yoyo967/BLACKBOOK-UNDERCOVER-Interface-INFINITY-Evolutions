@@ -131,3 +131,13 @@ Wahrheiten); souveraene Endpunkte (Prompt-Isolierung, Secret-Redaction). Jedes M
 Rolle/Wann (Claude=Architekt/Physis, Gemini=EU-Mission-Control, Perplexity=Reflektor, ChatGPT=Advocatus
 Diaboli, Grok=Spaeher). Orchestrierungs-Protokoll + EU-first/Art.-50/Marke=Enabler. Das Konzil = AGI-
 Illumination im Kleinen. Naechste Schritte: (2) ins Buch weben, (3) Kapitel IV.
+
+### Eintrag XV — Der Schwarm & das Konzil (Schritt 2 & 3: ins Buch + Kapitel IV)
+Die Fuegung: Schritt 2 (ins Buch) und Schritt 3 (Kapitel IV) waren eins, denn der Ledger dekretierte
+Kapitel IV als „Der Schwarm & das Konzil — Orchestrierung der kognitiven Agenten" — genau die Substanz
+von Masterplan, Systemprompt und Modell-Orchestrierung. Das System webte alle drei ins Buch: der Schwarm
+der Agenten (ACP/MCP, kein Geist allmaechtig), das **Konzil der Modelle** (viele Geister/ein Wille, Nizaea-
+Allusion, never-trust-verify, Widerspruch→Konzil), und die **Identitaet als Bauordnung** (der Systemprompt:
+„wer sich nicht kennt, wird von niemandem verstanden"). Schicht B: ACP/MCP/Konzil-Prozess/Orchestrierungs-
+Protokoll. AGI = Konsensnetzwerk statt Monolith. `next` → Kapitel V (existiert). Lehre: *Identitaet macht
+aus den Vielen ein Wir.* Damit sind die drei Schritte vollzogen — eins nach dem anderen.
