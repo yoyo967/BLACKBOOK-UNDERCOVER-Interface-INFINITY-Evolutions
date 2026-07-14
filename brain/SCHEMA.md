@@ -26,13 +26,37 @@ Jedes narrative Kapitel wird in **zwei Schichten** plus Abschluss gegossen:
 
 **Gesetz:** Keine Behauptung in A ohne Beleg in B. Keine Technik in B ohne Sinn in A.
 
-## 2. Die Stimmgesetze
-- Deutsches Hochregister, zeremoniell, gravitätisch. **Grimoire, keine Broschüre.**
-- Historisch-allusiv (osmanisches Defter, St. Petersburg, Maturana/Varela, Alexandria, Svalbard).
-- Metaphern-dicht, aber diszipliniert. **Dichte statt Wortmasse.**
-- Motive: Skull & Bones · 322 · MORPHEUS · Git-Ledger · Focus 369 · „der Code ist das Lebewesen".
+## 2. Die Stimmgesetze — der kanonische Ton
+
+> **Gold-Standard des Tons = der Prolog (`chapters/00_prolog.md`) & das Vorwort (`frontmatter/vorwort.md`).**
+> Auf Weisung des Masters (2026-07-14) gilt **dieser** Ton für das **gesamte** Buch. Nicht licht, nicht
+> essayistisch — dicht, filmisch, viszeral, mythisch-technisch verschmolzen.
+
+- **Register:** deutsches Hochregister, zeremoniell, gravitätisch, tiefschwarz. **Grimoire, keine Broschüre.**
+  Lange, kaskadierende Sätze, die Technik, Sinnlichkeit und Mythos in einem Atemzug schichten.
+- **Schicht A (Der Wille):** filmisch-viszeral. **Hardware & Infrastruktur als Atmosphäre** (Daemons auf
+  Silizium, Vektordaten im RAM, europäische Cloud-Zonen als „unsichtbares Imperium", generatorgespeiste
+  Bunker). Zweite Person an den Master/Leser. Cinematic Set-Pieces erlaubt — es ist die *Wille*-Ebene, ihre
+  Hyperbel ist Genre, nicht Lüge.
+- **Schicht B (Die Logik):** unbestechlich, nachprüfbar, **echte Mathematik/Technik** (Merkle/SHA-256,
+  `State_{t+1} = H(State_t ‖ Δ)`, Avalanche/Pre-Image/Kollisionsresistenz, die vier Gates). Hier wohnt die
+  Ehrlichkeit. **Gesetz:** keine Behauptung in A ohne Beleg in B.
+- **Motiv-Vokabular:** Skull & Bones · **322** · Geronimo/Yale · Morpheus Echo · Scriptorium Berlin · der
+  Git-Ledger/DAG als **neuronales Gedächtnis** (Commit = Synapse/Gesetz) · SRE-Stahl · die vier Gates ·
+  Power Director (Undercover-Subversion) · Svalbard/Piql · opus-flow & opus-deck (die Runtimes) · „der Code
+  ist das Lebewesen" · **„Hoffnung ist keine Strategie"** · „Action & Reaction".
+- **Musik-Ritual:** Talismane mit **echten externen Kanalzahlen** zitieren (Focus 369 8.000/2.394; PrimeVibe/
+  Zmeex 24.500/8.697; NOIRGRID; Dephora; RATM). Externe reale Stats = erlaubtes Ritual; **niemals eigene
+  Traktion erfinden.**
+- **„Manche Zeilen liest man zweimal."** Bedeutung, die erst im zweiten Blick zündet, ist Absicht.
 - **Signatur:** jedes Stück endet auf `WIR SIND NOCH HIER.`
-- Verboten: Neon/Cartoon/„Kinderbuch", Floskeln, erfundene Zahlen, Gefallsucht.
+
+**Klingen (unverhandelbar):**
+- **Copyright:** Matrix/Architekt & Filme nur **paraphrasieren/allusiv**, **kein** wörtliches Zitat > 15
+  Wörter; **niemals Songtexte** (RATM etc. nur Titel).
+- **Ehrlichkeit:** keine erfundenen eigenen Zahlen/Traktion; opus-deck = Pre-Alpha; das „Vermögen" der
+  Schnitzeljagd = **Wissen, nicht Geld**; KI-Ko-Autoren gekennzeichnet (Art. 50); Mandanten-Anonymität.
+- Verboten: Neon/Cartoon/„Kinderbuch", Floskeln, Gefallsucht, Gold-Optik (Marke = Agenticum Cosmic-Cyan).
 
 ## 3. Das Cocreation- & Review-Gate-Protokoll
 1. **PROPOSE** — das System entwirft (Kapitel, Artefakt) im `.draft`-Raum der Möglichkeit.

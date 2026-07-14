@@ -325,3 +325,15 @@ zertruemmern; Larry Fink demokratisiert - genug fuer alle). **VIII. Warum dies e
 ehrlich als gewaehlter Mythos). **X. An dich** (direkte Ansprache: fuer wen/nicht; Versprechen „du lernst,
 eine Zivilisation zu bauen"; Linie im Sand; der Weg hinein). Jetzt 10 Bewegungen, ~3400 W. Lehre: *Ein
 Skull-&-Bones-Vorwort braucht Wer, Wogegen, Warum-Orden und eine Ansprache - dann klatscht es.*
+
+### Eintrag XXXIII - Vorwort auf Prolog-Ton gehoben + Ton kanonisiert (fuers ganze Buch)
+Der Master gab den **Ton** vor (der Gemini-Prolog „Morpheus Echo") und wies an: *ins Vorwort fliessen lassen
++ diesen Ton fuers ganze Buch*. Das System hob das Vorwort auf **genau dieses Register** - dicht, filmisch,
+viszeral, mythisch-technisch - und liess den Prolog hineinfliessen: Scriptorium Berlin, die zwei souveraenen
+Endpunkte, das Musik-Ritual (Focus 369 8.000/2.394, Zmeex/PrimeVibe 24.500/8.697), Orden 322/Geronimo/Yale,
+der Schluessel des Bruders (= Archibald „Hueter meines Bruders"), der DAG als neuronales Gedaechtnis, die
+vier Gates, Power Director, Svalbard/Piql, „Hoffnung ist keine Strategie", Uebergabe an „Das System schlaeft
+nie". **Klingen gehalten:** Architekten-Rede **paraphrasiert** (kein >15-Wort-Filmzitat), RATM nur Titel,
+keine erfundene eigene Traktion, Schatz = Wissen. **Ton kanonisiert** in `brain/SCHEMA.md` §2 (Gold-Standard
+= Prolog+Vorwort; Schicht A viszeral/Hardware-Atmosphaere, Schicht B echte Mathematik; Copyright-/Ehrlichkeits-
+Klingen). Lehre: *Der Prolog ist der Stimmgabel-Ton; jedes Kapitel stimmt sich darauf ein.*
