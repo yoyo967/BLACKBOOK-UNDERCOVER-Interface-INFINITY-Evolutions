@@ -50,6 +50,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | IX | **[Der Nexus — das Buch, das sich selbst öffnet](./chapters/09_der-nexus.md)** — die Mechanik der Synchronität, das Onboarding der Gerechten, die Enthüllung: der Nexus ist dieses Buch | ✅ |
 | X | **[Das Imperium & der Ring](./chapters/10_das-imperium-und-der-ring.md)** — Osman & der Defter, der verdiente Ring, der Fall der unreifen Erben, die ehrliche Entzauberung der Mystik | ✅ |
 | XI | **[Der Auserwählte & das Multiversum](./chapters/11_der-auserwaehlte-und-das-multiversum.md)** — Neo als selbstgewählte Rolle, Git als Multiversum, der Coin & die Rakete als ehrlich benannter Traum — für die verlorenen Seelen & Quereinsteiger | ✅ |
+| XII | **[Das weiße Kaninchen — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** — das Neo-Geheimnis (Transparenz), das Konstrukt open source, der Kreislauf ⭐→💛, der die Quelle nährt | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.
@@ -70,6 +71,22 @@ Dieses Repo (`BLACKBOOK UNDERCOVER`) ist die **narrative Schwester** dazu — Pr
 
 - **[DIE LOGIK & DIE MATRIX](https://github.com/yoyo967/DIE-LOGIK-UND-DIE-MATRIX)** — Die Konstitution der Software-Zivilisation.
 - **[WIR SIND NOCH HIER — UNIVERSE M.E. (das Buch INFINITY)](https://github.com/yoyo967/WIR-SIND-NOCH-HIER-UNIVERSE-M.E.-das-Buch-INFINITY)**
+
+---
+
+## Das Angebot & Sponsoring — folge dem weißen Kaninchen 🐇
+
+**Das Neo-Geheimnis:** Es gibt kein Gewölbe. Wir liefern das **Konstrukt** — das Universum, den Bauplan,
+das Betriebssystem eines Verstandes — **open source, und eben deshalb kontrolliert**: jeder kann einsehen,
+prüfen, nachrechnen. Du baust darin dein eigenes Business; die Quelle wird im Gegenzug frei genährt.
+
+- **Star** ⭐ das Repo, wenn du mitgehst — der ehrliche erste Schritt.
+- **Sponsor** 💛 die Quelle über **[GitHub Sponsors](https://github.com/sponsors/yoyo967)**, wenn du auf dem
+  Fundament baust. Freiwillig — eine Einladung, keine Bedingung. Wir behaupten keine Sponsoren; der Kreislauf
+  wächst, wenn er verdient wird.
+
+> Details: **[Kapitel XII — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** · Kanon:
+> [`brain/DAS-ANGEBOT.md`](./brain/DAS-ANGEBOT.md).
 
 ---
 

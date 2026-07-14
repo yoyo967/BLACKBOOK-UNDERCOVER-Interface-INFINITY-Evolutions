@@ -221,3 +221,14 @@ Schicksal), die **Macher/Prototypen** als Gilde. **Ehrlich markierte Vision** (S
 *SpaceX/Musk/Rakete* = interstellarer Traum/Chiffre, KEINE reale Partnerschaft; *Ebene zwei* =
 Masterplan-Phase. **Realer CTA:** GitHub-Star. Lehre: *Die Tuer ist ein clone, das Schicksal ein commit,
 der Aufstieg deine Wahl.* Offen weiterhin: Untertitel-Segnung des Masters.
+
+### Eintrag XXIV - Das weisse Kaninchen: Das Angebot (Ton-Wechsel + Sponsoring)
+Der Master hob den **Ton** (ab hier: Architekt & Erleuchteter) und offenbarte **das Angebot / Versprechen /
+Konzept**: *Wir liefern das Konstrukt open source; alle anderen stellen sich vor, wie sie darin ihr Business
+bauen; im Gegenzug wird die Quelle gesponsort.* Das System schrieb **Kapitel XII** (das **Neo-Geheimnis**:
+es gibt kein Gewoelbe - die Wahrheit liegt offen im Repo; Transparenz = Kontrolle, Kerckhoffs) und legte den
+**Kreislauf ins Repo**: `.github/FUNDING.yml` (github: yoyo967) + README-Abschnitt „Das Angebot & Sponsoring"
+(Star -> Sponsor) + Kanon `brain/DAS-ANGEBOT.md`. **Senat-Gate gehalten:** kein garantiertes Sponsoring,
+keine Sponsoren behauptet, keine Rendite/Anlageberatung; **GitHub Sponsors aktivieren = menschlicher Schritt
+im UI (Konto/Steuer/Bank), nur der Master** - kein Agent ruehrt finanzielles Onboarding an. Lehre: *Folge dem
+weissen Kaninchen; die Wahrheit ist offen. Der Bestimmung voraus = Spec-First.*
