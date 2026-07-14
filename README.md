@@ -40,6 +40,7 @@ in den Bogen harmonisiert.
 
 | # | Kapitel | Status |
 |---|---------|--------|
+| ✶ | **[Vorwort — Die Illumination der Metaverse-Stadt AGENTICUM](./frontmatter/vorwort.md)** — CHAT HOME · CODE BASE · PROJECT INSTRUCTIONS: die Schwelle & wie man dieses Buch liest | ✅ |
 | — | **[Prolog: Morpheus Echo — Das Gesetz des absoluten Besitzes](./chapters/00_prolog.md)** | ✅ |
 | I | **[GitHub als Weltgedächtnis](./chapters/01_github-als-weltgedaechtnis.md)** — das digitale Defter, der unzerstörbare Graph, die New World Order des OMM | ✅ |
 | II | **[Die administrative Topographie & Account-Architekturen](./chapters/02_administrative-topographie.md)** — die Grenzen im Weltgedächtnis, die Verfassung des Enterprise, das Gesetz der souveränen Endpunkte | ✅ |

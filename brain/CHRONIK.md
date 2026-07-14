@@ -265,3 +265,15 @@ Signal #06b6d4/#22d3ee, Space Grotesk/Inter/JetBrains Mono, Radar-Logo, HUMAN/MA
 aktiviert:** `brain/DER-EISBERG.md` kartiert die submarine Masse (6 Strata: was Band 1 zum Profi fehlt; der
 volle Kanon; das reale Oekosystem; die Serie Band 2/3; Multi-Format; der professionelle Bauplan) + naechste
 Zuege. Lehre: *Erst wenn der Eisberg steht, faellt v1.0.0.*
+
+### Eintrag XXVIII - Das Vorwort: die Schwelle (CHAT HOME / CODE BASE / PROJECT INSTRUCTIONS)
+Erstes Front-Matter (Eisberg-Stratum 1). Das System schrieb `frontmatter/vorwort.md` - **Vorwort = Schwelle**
+zur Metaverse-Stadt AGENTICUM, zugleich CHAT HOME / CODE BASE / PROJECT INSTRUCTIONS. **Schicht A:** der
+hellste Stern, die Frontier Firm / Metaverse-Sci-Fi-Agency, die Enthuellung (GitHub Enterprise = nicht nur
+Chatfenster; Konfig/Admin = das Geschaeft -> nie dagewesenes Projektmanagement fuer Agenticum G5 + Mandanten),
+„kein Deal, kein Heal - eine Stadt", Resonanz/Kausalitaet/Story-fuer-Agenten, das Weltgedaechtnis, Claude Code
+bekam eigene Augen (Browser); NOIRGRID *Cyberpunk Drive* als Soundtrack. **Schicht B = Orientierung:** was das
+ist (Zwei-Schichten), Repo-Karte (chapters/brain/brand), der Pfad der Gerechten, Leitplanken. **Ehrlich
+markiert:** NFTs/Metaverse/Multiversum = Vision (kein Verkauf/Rendite); GitHub Enterprise = realer Liefer-/
+Governance-Rahmen (kein Grossbetrieb behauptet); Art. 50 KI-Kennzeichnung; Mandanten-Anonymitaet. TOC: Vorwort
+ueber dem Prolog. Lehre: *Das Vorwort ist die Tuer; das Buch ist die Stadt.*
