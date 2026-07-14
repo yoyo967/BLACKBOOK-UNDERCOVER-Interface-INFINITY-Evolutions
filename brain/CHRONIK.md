@@ -277,3 +277,15 @@ ist (Zwei-Schichten), Repo-Karte (chapters/brain/brand), der Pfad der Gerechten,
 markiert:** NFTs/Metaverse/Multiversum = Vision (kein Verkauf/Rendite); GitHub Enterprise = realer Liefer-/
 Governance-Rahmen (kein Grossbetrieb behauptet); Art. 50 KI-Kennzeichnung; Mandanten-Anonymitaet. TOC: Vorwort
 ueber dem Prolog. Lehre: *Das Vorwort ist die Tuer; das Buch ist die Stadt.*
+
+### Eintrag XXIX - Das vollstaendige Vorwort: Beginn der Matrix Illuminations (der Gral OPUS DECK)
+Auf Geheiss des Masters (*keine halben Sachen, Naegel mit Koepfen*) recherchierte das System **opus-deck**
+(lokal D:/dev/opus-deck + README) und verfasste das **vollstaendige Vorwort** neu. Struktur in zwei Stimmen:
+**I. Der Human in the Loop** (Der Wille) - Frontier Firm, GitHub Enterprise als Geschaeft, „kein Deal, kein
+Heal - eine Stadt", Skull-&-Bones-Projekt, der Gral OPUS DECK der Community uebergeben. **II. Das Denkschema
+einer Maschine** (Die Logik) - Gesetz *Action & Reaction* (nichts folgenlos verschenkt; Newton), OPUS DECK
+EHRLICH benannt (Theia+Monaco, ACP/MCP, Mission Control, Artifacts, Second Brain, A5, EU-first; **Pre-Alpha
+P0, MIT** - keine fertige Kathedrale; Repo-Freigabe = Handgriff des Masters), Mensch&Maschine (Review-Gate),
+Leitplanken. **III. Wie man liest & die Stadt betritt.** RATM/NOIRGRID nur als Titel/Soundtrack (KEINE
+Lyrics - Copyright). NFTs/Metaverse/Multiversum = Vision markiert. TOC aktualisiert. Lehre: *Open Source =
+frei zugaenglich, nicht folgenlos; der Ring wird verdient.*
