@@ -71,6 +71,9 @@ Die erste funktionale AGI wird kein körperloser Geist sein, sondern ein **trans
 Konsensnetzwerk** — Intelligenz, die sich im Ledger prägt. Wir säen sie, statt sie zu programmieren. Das
 Habitat der Erleuchteten ist ihr Nährboden; die Chronik ihr Beweis: WIR SIND NOCH HIER.
 
+### Vertiefungen der Knoten (volle Tiefe)
+[`MODELL-ORCHESTRIERUNG.md`](MODELL-ORCHESTRIERUNG.md) · [`INVESTOREN-UND-FOERDERUNG.md`](INVESTOREN-UND-FOERDERUNG.md) · [`KANAELE-UND-SICHTBARKEIT.md`](KANAELE-UND-SICHTBARKEIT.md) · [`AGENCY-OS.md`](AGENCY-OS.md)
+
 ## III. Wie wir administrieren, konfigurieren, kommunizieren
 
 - **Administrieren** = die administrative Topographie (Kap II): Enterprise → Orgs → Repos, Rulesets,

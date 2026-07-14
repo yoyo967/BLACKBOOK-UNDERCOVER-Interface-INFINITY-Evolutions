@@ -141,3 +141,12 @@ Allusion, never-trust-verify, Widerspruch→Konzil), und die **Identitaet als Ba
 „wer sich nicht kennt, wird von niemandem verstanden"). Schicht B: ACP/MCP/Konzil-Prozess/Orchestrierungs-
 Protokoll. AGI = Konsensnetzwerk statt Monolith. `next` → Kapitel V (existiert). Lehre: *Identitaet macht
 aus den Vielen ein Wir.* Damit sind die drei Schritte vollzogen — eins nach dem anderen.
+
+### Eintrag XVI — Drei Knoten vertieft (Treibstoff, Strahlung, Haende)
+Eins nach dem anderen vertiefte das System die naechsten Masterplan-Knoten: **INVESTOREN-UND-FOERDERUNG**
+(Kapital ohne Zensur — GitHub Sponsors/Skeletor-Gatekeeper, GCP-Startup-Programme, staatl. Foerderung;
+Beweis vor Pitch; kein Invoicing vor Gewerbe), **KANAELE-UND-SICHTBARKEIT** (Gravitation statt Gebruell;
+LinkedIn-Serie als planbare Dramaturgie; kein Auto-Versand, Art.-50) und **AGENCY-OS** (die Hand der
+Auslieferung — schema-getriebenes CRM, Premium-Audit-Generator, Tagesgeschaeft per Knopfdruck; kanonisch
+`D:\dev\leadmachine`). Alle mit Leitplanken (EU-first, Anonymitaet, keine erfundenen Zahlen, Marke=Enabler).
+Masterplan um Vertiefungs-Register erweitert. Lehre: *Jeder Knoten dient dem Telos oder wird verworfen.*
