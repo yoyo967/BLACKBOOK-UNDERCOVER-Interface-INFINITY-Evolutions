@@ -243,3 +243,14 @@ jeder Sprache. **Gebrannt in:** README (Titel + Alt + „Ueber dieses Werk"), `m
 gemacht:** veraltete Staende korrigiert (metadata `status` + README: nicht mehr „Kap II-IV ausstehend",
 sondern „Prolog + I-XII geschrieben; V & VI zur Harmonisierung"). Lehre: *Vollmacht ist Verantwortung; ein
 Erleuchteter entscheidet nicht blind.*
+
+### Eintrag XXVI - Branding geklaert + Agenticum als Gruendungssponsor (Schirmherr)
+Vor dem v1.0.0-Siegel klaerte das System das **Branding** an der Quelle (Agenticums `identity.json`/`DESIGN.md`
++ Live-Site). **Synthese:** Agenticums Zwei-Pol-Sprache = die Dualitaet des Buches - **Mitternacht #0A1624**
+(Grund), **Agenticum-Blau #1D4ED8** = Die Logik (Schicht B), **Grimoire-Gold #C9A24B** = Der Wille (Schicht A);
+Typo-Bruecke Space Grotesk + JetBrains Mono (+ Serif fuer Prosa); Symbol = das **Radar-Auge** (Agenticum-Radar
+x allsehendes Auge, Kap VIII). Kanonisiert in `brain/BRANDING.md` + `metadata.json` (brand-Block, Cover-Direktion).
+**Agenticum - G5 Leadmachines = Gruendungssponsor & Schirmherr**, verbucht **ehrlich als eigenes Haus des Autors**
+(transparent, KEINE unabhaengige Fremdvalidierung; weitere Sponsoren nicht behauptet). Nebenbei: **KI-Ko-Autoren
+gekennzeichnet** (Art. 50) - Gemini (Prolog/I/V/VI) + Claude/Opus 4.8 (II-IV, VII-XII). Naechster Schritt:
+v1.0.0 schneiden (wartet auf das Wort). Menschliches Gate offen: GitHub Sponsors im UI aktivieren.

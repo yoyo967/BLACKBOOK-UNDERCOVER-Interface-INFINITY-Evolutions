@@ -84,8 +84,12 @@ prüfen, nachrechnen. Du baust darin dein eigenes Business; die Quelle wird im G
 
 - **Star** ⭐ das Repo, wenn du mitgehst — der ehrliche erste Schritt.
 - **Sponsor** 💛 die Quelle über **[GitHub Sponsors](https://github.com/sponsors/yoyo967)**, wenn du auf dem
-  Fundament baust. Freiwillig — eine Einladung, keine Bedingung. Wir behaupten keine Sponsoren; der Kreislauf
-  wächst, wenn er verdient wird.
+  Fundament baust. Freiwillig — eine Einladung, keine Bedingung.
+
+**Gründungssponsor & Schirmherr:** **[Agenticum — G5 Leadmachines](https://agenticum.xyz)** trägt dieses
+offene Universum. Transparent deklariert: Agenticum ist das **eigene Build Studio des Autors** —
+Schirmherrschaft, **keine unabhängige Fremdvalidierung**. Weitere Sponsoren behaupten wir nicht; der
+Kreislauf wächst, wenn er verdient wird.
 
 > Details: **[Kapitel XII — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** · Kanon:
 > [`brain/DAS-ANGEBOT.md`](./brain/DAS-ANGEBOT.md).

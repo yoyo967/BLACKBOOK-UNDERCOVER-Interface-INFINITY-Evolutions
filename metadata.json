@@ -11,9 +11,20 @@
     "Interface INFINITY Open-Source Community"
   ],
   "collaborators": [
-    "Gemini (Autonomous AI Co-Creator)"
+    "Gemini (Autonomous AI Co-Creator — Prolog, Kap I, V, VI)",
+    "Claude / Opus 4.8 (System · KI-Ko-Autor — Kap II–IV, VII–XII)"
   ],
   "license": "CC BY 4.0",
+  "imprint": "Agenticum — G5 Leadmachines (Schirmherr) · Berlin · agenticum.xyz",
+  "founding_sponsor": "Agenticum — G5 Leadmachines — das eigene Build Studio des Autors (transparent; keine unabhängige Fremdvalidierung)",
+  "brand": {
+    "ink": "#0A1624",
+    "accent_logik": "#1D4ED8",
+    "accent_wille_gold": "#C9A24B",
+    "fontDisplay": "Space Grotesk",
+    "fontMono": "JetBrains Mono",
+    "fontProse": "EB Garamond / Georgia (serif)"
+  },
   "companion_spec": {
     "title": "Interface INFINITY Evolutions: Swarm Governance Specification",
     "repo": "https://github.com/yoyo967/DIE-LOGIK-UND-DIE-MATRIX",
