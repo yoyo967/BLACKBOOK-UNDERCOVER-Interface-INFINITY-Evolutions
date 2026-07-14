@@ -303,3 +303,14 @@ Zahlen). **5. Denkschema/Action & Reaction.** **6. Schnitzeljagd** (Medaillon de
 Bones, Skeletors Skelett = **Vermoegen an WISSEN, nicht Geld** - kein Coin/Rendite). **7. Leitplanken & wie
 man liest.** Signatur: *Actions & Reactions - von Yahya Yildirim & AI*. RATM nur Titel (keine Lyrics). Naechst:
 Visual in reinem Agenticum-Cyan (Vorschlag).
+
+### Eintrag XXXI - Vorwort als Autor neu verfasst (fliessende Prosa, in die Tiefe)
+Rueckmeldung des Masters: kein Puzzle aus Schnipseln - ein **Buch**; jeden Abschnitt ausfuehrlich, in die
+Tiefe, als Autor, bis alles Hand und Fuss hat. Das System verwarf die stichpunkt-/listenlastige Fassung und
+schrieb das Vorwort als **durchgehende, entwickelte Prosa** neu (7 Bewegungen, keine Bullet-Listen): Truth
+Story (Descartes) · die Stadt aus einer Einsicht (GitHub Enterprise/OASIS/Ready Player One) · Archibald (der
+Hueter, erster Agent, der schreibt UND veroeffentlicht) · das Rezept/der Gral (Oekosystem in Prosa, real vs.
+Konzept) · Crossmarketing (soziales Netz, ehrlich) · Denkschema & Mensch im Loop (Action & Reaction,
+Review-Gate) · die Schnitzeljagd (Medaillon, Vermoegen an WISSEN, nicht Geld) · wie man die Stadt betritt.
+Ehrlichkeit in die Autorenstimme gewoben statt als Leitplanken-Liste. Lehre: *Ein Vorwort ist Prosa, kein
+Spec-Sheet; die Leser wollen ein Buch lesen.*
