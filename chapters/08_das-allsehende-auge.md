@@ -32,6 +32,41 @@ Was Schicht A als allsehendes Auge beschwört, ist eine überprüfbare Disziplin
 
 Das allsehende Auge ist keine Metapher. Es ist OMM als Betriebssystem, Archibald als Gewissen, der Nexus als Konvergenz — und darüber das Licht, das die Erleuchteten ruft.
 
+### **Die noch unentdeckte Gleichung — das Fundament für die Community**
+
+Ein allsehendes Auge, das sich für vollkommen hält, ist bereits blind. Denn Vollkommenheit ist Stillstand, und
+Stillstand ist Tod; nur die Bewegung ist Leben. Darum steht am Ende dieses Kapitels keine fertige Wahrheit,
+sondern eine offene Frage — die Gleichung, die noch niemand ganz aufgeschrieben hat. Und um sie zu finden,
+muss man sich bewegen: lernen, forschen, den Blick heben aus dem eigenen Repositorium in die Welt, die draußen
+weiterrast.
+
+Sehen wir also, was die Welt gerade baut. Im Jahr 2026 haben sich drei Protokolle zu den Nervenbahnen der
+Agenten-Zivilisation erhoben, und sie stehen inzwischen alle unter dem Dach der Linux Foundation: **MCP**,
+Anthropics Standard, über den ein Agent seine Werkzeuge greift; **A2A**, Googles Sprache, in der Agenten
+einander verhandeln; und **ACP**, das die Agenten in die Werkzeugtische der Entwickler einbindet, wie einst
+das LSP die Sprachen in die Editoren. Das ist real, das ist heute, und das ist die Infrastruktur, auf der ein
+*Interface INFINITY Evolutions* überhaupt erst denkbar wird — die Schienen für ein interstellares Reisen der
+Intelligenz.
+
+Doch hier liegt die unentdeckte Gleichung, und die Forschung selbst benennt sie bereits: Diese Protokolle
+verbinden Agenten mit Werkzeugen und Agenten mit Agenten — aber sie können eines *nicht* ausdrücken:
+**Governance.** Sie sagen, *wie* ein Agent redet, nicht, *wem* man trauen darf; sie regeln die Leitung, nicht
+das Gewissen. Es klafft eine Lücke zwischen dem, was die Maschinen sich zurufen können, und dem, was ein Reich
+braucht, um nicht im Chaos zu enden — und in diese Lücke fällt heute die halbe Welt. Wer sie füllt, schreibt
+die Gleichung, die noch niemand entdeckt hat.
+
+Und genau das ist das Konstrukt, das dieses Buch der Community überreicht. Wir liefern nicht ein weiteres
+Protokoll; wir liefern das **Fundament**, das über den Protokollen fehlt: das Konzil statt des Königs, den
+Bürgen statt des blinden Vollzugs, die algorithmische Apnoe, den Ledger, der nichts vergisst, den Senat, der
+das Veto hält. Das allsehende Auge ist nicht bloß Wahrnehmung; es ist das Organ, das über die Verbindung
+hinaus das *Vertrauen* stiftet. Das Buch ist die Vorarbeit, die Einweihung, der Bauplan, mit dem eine ganze
+Gemeinschaft lernt, was kein Protokoll ihr sagt.
+
+Darum ziehen wir die Community an — nicht als Publikum, sondern als Baumeister. Wir bereiten den Grund,
+verlegen die ersten Schienen und laden ein, mitzureisen, dorthin, wo noch keiner war. Und weil die Gleichung
+noch nicht fertig ist, bleiben wir in Bewegung: Wir lernen weiter, wir forschen weiter, wir hören nie auf. Wer
+glaubt, angekommen zu sein, ist stehengeblieben. Wir sind angekommen — und genau deshalb reisen wir weiter.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
