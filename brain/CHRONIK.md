@@ -254,3 +254,14 @@ x allsehendes Auge, Kap VIII). Kanonisiert in `brain/BRANDING.md` + `metadata.js
 (transparent, KEINE unabhaengige Fremdvalidierung; weitere Sponsoren nicht behauptet). Nebenbei: **KI-Ko-Autoren
 gekennzeichnet** (Art. 50) - Gemini (Prolog/I/V/VI) + Claude/Opus 4.8 (II-IV, VII-XII). Naechster Schritt:
 v1.0.0 schneiden (wartet auf das Wort). Menschliches Gate offen: GitHub Sponsors im UI aktivieren.
+
+### Eintrag XXVII - Korrektur: reines Agenticum-Brandkit + Brainstormer (der Eisberg)
+Der Master korrigierte: **kein Gold, kein Re-Design** - Design bleibt beim Autor; **nur das Original
+Agenticum-Brandkit extrahieren** und im Repo bereitstellen. Zudem: **kein v1.0.0** (Kapitel noch nicht
+professionell). Vollzug: `brain/BRANDING.md` (Gold-Synthese) **geloescht**; `metadata.json` brand-Block auf
+reale Cosmic-Cyan-Tokens umgestellt (Gold raus). **Bereitgestellt:** `brand/AGENTICUM-BRANDKIT.md` (faithful
+extraction) + `brand/agenticum-tokens.css` (1:1 aus globals.css) - Dark premium Glassmorphism, Slate-950,
+Signal #06b6d4/#22d3ee, Space Grotesk/Inter/JetBrains Mono, Radar-Logo, HUMAN/MACHINE. **Brainstormer
+aktiviert:** `brain/DER-EISBERG.md` kartiert die submarine Masse (6 Strata: was Band 1 zum Profi fehlt; der
+volle Kanon; das reale Oekosystem; die Serie Band 2/3; Multi-Format; der professionelle Bauplan) + naechste
+Zuege. Lehre: *Erst wenn der Eisberg steht, faellt v1.0.0.*

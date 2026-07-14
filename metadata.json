@@ -18,12 +18,17 @@
   "imprint": "Agenticum — G5 Leadmachines (Schirmherr) · Berlin · agenticum.xyz",
   "founding_sponsor": "Agenticum — G5 Leadmachines — das eigene Build Studio des Autors (transparent; keine unabhängige Fremdvalidierung)",
   "brand": {
-    "ink": "#0A1624",
-    "accent_logik": "#1D4ED8",
-    "accent_wille_gold": "#C9A24B",
+    "_quelle": "Agenticum Glassmorphism Branding Kit — Design = Autor; siehe brand/AGENTICUM-BRANDKIT.md",
+    "system": "Dark premium Glassmorphism (Cosmic-Cyan auf Slate-950)",
+    "bg": "#020617",
+    "bgElevated": "#0f172a",
+    "text": "#f8fafc",
+    "accent": "#06b6d4",
+    "accentBright": "#22d3ee",
     "fontDisplay": "Space Grotesk",
+    "fontBody": "Inter",
     "fontMono": "JetBrains Mono",
-    "fontProse": "EB Garamond / Georgia (serif)"
+    "radius": "14px"
   },
   "companion_spec": {
     "title": "Interface INFINITY Evolutions: Swarm Governance Specification",

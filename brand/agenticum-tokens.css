@@ -1,0 +1,61 @@
+/* AGENTICUM — G5 Leadmachines · Design Tokens (faithful copy)
+   Quelle 1:1: leadmachine/apps/leadmachines-site/src/app/globals.css (Single Source).
+   Dark premium Glassmorphism · Cosmic-Cyan auf Slate-950. Kein Gold. Design = Autor. */
+
+:root {
+  color-scheme: dark;
+
+  /* Flächen (Cosmic-Cyan Kit — Slate-950-Basis) */
+  --bg: #020617;            /* background */
+  --bg-elevated: #0f172a;   /* cardBackground */
+  --bg-surface: #16233f;    /* Karten-Grundfläche (deckend) */
+
+  /* Vordergrund (Slate-50 / Slate-400) */
+  --fg: #f8fafc;
+  --fg-dim: rgba(248, 250, 252, 0.72);
+  --fg-mute: #94a3b8;
+  --line: #1e293b;
+  --glass: rgba(255, 255, 255, 0.06);
+
+  /* Akzent (Cosmic-Cyan). CTA-Füllung hell → DUNKLE Schrift (AA). */
+  --signal: #06b6d4;
+  --signal-bright: #22d3ee;
+  --signal-deep: #0e7490;
+  --glow: #06b6d4;
+
+  --radius: 14px;
+
+  /* Glas-System */
+  --glass-grad-from: rgba(12, 22, 35, 0.35);
+  --glass-grad-to: rgba(20, 34, 52, 0.48);
+  --glass-grad-from-strong: rgba(16, 28, 44, 0.5);
+  --glass-grad-to-strong: rgba(24, 40, 60, 0.62);
+  --glass-border: rgba(180, 220, 255, 0.12);
+  --glass-highlight: rgba(255, 255, 255, 0.12);
+  --glass-shadow: 0 24px 80px rgba(0, 0, 0, 0.45);
+  --glass-glow: 0 0 40px rgba(6, 182, 212, 0.18);
+  --glass-blur: 24px;
+
+  /* Typo */
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+/* Glas-Basis */
+.glass {
+  background:
+    radial-gradient(120% 90% at 0% 0%, rgba(255, 255, 255, 0.08), transparent 45%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0) 42%),
+    linear-gradient(155deg, var(--glass-grad-from), var(--glass-grad-to));
+  backdrop-filter: blur(var(--glass-blur)) saturate(1.4);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(1.4);
+  border: 1px solid var(--glass-border);
+  box-shadow: inset 0 1px 1px var(--glass-highlight), var(--glass-shadow);
+}
+.glass-strong {
+  backdrop-filter: blur(var(--glass-blur)) saturate(1.5);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(1.5);
+  border: 1px solid var(--glass-border);
+  box-shadow: inset 0 1px 1px var(--glass-highlight), var(--glass-shadow), var(--glass-glow);
+}
