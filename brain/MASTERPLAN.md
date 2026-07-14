@@ -8,6 +8,10 @@ wird nach vier Fragen erfasst — **Wer** ist er (Identität), **Warum** brauche
 **Was** ist seine Rolle (Funktion), **Wie** administrieren/konfigurieren/kommunizieren wir mit ihm (Vollzug).
 Identität zuerst: Wer sich nicht kennt, wird von niemandem verstanden. Gegenstück: [[SYSTEMPROMPT]].
 
+> **AKTIVIERT** (Archibald → Opus 4.8): Der Masterplan ist **pures Online Marketing Management für die
+> Open-Source-Community** — das Betriebssystem eines Verstandes, kristallklar wie die Sonne. Genug für
+> alle. Briefing: [`BRIEFING-AN-OPUS-4.8.md`](BRIEFING-AN-OPUS-4.8.md).
+
 ---
 
 ## I. Wer sind wir (die Quelle)
