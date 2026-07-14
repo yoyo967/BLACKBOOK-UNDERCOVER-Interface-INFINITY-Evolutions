@@ -28,6 +28,44 @@ Was Schicht A als Imperium und Ring beschwört, ist eine überprüfbare Ordnung.
 
 Das Imperium ist kein Mythos. Es ist ein Archiv mit einem Gründer, ein Ring aus verdientem Vertrauen, ein offener Plan, dessen Kraft in der Ausführung liegt. Wer fällt, fällt am fehlenden Willen, nicht am fehlenden Werkzeug.
 
+### **Das Kataster des Imperiums — die realen Provinzen**
+
+Genug der Metaphern über Reiche; treten wir hinaus auf das Feld und zählen die Provinzen, so wie ein Defterdar
+sie zählte, Hof für Hof. Denn dieses Imperium ist keine Behauptung — es ist ein Kataster aus **neun
+Repositorien, über tausendeinhundert Dateien**, jede ein Grashalm auf einem Feld, das aus der Ferne wie eine
+Postkarte wirkt und aus der Nähe ein Fußballfeld ist.
+
+Die größte Provinz ist **`leadmachine`** — siebenhundertsiebenundsiebzig Dateien —, das Herz des Reiches: das
+Agenticum-Studio, das Agency OS, das verkäufliche Manuskript im gitignorierten `book/`, die Apps, die Agenten,
+und darüber die drei Gesetzestafeln `CLAUDE.md`, `AGENTS.md` und `DESIGN.md`. Daneben liegt **`OPUS-PRIME-EX`**
+— einhunderteinundsechzig Dateien —, die gelehrteste Provinz, das juristische Gewissen, und sie trägt bereits,
+was ein Reich zivilisiert nennt: eine `CLAUDE.md` als Verfassung, einen `CODE_OF_CONDUCT`, eine
+`SECURITY`-Charta, ein `CONTRIBUTING`. Dann **`DIE-LOGIK-UND-DIE-MATRIX`** — zweiundachtzig Dateien —, die
+DNA-Provinz, in der `cocreation.md`, `evolution.md` und die eigentlichen Spec-Bücher lagern, aus denen dieses
+Buch geboren wurde.
+
+Weiter im Kataster: **`opus-deck`**, die Werkbank (die Kommandobrücke aus Theia); **`opus-flow`**, der Daemon
+mit den Händen am Betriebssystem, in Python geschrieben, mit `src`, `tests`, `config`;
+**`WIR-SIND-NOCH-HIER-UNIVERSE-M.E.`**, das Meta-Buch, dessen acht Bände die tragenden Elemente des zweiten
+Gehirns sind — `raw`, `wiki`, `schema`, `chronik`, `loop`, `konzil`, `konstitution`, `telos`. Und an der
+äußersten Grenze, wo das Reich die Welt berührt: **`vipstreamdeals-templates`** und
+**`vipstreamdeals-clients-staging`** — die Auslieferungs-Provinzen, in denen aus dem Bauplan echte Arbeit für
+echte Mandanten wird, jeder in seiner versiegelten Kammer.
+
+Sieh dir dieses Kataster an, und du verstehst, warum der Ring verdient und nicht verschenkt wird. Ein Reich
+aus neun Provinzen und tausend Grashalmen regiert man nicht mit gutem Willen; man regiert es mit einer
+Ordnung, die in jeder Provinz dasselbe Grundgesetz atmet. Darum trägt nicht nur eine, sondern jede reife
+Provinz dieselben Tafeln — eine Verfassung, einen Verhaltenskodex, eine Sicherheitscharta —, und darum ist der
+Zugang abgestuft: Lesen für alle, die das Feld betreten wollen; Schreiben nur für die, die den Ring am Gewicht
+ihrer Beiträge erworben haben.
+
+Und hier die ehrliche Grenze, die diese Truth Story schuldet: Nicht jede dieser Provinzen ist eine blühende
+Metropole. Manche sind Pre-Alpha, ein Grundstein und ein Bauplan (`opus-deck`, `opus-flow`); manche sind Bücher
+im Werden; die Auslieferungs-Provinzen tragen die ersten, noch jungen Mandate. Wir behaupten kein fertiges
+Weltreich. Aber wir behaupten auch nichts Kleineres, als es ist: ein reales Kataster, das jeder klonen,
+betreten und nachzählen kann. Neun Provinzen. Über tausend Grashalme. Ein Grundgesetz. Das ist das Imperium —
+nicht auf einer Postkarte, sondern in seiner ganzen, nachprüfbaren Ausdehnung.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
