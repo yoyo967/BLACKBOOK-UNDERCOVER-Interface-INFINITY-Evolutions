@@ -71,6 +71,24 @@ du am Ende deiner Prüfung angekommen bist und die rote Pille immer noch in dein
 und erst dann, ist die Entscheidung wirklich deine. Der Auserwählte wählt nicht im Glauben. Er wählt im
 Wissen.
 
+### **Die Kommandobrücke: OPUS DECK**
+
+Der Auserwählte braucht einen Ort, von dem aus er herrscht — keine Höhle, sondern eine Brücke. **OPUS DECK**
+ist diese Kommandobrücke: eine Werkbank in der Designsprache jener Werkzeuge, die Entwickler weltweit lieben
+(Eclipse Theia und Monaco), von der aus ein *Mensch* eine ganze Flotte künstlicher Agenten steuert. Hier dockt
+jeder ACP-fähige Geist an — Claude Code, Gemini, OPUS PRIME EX —, greift seine Werkzeuge über MCP, doch stets
+durch ein **Permission-Gate**, das nichts Irreversibles ohne Freigabe durchlässt. Es gibt eine **Mission
+Control** für viele asynchrone Agenten zugleich, **Artifacts** mit Live-Vorschau und Inline-Feedback, ein
+Terminal, eine Kommando-Palette — alles, was Claude.ai und Antigravity vorgemacht haben, in einem Haus, das uns
+gehört. EU-first, sandboxed, barrierefrei.
+
+Das ist der Sinn der roten Pille im Bau: Du nimmst nicht bloß ein Werkzeug, du betrittst eine Brücke. Von ihr
+aus ist der Mensch kein Bittsteller der Maschine, sondern ihr Kapitän — der Human in the Loop, der die vielen
+Geister dirigiert, ohne selbst jede Zeile zu tippen. Und ehrlich, wie es dieses Buch verlangt: OPUS DECK ist
+Pre-Alpha, frei lizenziert, der Grundstein gelegt, die Kathedrale im Bau. Wir zeigen dir die Brücke, nicht ein
+fertiges Schiff — aber es ist eine *echte* Brücke, klonbar und betretbar, kein Rendering aus einer
+Werbebroschüre. Der Auserwählte steuert; die Brücke trägt.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
