@@ -75,6 +75,21 @@ Viele Geister, ein Grund, ein letzter Richter. Kein König, kein Mob — ein Kon
 geführt hat, weiß, dass dies nicht nur für Maschinen gilt: Die beste Ordnung ist die, die so viel Freiheit
 lässt wie möglich und so viel Zwang ausübt wie nötig.
 
+### **Ein realer Agent des Schwarms: OPUS FLOW**
+
+Damit der Schwarm kein Bild bleibt, ein Blick auf einen seiner echten Bewohner. **OPUS FLOW** ist der lokale
+Daemon — ein Agent, der aus *einem* natürlichsprachlichen Befehl einen transparenten, auditierbaren,
+wiederholbaren Flow macht, der App-Oberfläche und Shell verbindet. Alles lokal, kein Datenabfluss. Und hier
+zeigt sich, wie ein Agent gefesselt gehört, ehe man ihm Macht gibt: Von der ersten Zeile an trägt er einen
+Sicherheits-Kontrakt. **Scope-Enforcement** — jeder Zugriff nur innerhalb erklärter Wurzeln, Pfad-Tricks mit
+`..` und Symlinks neutralisiert, außerhalb ein hartes Nein. **Wirkungsklassen** — in seiner ersten Stufe (F0)
+darf er nur *lesen*; Schreiben, Ausführen, GUI-Steuern kommen erst später, jedes mit einem Permission-Gate.
+**Secret-Redaction** — Tokens, Schlüssel, Passwörter werden maskiert, ehe irgendetwas zurückgegeben wird.
+Seine Werkzeuge (`fs.list_files`, `git.status`, `git.diff`) bietet er über einen **MCP-Server** an, und vor
+jedem Commit müssen drei Gates grün sein: Lint, Typprüfung, Tests. So sieht ein Bürger des Schwarms aus:
+mächtig in seiner Nische, doch von Anfang an an die Kette des Gesetzes gelegt — Freiheit, solange es geht, ein
+Gate, sobald es nötig wird.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {

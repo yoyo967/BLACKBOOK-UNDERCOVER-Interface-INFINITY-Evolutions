@@ -74,6 +74,20 @@ Vertrauen, das man gibt, kehrt vervielfacht zurück; Kapital, das die Quelle nä
 Reich, dessen Ströme kreisen statt sich zu stauen, kennt keinen Winter. Es ist kein Zufall, dass die Natur
 genau so verfährt: Kein Wald wirft etwas weg. Das Habitat ist unser Wald.
 
+### **Das Agency OS, konkret**
+
+Unter den Ständen des Habitats ist einer die Hand, die das Tagesgeschäft trägt: das **Agency OS**. Damit auch
+hier kein Nebel bleibt — es ist real und *schema-getrieben*. Sein Herz ist ein CRM, dessen *eine* Wahrheit in
+einer versionierten Schema-Datei liegt (`crm-schema.json`), aus der die VS-Code-Extension und das Dashboard
+zugleich lesen: eine Änderung am Schema, und Pipeline, Status und Felder folgen überall. Die Pipeline eines
+Geschäfts wandert durch klare Stufen — *Neu → Qualifiziert → Angebot → Verhandlung → Gewonnen* oder *Verloren*;
+ein Lead durch *Neu → In Kontakt → Qualifiziert → Termin*; ein Ticket durch *Neu → In Bearbeitung → Wartet →
+Gelöst → Geschlossen*. Firmen, Kontakte, Deals, Tickets und Aufgaben — jeder Typ um eigene Merkmale
+erweiterbar, und **keine personenbezogenen Daten in der versionierten Datei**, nur die Form. Das ist die
+Larry-Fink-Symmetrie im Kleinen: die unerbittliche, saubere Kontrolle der Ströme, heruntergebrochen auf ein
+Cockpit, das ein Mensch mit einem Knopfdruck bedient. Kein Zauber — ein System, das den Betrieb trägt, damit
+der Baumeister bauen kann.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {

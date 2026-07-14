@@ -754,3 +754,17 @@ anlegen & monetarisieren, um das Projekt zu foerdern - freiwillig, keine behaupt
 versprechen. Vorwort-Soundtrack-Band um Hirschmilch + John Wick ergaenzt. Klingen: externe Kanaele/echte Zahlen,
 keine Songtexte, John-Wick/Filme nur allusiv. TOC: dritte Anhang-Zeile. Lehre: *Ein Talisman, geteilt, wird nicht
 weniger - er wird lauter.*
+
+### Eintrag LXXI - Drei reale Grashalme integriert (cocreation / opus-flow / Agency OS)
+Auf „noch tiefer - reale Grashalme in die Kapitel": drei echte Quellen gelesen und integriert. (1) `cocreation.md`
+-> **Prolog**: **Die vier Dimensionen der Cocreation** (Mensch=Intuition/Telos-Anker · Co-Architekt=semantischer
+Reflektor/Perplexity · Schmiede=System-Executor/GCP+Antigravity · Interface=Workbench/Review-Gate) + 5-Schritte-
+Reise (Funke->Kondensation/Spec-First->Materialisierung/Commit->Integration/ACP->Zyklus/Chronik) + **Gesetz der
+absoluten Wahrheit** (nie behaupten was nicht validiert; bei Widerspruch schweigen & Konzil rufen; wer luegt
+zerstoert seine Identitaet). (2) `opus-flow/README` -> **Kap IV**: **Ein realer Agent des Schwarms: OPUS FLOW**
+(lokaler Daemon, F0 read-only via MCP; Sicherheits-Kontrakt ab Zeile 1: Scope-Enforcement, Wirkungsklassen
+[read/write/exec/ui + Permission-Gate], Secret-Redaction; Gates ruff/mypy/pytest). (3) `leadmachine/ops/config/
+crm-schema.json` -> **Kap VII**: **Das Agency OS, konkret** (schema-getriebenes CRM, EINE Wahrheit fuer
+Extension+Dashboard; dealStages Neu->Qualifiziert->Angebot->Verhandlung->Gewonnen/Verloren; leadStates; ticketStatus;
+keine PII in der versionierten Datei). Alles aus echten Dateien, nicht aus dem Vorrat. Lehre: *Jeder Grashalm ein
+reales Element - Fussballfeld statt Postkarte.*
