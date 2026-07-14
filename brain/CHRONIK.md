@@ -695,3 +695,15 @@ auf Anfrage** (Monitoring/Reporting, Conversion-Opt, Replikation). „Kein Preis
 beschoenigt - eine einzige Wahrheit fuer Buch, Site und Vertrag." **Ehrliche Grenze:** Anfang der Leiter, keine
 behauptete Traktion. „Ein Angebot, bei dem der Kunde den Motor sehen darf, bevor er das Auto kauft." Reale
 Erkundung (offers.ts gelesen) statt Vorrat. Lehre: *Wachstum ist ein Produkt mit einem Etikett.*
+
+### Eintrag LXVI - Back-Matter gebaut: Anhang - Glossar & Dramatis Personae (100/100)
+Im Geist von „keine Frage offen": erstes **Back-Matter** `backmatter/glossar.md`. **Dramatis Personae** (Master,
+System, Archibald, Mr. Nobody, Morpheus Echo, Power Director, Nexus, Larry-Fink-Chiffre) + **Glossar** aller
+Kanon-Begriffe (Schicht A/B, Cocreation, Defter/Defterisierung, Ledger/DAG, Konzil, algorithmische Apnoe,
+Review-Gate/Segnung/Buerge, der Ring, Pfad der Gerechten, zweites Gehirn, Codex, algorithmischer Senat, LOGIK/
+MATRIX, fuenftes Element, Cryptex, ACP/MCP/A2A, OMM, Interface INFINITY Evolutions, Continuum, das Element/
+Illuminati, Svalbard, Agenticum/G5, Lead Machine/Agency OS, OPUS DECK/FLOW/PRIME EX, Skull&Bones/322/Geronimo,
+WIR SIND NOCH HIER). Ehrlichkeits-Klingen eingebaut (A5=Entwurf keine Zertifizierung; Skull&Bones=gewaehlter
+Mythos kein realer Geheimbund; Element=Wissen kein Coin; Larry Fink=Chiffre kein Bund). Schluss: „Fehlt dir ein
+Begriff? Dann ist der Anhang noch nicht fertig - sag es, und er waechst." TOC: Anhang-Zeile. Lehre: *100/100 ist
+kein Zustand, sondern ein Versprechen.*
