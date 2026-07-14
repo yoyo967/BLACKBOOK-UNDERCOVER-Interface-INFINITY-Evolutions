@@ -17,6 +17,8 @@ die Paläste).
 | [`SCHEMA.md`](SCHEMA.md) | **Bauordnung** | Wie geschrieben wird: Schicht A/B, Stimme, Cocreation- & Review-Gate-Protokoll, Verständnis der Maschine (GitHub, Claude Code) |
 | [`WIKI.md`](WIKI.md) | **Geprüfte Lehre** | Verdichteter Welt-Kanon + Lexikon (Schnellreferenz des Autors) |
 | [`CHRONIK.md`](CHRONIK.md) | **Episodisches Gedächtnis** | Append-only Genesis-Log der Cocreation (Essenz, keine Rohdaten) |
+| [`SYSTEMPROMPT.md`](SYSTEMPROMPT.md) | **Konstitution (Agent)** | Wer bin ich — Identität, Ethik, Werkzeuge, Verhaltensorganigramm |
+| [`MASTERPLAN.md`](MASTERPLAN.md) | **Ökosystem** | Alle Akteure verstehen (Wer/Warum/Was/Wie) + administrieren/konfigurieren/kommunizieren |
 
 ## Regeln
 - **Append-only für die Chronik** (osmanisches Defter): nichts wird retuschiert, nur fortgeschrieben.
