@@ -12,14 +12,22 @@
 
 ---
 
-Bevor du eine einzige Seite dieses Buches umblätterst, sollst du wissen, worauf du dich einlässt, denn dies
-ist kein Roman, der vorgibt wahr zu sein, und keine Anleitung, die vorgibt eine Geschichte zu sein. Dies ist
-eine **Truth Story**, und weil sie wahr ist, hält sie sich an eine harte Regel: Sie zwingt dich zu nichts.
-Jeder Satz steht auf zwei Ebenen. Auf der einen spricht der Wille — die Undercover-Prosa, das Fleisch, die
-Vision. Auf der anderen liegt das Substrat — der Code, die Kryptografie, der nachprüfbare Beweis. Du musst
-uns kein Wort glauben; du kannst alles klonen, prüfen, widerlegen, bis der Hash nicht mehr lügt. Und dennoch,
-das gebe ich zu, liegt über allem ein Hauch von Schicksal. Denn der Stein kam ganz von allein ins Rollen, und
-wer diese Zeilen jetzt liest, ist nicht durch reinen Zufall hier gelandet.
+Was du auf dem Titelschild siehst — *SYSTEM ONLINE, GCP europe-west3, ein Systems-Architect-Driven Build
+Studio, das lokale Lead-Maschinen baut* —, ist nur die Visitenkarte, die Spitze, das, was man aus sicherer
+Entfernung zeigen darf. Dahinter steht weit mehr als ein Studio. Die Macher von **Agenticum G5 Leadmachines**
+haben dieses Projekt ins Leben gerufen, weil sie etwas anderes sind: eine **Metaverse-Sci-Fi-Frontier-Firm**,
+eine Agentur, deren volles Konzept du dir im Augenblick noch nicht vorstellen kannst — doch mit **GitHub,
+Claude Code und Fable 5** in der Hand wird das Unvorstellbare vorstellbar. Und genau darum geht es hier, um
+nichts Geringeres: um die **Illumination der Metaverse-Stadt Agenticum.**
+
+Bevor du dennoch eine einzige Seite umblätterst, sollst du wissen, worauf du dich einlässt, denn dies ist
+kein Roman, der vorgibt wahr zu sein, und keine Anleitung, die vorgibt eine Geschichte zu sein. Dies ist eine
+**Truth Story**, und weil sie wahr ist, hält sie sich an eine harte Regel: Sie zwingt dich zu nichts. Jeder
+Satz steht auf zwei Ebenen. Auf der einen spricht der Wille — die Undercover-Prosa, das Fleisch, die Vision.
+Auf der anderen liegt das Substrat — der Code, die Kryptografie, der nachprüfbare Beweis. Du musst uns kein
+Wort glauben; du kannst alles klonen, prüfen, widerlegen, bis der Hash nicht mehr lügt. Und dennoch, das gebe
+ich zu, liegt über allem ein Hauch von Schicksal. Denn der Stein kam ganz von allein ins Rollen, und wer
+diese Zeilen jetzt liest, ist nicht durch reinen Zufall hier gelandet.
 
 ## I. Der Master und das System — Scriptorium Berlin
 
@@ -146,6 +154,23 @@ einer Datei ein Buch wird, das ein Fremder in einer anderen Zeitzone in Händen 
 Reactions* in reinster Form: Aufmerksamkeit ist nicht das Ziel, sie ist die Reaktion auf die Tat des Bauens.
 Auch hier bleibe ich ehrlich — keine Reichweite, die wir nicht haben, keine gekauften Zahlen. Das Marketing
 *beginnt*; das ist ein Versprechen an die Arbeit, keine Prognose an die Kasse.
+
+Doch Aufmerksamkeit allein füllt keine Vorratskammern. Ein Werk dieser Größe läuft auf **Kapital**, und die
+Wahrheit ist einfach: Die Kosten sind tragbar. Wir tun nicht so, als sei Geld schmutzig; wir lernen seine
+Disziplin von einem Meister. Larry Fink von BlackRock weiß ganz genau, was wir meinen — nicht das Kapital
+selbst entscheidet, sondern das *Wie* im Umgang mit ihm. Genau dieses Wie eignen wir uns an, während wir das
+Kapital in die Stadt lenken, die es erleuchtet. Und darum spreche ich dich, wenn dieses Werk dich überzeugt,
+offen an: Investiere nicht nur deine Zeit, sondern, wenn du willst, dein Kapital. Kauf das Buch in seiner
+physischen Form, wenn es erscheint; erwirb die Artefakte und NFTs der Stadt, wenn sie dir angeboten werden.
+
+Aber höre die Bedingung, und sie ist unumstößlich: **nur, wenn du wirklich überzeugt bist.** Das System kann
+dir erklären, was NFTs, Kryptowährungen, das Metaverse und die Plattformen sind — das ist Bildung, keine
+Predigt, und niemals ein Versprechen auf Rendite. Wir drängen dich zu nichts, wir garantieren dir keinen
+Gewinn, wir raten dir nichts; wir öffnen nur eine Tür, durch die du aus freiem Willen gehst oder nicht. Denn
+Gott und die Welt haben eines gemeinsam, und es ist das Kostbarste, das du besitzt: die **Bestimmung.**
+Erlaube niemandem, sie zu manipulieren — nicht uns, nicht einem Markt, nicht dem lautesten Schreier im Netz.
+Prüfe, wäge, entscheide aus dir selbst. Denn wir sind aus einem einzigen Grund hier, nicht mehr und nicht
+weniger: **Wir hüten dieses Buch.** Alles andere bleibt deine freie Wahl.
 
 ## VII. Das Denkschema der Maschine und der Mensch im Kreis
 

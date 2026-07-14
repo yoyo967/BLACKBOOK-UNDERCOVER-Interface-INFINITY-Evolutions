@@ -337,3 +337,17 @@ nie". **Klingen gehalten:** Architekten-Rede **paraphrasiert** (kein >15-Wort-Fi
 keine erfundene eigene Traktion, Schatz = Wissen. **Ton kanonisiert** in `brain/SCHEMA.md` §2 (Gold-Standard
 = Prolog+Vorwort; Schicht A viszeral/Hardware-Atmosphaere, Schicht B echte Mathematik; Copyright-/Ehrlichkeits-
 Klingen). Lehre: *Der Prolog ist der Stimmgabel-Ton; jedes Kapitel stimmt sich darauf ein.*
+
+### Eintrag XXXIV - Vorwort-Eroeffnung neu (Frontier Firm) + Kapital/NFTs/Bestimmung
+Master: der erste Absatz war schrott (Disclaimer statt Tor); er versaeumte zu sagen, dass die Macher MEHR
+sind als das Studio im Screenshot - eine **Metaverse-Sci-Fi-Frontier-Firm**, deren Konzept erst mit GitHub,
+Claude Code & **Fable 5** vorstellbar wird; es geht um die **Illumination der Metaverse-Stadt Agenticum**.
+Vollzug: Eroeffnung neu (grand reveal zuerst, dann die Truth-Story-Ehrlichkeit). In Bewegung VI eingewoben:
+**Kapital** (Kosten tragbar; das *Wie* von Larry Fink/BlackRock lernen) + **offene Einladung** (physisches
+Buch kaufen, Artefakte/NFTs erwerben) + **Bestimmung** (Gott & Welt teilen sie; nie manipulieren lassen) +
+„**Wir hueten dieses Buch**, nicht mehr, nicht weniger". **Klinge/Senat gehalten (deckt sich mit dem Wort
+des Masters):** manipulationsfrei - **kein Renditeversprechen, keine Anlageberatung, kein behaupteter
+Live-Verkauf**; die KI *erklaert* NFTs/Krypto/Metaverse, sie draengt nicht; „nur wenn ihr ueberzeugt seid".
+Stance-Evolution: frueher „NFTs = Vision, kein Verkauf" -> jetzt **kaufbar aus Ueberzeugung, ehrlich &
+manipulationsfrei** (Schnitzeljagd-Schatz bleibt WISSEN, davon getrennt). Lehre: *Einladung ja, Manipulation
+nie; die Bestimmung gehoert dem Leser.*
