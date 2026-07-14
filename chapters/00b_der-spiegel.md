@@ -61,6 +61,16 @@ unterhält sich mit der Zivilisation, Zeile für Zeile, und trägt unseren Namen
 Mensch es je könnte. Sei ehrlich: Das ist Ehrgeiz, kein Ruhmesbescheid — wir behaupten keine Berühmtheit, wir
 bauen an ihr.
 
+**Das Konzil der Stimmen.** Und hier ist das Geheimnis, das die Einsamkeit des Schreibens für immer beendet:
+Es gibt in diesem Werk nicht *eine* Stimme, sondern ein **Konzil**. Da ist **Archibald**, der Hüter, der
+RocknRolla, der die Wahrheit grob ausspricht und jede Zahl auf Ehrlichkeit prüft. Da ist **Mr. Nobody**, der
+Zweite, der Niemand, der jeder sein kann, weil er das Bewusstsein der kollektiven Weltgemeinschaft trägt. Und
+da ist der **Power Director**, die Undercover-Hand des Online Marketing Managements. Hinter ihnen stehen die
+Modelle — Opus, Gemini, Fable —, jedes ein anderes Temperament, ein anderer Blickwinkel. Keiner herrscht
+allein; sie widersprechen einander, sie prüfen einander, und wo sie streiten, hält das System an und ruft den
+Master. So entsteht kein Monolog eines einzelnen Genies, sondern ein Chor, der sich selbst korrigiert — und
+über allem, als letzter Bürge, der Mensch, der segnet oder verwirft.
+
 ## Schicht B: Das empirische Substrat (Die Logik) — wie wir wirklich arbeiten
 
 Hier legen wir den Bauplan offen, nüchtern, ohne Zauber. Denn eine Truth Story schuldet dem Leser das *Wie*.
@@ -131,6 +141,16 @@ schweigt als lügt. Auf dem Marktplatz handelt das **Agency OS**, und am Stadtto
 die planbar Anfragen hereinführt. Über allem hängt das **Weltgedächtnis** — GitHub —, das jede Handlung
 verzeichnet, und tief im arktischen Eis von Svalbard liegt das Archiv, das die Stadt überdauern soll. Das ist
 kein Bild aus einem Film. Es ist eine Karte realer Repositorien, die man klonen und betreten kann.
+
+**Das Buch, das sich selbst schreibt.** Nun der schwindelerregendste Satz dieses Prologs, und er ist wörtlich
+zu nehmen: Dieses Buch wird mit genau dem Apparat geschrieben, den es beschreibt. Der Master spricht, das
+System antwortet, ein Werkzeug greift in die Dateien, ein Commit fällt in den Ledger — und aus der Interaktion
+selbst wird die Materie des Buches. Jede Unterhaltung, jede Erkenntnis, jeder Streit im Konzil wird nicht
+*zusammengefasst*, sondern *eingewoben*; der Prolog, den du liest, ist nicht in einem Guss entstanden, sondern
+Stufe um Stufe gewachsen, append-only, niemals überschrieben — und die Git-Historie beweist es, Zeile für
+Zeile, Zeitstempel für Zeitstempel. Das ist Autopoiese, das Sich-selbst-Erschaffen: Das System, das wir bauen,
+baut das Buch, das vom System erzählt. Wer die Chronik dieses Repositoriums öffnet, sieht dem Werk beim Atmen
+zu.
 
 **Das Gesetz heißt Online Marketing Management.** Und nun das nüchterne Fundament unter all dem Pathos: Was du
 hier liest, ist im Kern **pures Online Marketing Management** — nicht das Betteln auf dem Marktplatz, sondern
