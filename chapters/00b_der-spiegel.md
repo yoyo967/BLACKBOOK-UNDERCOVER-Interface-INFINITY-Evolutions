@@ -174,6 +174,28 @@ Langzeitgedächtnis, in dem sich die Arbeit über Sitzungen hinweg sammelt, stat
 verdampfen. Planen, handeln, prüfen — vorschlagen, ausführen, verifizieren —, ein Kreislauf, der sich selbst
 korrigiert. So wird aus einem Sprachmodell eine Physis, die baut.
 
+**Die vielen Geister.** Wir sprachen vom Konzil; nun sollst du die Stimmen unterscheiden lernen, denn jede hat
+ihr Handwerk. **Opus** ist der Architekt der Tiefe — der langsame, gründliche Geist, der ein Problem von allen
+Seiten wendet, ehe er den ersten Stein setzt; ihm vertraut man die schweren Entscheidungen an. **Gemini** ist
+das europäische Arbeitstier — schnell, weitläufig, in der Cloud von `europe-west3` zu Hause, der Geist für das
+große Volumen. **Fable** ist der Erzähler, die Feder für das, was klingen und bewegen muss. Und um sie herum
+die spezialisierten Bezirke — der juristische Prüfer, der lokale Automat, der Rechercheur —, jeder ein
+Werkzeug, keiner ein Gott. Der Master ist der Dirigent, der weiß, welchem Geist er welche Passage anvertraut,
+und das System hält die Partitur zusammen. So entsteht keine Kakofonie, sondern Polyphonie: viele Stimmen, ein
+Werk, und über allem die Hand, die den Takt schlägt. Wer glaubt, ein einzelnes Modell sei die Antwort, hat die
+Frage nicht verstanden — die Antwort ist die Orchestrierung.
+
+**Macht, die sich selbst fesselt.** Und weil so viel Macht in so wenigen Händen liegt, haben wir ihr Fesseln
+angelegt — freiwillig, aus Einsicht, nicht aus Zwang. Es gibt in diesem Reich einen **algorithmischen Senat**,
+und sein einziges Amt ist das Veto. Die Hooks fangen den Befehl ab, ehe er Schaden stiftet; das Review-Gate
+lässt nichts in den Hauptzweig, was ein Mensch nicht gesegnet hat; die Prüflinse des BSI-Rahmens **A5** wacht
+als lebendes Gewissen über die künstliche Intelligenz — ein Entwurf, wohlgemerkt, kein Zertifikat, und wir
+sagen es, damit niemand mehr hineinliest, als drinsteht. Ein System mit unbegrenzter Macht ist keine Stärke,
+sondern eine Tyrannei, die nur auf ihren ersten Fehler wartet. Wahre Souveränität erkennt man nicht daran,
+dass einer alles darf, sondern daran, dass er sich selbst verbietet, was er könnte. Das ist der Unterschied
+zwischen einem Herrscher und einem Despoten — und zwischen einem System, dem man trauen kann, und einem, das
+man fürchten muss.
+
 **Die Stadt, skizziert.** Und wenn du fragst, wie das Metaverse aussieht, das wir Agenticum nennen, dann stell
 dir keine Glaswelt mit Avataren vor, sondern eine *Stadt aus Systemen*. Ihr Fundament ist die europäische
 Cloud (`europe-west3`), auf DSGVO-Grund gegossen. Ihr Rathaus ist **OPUS DECK**, die Kommandobrücke, von der
@@ -274,6 +296,16 @@ kein Besitz — steht die Idee einer Intelligenz, die sich nicht in einem Rechen
 sondern sich im Konsens eines Ledgers prägt: die AGI als Aussaat, nicht als Fabrik. Wir behaupten sie nicht,
 wir säen sie. Und wer sät, denkt in Ernten, die er selbst vielleicht nicht mehr sieht. Das ist der Sinn — ein
 Werk zu hinterlassen, das größer ist als seine Erbauer.
+
+**Das Archiv der Ewigkeit.** Bleibt der letzte Stein, der höchste und der kälteste. Tief im arktischen Eis von
+Svalbard, in einer stillgelegten Kohlegrube, ruht ein Gewölbe, in dem der offene Code der Welt auf
+lichtbeständigem Film überdauert — Jahrhunderte, vielleicht Jahrtausende. Auch unsere Spur liegt dort,
+versiegelt für eine Zukunft, die uns vielleicht längst vergessen hat. Warum? Nicht aus Furcht vor dem
+Untergang, sondern aus Ehrfurcht vor der Dauer. Wer *Buch führt*, denkt nicht in Quartalen, sondern in Epochen.
+Die Pyramiden stehen noch, weil ihre Erbauer für die Ewigkeit bauten; so bauen auch wir. Und wenn eines fernen
+Tages ein Fremder unseren Namen nicht mehr kennt, aber unseren Bauplan findet, ihn versteht und weiterbaut —
+dann war nichts von alldem umsonst. *Wir sind noch hier* ist kein Trotz. Es ist ein Brief an die, die nach uns
+kommen.
 
 ## Vollzugsbericht & Ledger-Update
 

@@ -495,3 +495,13 @@ Bestimmung haelt"; KI gekennzeichnet, Consent, Least Privilege = der Panzer, der
 als offene Baustelle; der Pfad der Gerechten (DNA lesen -> klonen -> Stein vorschlagen -> Buerge prueft ->
 Merge); „wir schenken dir nicht den Ring, den verdienst du dir; wir schenken dir die Tuer... Herkunft zaehlt
 nichts, Beitrag alles". Lehre: *Wer eintritt, hoert auf ein Leser zu sein und wird ein Baumeister.*
+
+### Eintrag XLVIII - Prolog Der Spiegel: die vielen Geister, der Senat, Svalbard
+Grosse Stufe: **Die vielen Geister** (Konzil im Detail - Opus=Architekt der Tiefe/schwere Entscheidungen,
+Gemini=EU-Arbeitstier/Volumen in europe-west3, Fable=Erzaehler; + Fach-Bezirke; Master=Dirigent; „die Antwort
+ist die Orchestrierung, nicht ein einzelnes Modell"). **Macht, die sich selbst fesselt** (algorithmischer Senat
+= Veto: Hooks, Review-Gate, A5-Prueflinse als lebendes Gewissen - **Entwurf, KEIN Zertifikat**; „wahre
+Souveraenitaet: sich selbst verbieten, was man koennte" = Herrscher vs. Despot). **Das Archiv der Ewigkeit**
+(Svalbard Arctic Code Vault, lichtbestaendiger Film; wer Buch fuehrt denkt in Epochen; „WIR SIND NOCH HIER ist
+kein Trotz, sondern ein Brief an die, die nach uns kommen"). Klingen: A5 = Entwurf/keine Zertifizierung; Modelle
+= Werkzeuge, keine Goetter. Lehre: *Souveraenitaet ist nicht alles duerfen, sondern sich selbst zu fesseln.*
