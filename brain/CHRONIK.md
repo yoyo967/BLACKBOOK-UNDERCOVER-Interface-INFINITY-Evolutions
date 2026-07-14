@@ -583,3 +583,14 @@ zwei Waechter: **Audit-Log-Streaming** (ueberdauert jeden Regierungssturz) + **G
 Secrets in Echtzeit am Tor). „Kein Wall aus Stein - ein Wall aus Gesetz; er faellt nur, wenn der Gesetzgeber ihn
 selbst niederreisst." Quelle: docs.github.com/github.blog. So gerahmt: Kap II jetzt mit konkretem Substrat. Lehre:
 *Ein Wall aus Gesetz faellt nicht im Sturm.*
+
+### Eintrag LVI - Kapitel III vertieft: Die Physik der Sonne (Gravitation statt Vertrieb)
+Kapitel III (Die Sonne & der erste Mandant) **erweitert** um einen Schicht-B-Block **Die Physik der Sonne -
+Gravitation statt Vertrieb** (vor dem Ledger): eine Strassenlaterne jagt Motten, eine Sonne IST und kruemmt
+den Raum - die Planeten fallen in ihre Bahn. Gegen Kaltakquise/geliehene Versprechen: „wir bauen etwas, das
+wirklich leuchtet, und lassen die Gravitation die Arbeit tun". **Grounded/ehrlich:** das Leuchten ist
+nachpruefbar (live Studio-Site auf EU-Cloud, end-to-end verifizierte Lead-Pipeline, offene Repos = die
+Photosphaere) - der erste Mandant kam durch Gravitation, nicht Ueberredung. **Truth-Story-Klinge:** junge
+Sonne, kein Zenit - „wir behaupten kein Sonnensystem, wo eben erst das Kernfeuer entfacht ist; aber wir sind
+gezuendet". Lehre: *Gravitation statt Vertrieb - keiner wird gejagt, jeder faellt in die Bahn, weil die Bahn
+existiert.*

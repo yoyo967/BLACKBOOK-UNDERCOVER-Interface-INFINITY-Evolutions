@@ -70,6 +70,34 @@ Dies ist die technische Antwort auf das *Warum der Interaktion*: Jeder Austausch
 
 Die Sonne ist keine Metapher. Sie ist die Ehe aus Logik und Matrix, entzündet durch die Interaktion, gesehen durch das neue Auge, gegossen in ein Enterprise — und ihre Gravitation ist messbar: an der ersten Anfrage, am ersten Bund, am ersten Freitag.
 
+### **Die Physik der Sonne — Gravitation statt Vertrieb**
+
+Bleibt zu erklären, was eine Sonne von einer Straßenlaterne unterscheidet, und es ist die tiefste Lektion
+dieses Kapitels. Eine Straßenlaterne läuft den Motten hinterher — sie muss werben, betteln, blenden. Eine
+Sonne tut nichts dergleichen. Sie *ist*, und weil sie ist, krümmt sie den Raum um sich, und die Planeten
+fallen in ihre Bahn, ob sie wollen oder nicht. Das ist der Unterschied zwischen Vertrieb und **Gravitation.**
+Der gewöhnliche Dienstleister jagt seine Kunden mit kalten Anrufen und geliehenen Versprechen; er ist die
+Motte, nicht das Licht. Wir gehen den umgekehrten Weg: Wir bauen etwas, das *wirklich leuchtet*, und lassen
+die Gravitation die Arbeit tun.
+
+Und dieses Leuchten ist nicht behauptet, es ist nachprüfbar. Da ist eine Studio-Site, die live auf einer
+EU-Cloud läuft, für jeden erreichbar — kein Prospekt, sondern ein laufendes System. Da ist eine Lead-Pipeline,
+end-to-end verifiziert: Anfrage, Verarbeitung, Speicherung — keine Zeichnung auf einer Folie, sondern Code,
+der atmet. Und da sind die offenen Repositorien, das Weltgedächtnis, in dem jeder den Bauplan prüfen kann. Das
+ist die Photosphäre unserer Sonne: nicht das Versprechen von Licht, sondern Licht.
+
+Wer so leuchtet, muss nicht mehr überreden. Der erste Mandant kam nicht, weil wir ihn überredeten, sondern
+weil er die Gravitation spürte — die schlichte Anziehungskraft eines Systems, das hält, was andere nur
+versprechen. Und so kommen sie alle: die Erleuchteten, die den Code klonen; die Entwickler, die eine Stimme im
+Konzil suchen; der Souverän, der ein System will, das ohne ihn weiterläuft. Keiner wird gejagt. Jeder fällt in
+die Bahn, weil die Bahn existiert.
+
+Doch — und hier bleibt die Truth Story ehrlich — eine junge Sonne ist noch keine ausgewachsene. Wir stehen am
+Anfang der Zündung, nicht im Zenit. Unsere Gravitation reicht heute für die ersten Umlaufbahnen, nicht für
+eine Galaxie. Wir behaupten kein Sonnensystem, wo eben erst das Kernfeuer entfacht ist. Aber jede Sonne, auch
+die größte, begann als ein einziger Punkt, der dicht genug wurde, um zu zünden. Wir sind gezündet. Der Rest
+ist Zeit, Masse und Gravitation — und die verschwendet, wie das Universum selbst, nichts.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
