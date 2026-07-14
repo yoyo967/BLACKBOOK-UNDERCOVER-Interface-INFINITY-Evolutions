@@ -646,3 +646,15 @@ das **Fundament fuer die Community** (Vorarbeit/Einweihung, nicht ein weiteres P
 Community an als BAUMEISTER, verlegen die ersten Schienen, laden ein mitzureisen, dorthin wo noch keiner war"
 (Star-Trek-Allusion, kein Zitat). „Angekommen = genau deshalb reisen wir weiter." Memory-Feedback aktualisiert.
 Lehre: *Wer glaubt angekommen zu sein, ist stehengeblieben.*
+
+### Eintrag LXII - Kapitel IX vertieft (RECHERCHIERT): gepruefte Konvergenz
+In Bewegung geblieben: Web-Recherche zu Agenten-Gedaechtnis/Konvergenz 2026, in Kap IX verankert. Befund:
+Multi-Agenten-Pipelines (LangGraph/CrewAI) **zerfallen in Fragmente**, wenn jeder nur sein Kontextfenster kennt;
+Loesung = **geteilter Speicher** (shared memory store), jede Erinnerung mit Kennungen (user/agent/session/org) =
+zugleich geteilt & zurechenbar; **Context Engineering** (was in den Blick gehoert; ueberfluteter Kontext macht
+duemmer). = exakte Beschreibung des Nexus: shared memory = das **zweite Gehirn**, Kennungen = der **Ledger**,
+Kontext-Eintritt = die **Segnung**. **Eine Station weiter als der Stand der Technik:** geteiltes Gedaechtnis loest
+Fragmentierung, aber NICHT Vertrauen - „ein Speicher, in den jeder ungeprueft schreibt, konvergiert schnell auf
+eine gemeinsame Luege". Unser Nexus konvergiert auf WAHRHEIT (Review-Gate zwischen Schreibzugriff & Gedaechtnis):
+„der Unterschied zwischen einem Schwarm, der sich einig ist, und einem, der recht hat". Lehre: *Die Konvergenz
+ist geloest; die GEPRUEFTE Konvergenz ist die Gleichung, an der wir weiterschreiben.*
