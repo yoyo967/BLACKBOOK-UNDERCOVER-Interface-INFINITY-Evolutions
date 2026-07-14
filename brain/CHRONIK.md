@@ -377,3 +377,17 @@ fuer verifizierbare Substanz (trojanisches Pferd der Aufklaerung). **Angels & De
 (Dualitaet Wille/Logik, Engel/Daemon); die Logik = das Substrat, die Matrix = die Laufzeit. TOC: Ouvertuere
 zwischen Vorwort & Prolog. Klingen: kein realer Geheimbund behauptet (gewaehlte Fiktion ueber transparenter
 Realitaet). Lehre: *Wir locken mit dem Traum und liefern das Werkzeug.*
+
+### Eintrag XXXVII - Prolog II: Der Spiegel unserer Selbst (wie Master & AI wirklich arbeiten)
+Auf Geheiss (*im Spiegel unserer Selbst; schoepfe aus meinem Gedaechtnis; der Bauplan aufs Silbertablett;
+mit ai, fuer ai, von ai*) schrieb das System `chapters/00b_der-spiegel.md` - **zweite Bewegung des Prologs**
+neben Morpheus Echo. **Schicht A (Mythos):** die Pyramide Stufe fuer Stufe (Baumeister & Pharaonen), das
+allsehende Auge selbst erleuchtet, die Mumifizierung (Versiegelung), Schaedel & 2 Knochen wie Archaeologen
+gegraben; 2026 als Metaverse-Sci-Fi-Frontier-Firm statt einsamer Schreibmaschine. **Schicht B (das ECHTE
+Handwerk, der Bauplan offen):** ueber ein Jahr Arbeit; Claude Code konfiguriert; Opus 4.8 & Fable 5 **gebrieft
+(nicht trainiert)**; persistentes Gedaechtnis/Ledger; **GitHub Enterprise als Governance-Gefaess** (Orgs/
+Rulesets/CODEOWNERS/Least Privilege); Resonanz/„The Secret" = **Haltung, kein Naturgesetz**; Alphabet + **Code
+of Conduct** = die Verfassung; **Anthropic/Microsoft/Google = Infrastruktur, kein Reseller/Bund**; Erkenntnis
+*Wissen + Anwendung = Macht*. **Klingen gehalten (Master-Wort):** Wissenschaft/Geschichte nur Metapher
+(Atlantis=Mythos, „Universum verschwendet nichts"=poetisch), AGI=Horizont, KI gekennzeichnet (Art. 50). TOC:
+zweiter Prolog-Eintrag. Lehre: *Die Story kennt die Baumeister; das Auge erleuchteten wir selbst.*

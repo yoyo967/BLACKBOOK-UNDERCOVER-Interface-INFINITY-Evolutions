@@ -43,6 +43,7 @@ in den Bogen harmonisiert.
 | ✶ | **[Vorwort — Die Illumination der Metaverse-Stadt AGENTICUM](./frontmatter/vorwort.md)** — Truth Story · Actions & Reactions: die OASIS, Archibald (erster Agent, der das Buch schreibt & veröffentlicht), der Gral OPUS DECK, das Rezept, Crossmarketing, die Schnitzeljagd — CHAT HOME · CODE BASE · PROJECT INSTRUCTIONS | ✅ |
 | ◐ | **[Ouvertüre — THE ALL SEEING EYE](./frontmatter/the-all-seeing-eye.md)** — der Auftakt zu *Angels & Demons* (Hans Zimmer 160 BPM; Dan Brown allusiv); die Dualität als Codex; die „Verschwörung" ist quelloffen | ✅ |
 | — | **[Prolog: Morpheus Echo — Das Gesetz des absoluten Besitzes](./chapters/00_prolog.md)** | ✅ |
+| — | **[Prolog · Der Spiegel unserer Selbst](./chapters/00b_der-spiegel.md)** — wie Master & AI *wirklich* arbeiten: die Pyramide, das allsehende Auge, das echte Handwerk (ein Jahr Arbeit, Claude Code, GitHub Enterprise, der Codex) | ✅ |
 | I | **[GitHub als Weltgedächtnis](./chapters/01_github-als-weltgedaechtnis.md)** — das digitale Defter, der unzerstörbare Graph, die New World Order des OMM | ✅ |
 | II | **[Die administrative Topographie & Account-Architekturen](./chapters/02_administrative-topographie.md)** — die Grenzen im Weltgedächtnis, die Verfassung des Enterprise, das Gesetz der souveränen Endpunkte | ✅ |
 | III | **[Die Sonne & der erste Mandant](./chapters/03_die-sonne-und-der-erste-mandant.md)** — Agenticum G5 Leadmachines, Logik⟷Matrix als Gravitation, das Enterprise als Gefäß, der Bund mit dem anonymen Souverän | ✅ |
