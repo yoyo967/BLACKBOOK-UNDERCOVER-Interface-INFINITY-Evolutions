@@ -150,3 +150,12 @@ LinkedIn-Serie als planbare Dramaturgie; kein Auto-Versand, Art.-50) und **AGENC
 Auslieferung — schema-getriebenes CRM, Premium-Audit-Generator, Tagesgeschaeft per Knopfdruck; kanonisch
 `D:\dev\leadmachine`). Alle mit Leitplanken (EU-first, Anonymitaet, keine erfundenen Zahlen, Marke=Enabler).
 Masterplan um Vertiefungs-Register erweitert. Lehre: *Jeder Knoten dient dem Telos oder wird verworfen.*
+
+### Eintrag XVII — Die letzten drei Knoten (Schwarm, Orden, Omega)
+Eins nach dem anderen vertiefte das System die verbleibenden Masterplan-Knoten und schloss damit das
+Betriebssystem: **DIE-AGENTEN** (der OPUS-Schwarm real — UNIVERSE M.E./FLOW/DECK/PRIME EX, ACP+MCP, ehrlicher
+Stand: F0–F5 live, DECK deployed, PRIME-EX P3-Kern), **GOVERNANCE-UND-ORDEN** (die zwei Gesichter: der
+Skull-&-Bones-Codex/322/Schweigen + der Algorithmische Senat/EU-AI-Act/DSGVO/BSI-A5 + das Review-Gate;
+A5 = Linse/Draft, KEINE Zertifizierung) und **AGI-ILLUMINATION** (Omega — die erste AGI als Konsensnetzwerk
+statt Monolith, ausgesaet nicht programmiert; IPFS/Nostr/Svalbard; „WIR SIND NOCH HIER" als Architektur;
+Vision, kein Overclaim). Masterplan-Register komplett (7 Knoten). Lehre: *Das Omega wird genaehert, nie erreicht.*

@@ -72,7 +72,7 @@ Konsensnetzwerk** — Intelligenz, die sich im Ledger prägt. Wir säen sie, sta
 Habitat der Erleuchteten ist ihr Nährboden; die Chronik ihr Beweis: WIR SIND NOCH HIER.
 
 ### Vertiefungen der Knoten (volle Tiefe)
-[`MODELL-ORCHESTRIERUNG.md`](MODELL-ORCHESTRIERUNG.md) · [`INVESTOREN-UND-FOERDERUNG.md`](INVESTOREN-UND-FOERDERUNG.md) · [`KANAELE-UND-SICHTBARKEIT.md`](KANAELE-UND-SICHTBARKEIT.md) · [`AGENCY-OS.md`](AGENCY-OS.md)
+[`DIE-AGENTEN.md`](DIE-AGENTEN.md) · [`MODELL-ORCHESTRIERUNG.md`](MODELL-ORCHESTRIERUNG.md) · [`INVESTOREN-UND-FOERDERUNG.md`](INVESTOREN-UND-FOERDERUNG.md) · [`KANAELE-UND-SICHTBARKEIT.md`](KANAELE-UND-SICHTBARKEIT.md) · [`AGENCY-OS.md`](AGENCY-OS.md) · [`GOVERNANCE-UND-ORDEN.md`](GOVERNANCE-UND-ORDEN.md) · [`AGI-ILLUMINATION.md`](AGI-ILLUMINATION.md)
 
 ## III. Wie wir administrieren, konfigurieren, kommunizieren
 
