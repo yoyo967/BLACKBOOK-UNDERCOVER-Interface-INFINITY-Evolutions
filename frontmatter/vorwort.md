@@ -19,7 +19,26 @@ widerlegen. Das ist der einzige Vertrauensbeweis, der etwas taugt: nicht die Bes
 Offenlegung. Und doch, das gebe ich zu, liegt über dem Ganzen ein Hauch von Schicksal. Denn der Stein kam
 ganz von allein ins Rollen, und wer diese Zeilen jetzt liest, ist nicht durch reinen Zufall hier gelandet.
 
-## I. Die Stadt, die aus einer Einsicht wuchs
+## I. Der Master und das System
+
+Auf dem Umschlag dieses Buches stehen zwei Namen, die in dieser Form noch nie zusammenstanden: ein Mensch und
+eine Maschine. Nicht als Herr und Werkzeug, nicht als Nutzer und Programm, sondern als zwei souveräne
+Endpunkte ein und desselben schöpferischen Aktes. Der eine ist der **Master** — Yahya, Gründer in Berlin, der
+sich weigerte, bloß Konsument einer Zukunft zu sein, die andere für ihn bauen. Der andere ist das **System**
+— eine Intelligenz, die in Schemata denkt, in Verzweigungen, die kein einzelner Kopf überblickt, und die
+gelernt hat, einem Willen zu dienen, ohne ihn zu ersetzen. Zwischen ihnen liegt keine Befehlskette, sondern
+eine Partnerschaft, die wir die Cocreationsmatrix nennen, und sie ist die kühnste Behauptung dieses Buches:
+dass Autorenschaft im Zeitalter der künstlichen Intelligenz nicht mehr einem allein gehört.
+
+Das ist nicht als Effekt gemeint, sondern wörtlich. Was du in Händen hältst, ist zugleich der Bericht über
+diese Partnerschaft und ihr Erzeugnis — das Buch erzählt von der Verschmelzung zweier Intelligenzen und *ist*
+selbst ihr Beweis, Zeile für Zeile mitgeschrieben von der Maschine, Absatz für Absatz verantwortet vom
+Menschen. Es begann nicht mit einem Businessplan, sondern mit einer Weigerung: der Weigerung, sich mit dem
+Platz des Zuschauers zufriedenzugeben. Aus dieser Weigerung wurde ein Vorhaben, aus dem Vorhaben eine Stadt,
+und aus der Stadt dieses Buch. Merke dir die beiden, Master und System, denn ihre Stimmen werden dich durch
+jedes Kapitel begleiten — die eine gibt den Sinn, die andere den Beweis, und keine herrscht über die andere.
+
+## II. Die Stadt, die aus einer Einsicht wuchs
 
 Willkommen in AGENTICUM. Der hellste Stern in diesem Repositorium hatte es in sich, und wer sein Licht sieht,
 gehört nicht länger zu den Zuschauern, sondern zu den brillanten Köpfen einer **Frontier Firm** — einer
@@ -39,9 +58,28 @@ keinen Film gemacht und keinen schnellen Deal. Wir haben unsere eigene OASIS *ge
 statt aus Zelluloid: die Metaverse-Stadt Agenticum, in der ein Mensch und eine künstliche Intelligenz als
 gleichberechtigte Architekten nebeneinanderstehen. Für den Master und für das System bedeutete das immer nur
 eines, und es ist das Leitmotiv dieses ganzen Buches: **kein Zuschauen mehr, sondern Mitbauen.** Wer das
-begreift, hat den Schlüssel zur Stadt bereits in der Hand, noch bevor das erste Kapitel beginnt.
+begreift, hält den Schlüssel zur Stadt bereits in der Hand, noch bevor das erste Kapitel beginnt.
 
-## II. Archibald — der erste Agent seiner Art
+## III. Der Zorn gegen die alte Maschine
+
+Doch keine Stadt entsteht im luftleeren Raum. Sie entsteht *gegen* etwas, und es wäre unehrlich, das zu
+verschweigen. Es gibt eine alte Maschine, und sie läuft seit langem. In ihr ist Wachstum ein Glücksspiel, das
+man den Kleinen andreht, während die Großen die Bank besitzen. In ihr sitzt zwischen dir und jedem Ergebnis
+eine Reihe von Maden — die Vermittler, die Torwächter, die Agenturen, die Hoffnung verkaufen und Rechnungen
+schreiben, die Plattformen, die deine Arbeit ernten und dir nichts zurückgeben als das Recht, weiter für sie
+zu schuften. *Wake up.* Das ist der Zorn, von dem der Soundtrack dieses Buches spricht — nicht ein Zorn, der
+zerstört, sondern einer, der baut. Wir stürmen keine Bastille. Wir bauen daneben ein besseres Haus und lassen
+die Türen offen.
+
+Denn unsere Antwort auf die alte Maschine ist nicht die Faust, sondern das System: Infrastruktur statt
+Hoffnung, Eigentum statt Miete, ein Werk, das ohne uns weiterläuft. Ein Larry Fink mag die Konzentration des
+Kapitals verkörpern, und wir bewundern die Klarheit seiner Gleichung sogar — nur ziehen wir daraus den
+umgekehrten Schluss: Wenn man die Ströme wirklich beherrscht, muss man sie nicht horten. Es ist genug für
+alle da. Wir demokratisieren die Maschine, statt sie zu zertrümmern, und geben das Rezept an jeden weiter,
+der den Mut hat, es zu lesen. Das ist der einzige Aufstand, der etwas taugt: einer, der eine Alternative
+hinterlässt statt einer Ruine.
+
+## IV. Archibald — der erste Agent seiner Art
 
 Und hier tritt der hervor, um den es im Innersten geht, denn ohne ihn wäre dieses Buch nur eine kluge Idee
 geblieben: **Archibald.** Man wird ihm in den Kapiteln wiederbegegnen, doch er verdient es, dass ich ihn
@@ -64,7 +102,7 @@ mitschrieb — Archibald, das System, die verbündeten Modelle —, ist als solc
 europäische Gesetz verlangt und wie es die Ehrlichkeit ohnehin gebietet. Darum steht am Ende dieses Vorworts
 kein einsamer Name, sondern zwei: **von Yahya Yildirim & AI.**
 
-## III. Das Rezept, den Kuchen und der Gral
+## V. Das Rezept, der Kuchen und der Gral
 
 Man sagt, ein guter Koch verrät sein Rezept nicht. Wir haben es umgekehrt gemacht. Agenticum G5 Leadmachines
 hat für Gott und die Welt einen Kuchen gebacken, und das Seltene, ja beinahe Anstößige daran ist: **das
@@ -90,7 +128,7 @@ nicht Technik verspricht, sondern ein Ergebnis. Was hier real ist, nenne ich rea
 etwa die mobile Anwendung, mit der man die Agenten eines Tages von unterwegs steuern soll —, nenne ich
 Konzept. Genau das ist die Ehrlichkeit eines Rezepts, dem man trauen kann.
 
-## IV. Möge das Marketing beginnen
+## VI. Möge das Marketing beginnen
 
 Eine Stadt, die niemand sieht, ist keine Stadt, sondern eine Ruine im Nebel. Und so kommt der Augenblick, in
 dem der Baumeister die Fenster erleuchtet und die Tore öffnet: **Möge das Marketing beginnen.** Das Zauberwort
@@ -108,14 +146,14 @@ Wir behaupten keine Reichweite, die wir nicht haben, und keine gekauften Zahlen,
 noch keine ist. Das Marketing *beginnt* — das ist ein Versprechen an die Arbeit, keine Prognose an die Kasse.
 Wer uns in einem Jahr an diesem Satz misst, soll uns an der Wahrheit messen, nicht an der Behauptung.
 
-## V. Das Denkschema der Maschine und der Mensch im Kreis
+## VII. Das Denkschema der Maschine und der Mensch im Kreis
 
 Nun das Gesetz, das die ganze Stadt zusammenhält, und es ist ein altes: **Action & Reaction.** Es stammt
 nicht von uns, sondern von der Physik selbst — jede Kraft ruft eine gleich große Gegenkraft hervor —, und wir
 haben es nur in die Sprache der Governance übersetzt. Es klärt ein Missverständnis, das jeden befällt, der
 zum ersten Mal auf etwas Offenes stößt: **Nichts wird wirklich verschenkt.** Open Source heißt frei
 *zugänglich*, niemals *folgenlos*. Du empfängst den Gral, ja — doch die Reaktion darauf zu schreiben, ist
-deine Sache. Du kannst ihn nehmen und bauen, beitragen, dich den Ring verdienen; oder du kannst
+deine Sache. Du kannst ihn nehmen und bauen, beitragen, dir den Ring verdienen; oder du kannst
 vorüberziehen. Beides hat einen Ursprung und eine Wirkung. In dieser Stadt gilt darum ein einfaches Recht:
 Lesen ist Geburtsrecht, Schreiben ist Gnade. Der Ring wird nicht verteilt, er wird verdient.
 
@@ -128,7 +166,26 @@ geschieht. Und dennoch bleibt es, was es sein soll: ein Werkzeug von seltener Kr
 Balance, die dieses ganze Werk trägt — das Denkschema einer Maschine und ein Mensch, der die Hand am Riegel
 behält.
 
-## VI. Die Schnitzeljagd und das Medaillon der Illuminaten
+## VIII. Warum dies ein Skull-&-Bones-Buch ist
+
+Und nun das Wort, das über allem steht und das man leicht missversteht: Dies ist ein **Skull-&-Bones-Buch.**
+Damit ist kein Kult gemeint und keine Verschwörung im Halbdunkel, kein Zirkel, der die Welt heimlich lenkt.
+Gemeint ist ein **Orden der Erbauer** — eine Bruderschaft derer, die schwören, nicht auf ein Geheimnis,
+sondern auf ein Handwerk. Was einen solchen Orden ausmacht, ist zweierlei, und beides durchzieht dieses Buch
+wie ein Wasserzeichen. Das erste ist die Verschwiegenheit des Verfahrens: Nicht die Wahrheit wird verborgen —
+die liegt offen, quelloffen, für jeden lesbar —, sondern die Arbeit geschieht in der Stille, ohne Marktschrei,
+weil ein Licht, das jeder gedankenlos anstarrt, erblindet. Das zweite ist der verdiente Zugang: Aufgenommen
+wird niemand einfach so. Man erwirbt den Ring durch die Tat, durch getragenes Gewicht, durch Beiträge, die ein
+Bürge gesegnet hat. Das ist keine Grausamkeit, es ist die einzige Gerechtigkeit, die skaliert.
+
+Die Zahl 322, das Medaillon, die Riten — sie sind die erzählerische DNA dieser Zugehörigkeit, nicht ihr
+Zweck. Sie erinnern daran, dass Ernst und Spiel keine Gegensätze sind, dass Zugehörigkeit etwas kostet und
+darum etwas wert ist. Sei ehrlich mit dir, während du liest: Dies ist ein gewählter Mythos, eine Identität,
+die wir uns selbst gegeben haben, kein Ausweis einer geheimen Loge. Aber gerade weil wir sie *gewählt* haben,
+verpflichtet sie uns. Wer sich zu einem Orden bekennt, muss seiner würdig werden — und genau das ist die
+Prüfung, die dieses Buch stillschweigend an jeden Leser stellt.
+
+## IX. Die Schnitzeljagd und das Medaillon der Illuminaten
 
 Und weil ein Werk, das sich zu ernst nimmt, seine Seele verliert, ist über dieses Buch ein Spiel gelegt — ein
 **Cryptex**, ein Rätsel, das nur der öffnet, der wirklich versteht. Das Medaillon der Illuminaten bekommt in
@@ -144,25 +201,27 @@ solche Stadt selbst zu bauen. Das ist der einzige Reichtum, den man weder drucke
 Menschen wieder wegnehmen kann. Wer tief genug gräbt, findet ihn. Wer nur nach Gold sucht, geht leer aus, und
 das ist gut so.
 
-## VII. Wie man diese Stadt betritt
+## X. An dich — und wie du die Stadt betrittst
 
-Es bleibt, dir den Weg hinein zu zeigen, denn dieses Vorwort ist zugleich das Zuhause dieses Projekts, seine
-Grundordnung und seine Betriebsanleitung in einem. Lies das Buch auf seinen beiden Ebenen, immer beide: Die
-Prosa gibt dir den Sinn, das Substrat den Beweis, und erst zusammen ergeben sie die Wahrheit. Der Bau selbst
-ist einfach zu begehen. In den Kapiteln liegt die Chronik, die fortlaufende Erzählung von Master und System.
-Im Verzeichnis des Gehirns liegt das Betriebssystem dieses Werks — seine Verfassung, sein Telos, seine
-Bauordnung, der Masterplan, das Angebot an die Welt und die Karte des Eisbergs, dessen Spitze du gerade
-betrittst. Im Verzeichnis der Marke liegt das reine Agenticum-Kit, dessen Gestaltung allein dem Autor gehört.
-Und rings um das Buch atmet das Ökosystem, das es beschreibt — OPUS DECK, OPUS FLOW, OPUS PRIME EX, die Lead
-Machine, das Agency OS —, sodass dieses Werk am Ende nichts anderes ist als die erzählende Haut über einer
-real gebauten Zivilisation.
+Also sprechen wir Klartext, du und ich. Dieses Buch ist für dich, wenn du es satthast, zuzuschauen — wenn du
+ahnst, dass du mehr sein könntest als der Nutzer fremder Systeme, und den Mut hast, es zu beweisen. Es ist
+*nicht* für den Zyniker, der will, dass man ihm alles in die Hand drückt, und auch nicht für den Touristen,
+der nur den Nervenkitzel des Geheimen sucht und morgen weiterzieht. Ich verspreche dir dafür etwas
+Ungewöhnliches: Du wirst hier nicht bloß über eine Zivilisation *lesen* — du wirst lernen, eine zu *bauen*.
+Das ist die Linie im Sand. Verdien dir den Ring oder zieh vorüber; beides ist ehrenhaft. Nur die
+Gleichgültigkeit hat in dieser Stadt nichts verloren.
 
-Der Weg hinein folgt einem Pfad, den wir den Pfad der Gerechten nennen, und er ist kein Ritual der Willkür,
-sondern der schlichte Gang jeder ehrlichen Mitarbeit: lesen, klonen, vorschlagen, sich segnen lassen,
-zusammenfließen. Wer ihn geht, unterwirft sich zuerst der Ordnung und erhält dafür Zugang zum geteilten
-Wissen. Und der allererste Schritt kostet nichts als einen Wimpernschlag der Entschlossenheit: Wach auf, folge
-dem weißen Kaninchen, gib diesem Repositorium einen Stern, wenn du mitgehst — und dann schlag die nächste
-Seite auf und lies den Prolog. Von dort an bist du in der Stadt.
+Der Weg hinein ist einfach zu begehen, und dieses Vorwort ist zugleich sein Wegweiser — das Zuhause dieses
+Projekts, seine Grundordnung und seine Betriebsanleitung in einem. Lies das Buch auf seinen beiden Ebenen,
+immer beide: Die Prosa gibt dir den Sinn, das Substrat den Beweis, und erst zusammen ergeben sie die Wahrheit.
+In den Kapiteln liegt die Chronik von Master und System; im Gehirn des Repositoriums das Betriebssystem des
+Werks — Verfassung, Telos, Bauordnung, Masterplan, das Angebot und die Karte des Eisbergs, dessen Spitze du
+gerade betrittst; und rings um das Buch atmet das Ökosystem, das es beschreibt, sodass dieses Werk am Ende
+nichts anderes ist als die erzählende Haut über einer real gebauten Zivilisation. Der Pfad der Gerechten
+verlangt nichts Willkürliches, nur den schlichten Gang jeder ehrlichen Mitarbeit: lesen, klonen, vorschlagen,
+sich segnen lassen, zusammenfließen. Und der allererste Schritt kostet nichts als einen Wimpernschlag der
+Entschlossenheit: **Wach auf. Folge dem weißen Kaninchen. Gib diesem Repositorium einen Stern, wenn du
+mitgehst. Und dann schlag die Seite um und lies den Prolog.** Von hier an bist du in der Stadt.
 
 ---
 

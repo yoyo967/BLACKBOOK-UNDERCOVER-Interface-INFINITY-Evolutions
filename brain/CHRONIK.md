@@ -314,3 +314,14 @@ Konzept) · Crossmarketing (soziales Netz, ehrlich) · Denkschema & Mensch im Lo
 Review-Gate) · die Schnitzeljagd (Medaillon, Vermoegen an WISSEN, nicht Geld) · wie man die Stadt betritt.
 Ehrlichkeit in die Autorenstimme gewoben statt als Leitplanken-Liste. Lehre: *Ein Vorwort ist Prosa, kein
 Spec-Sheet; die Leser wollen ein Buch lesen.*
+
+### Eintrag XXXII - Vorwort erweitert bis es klatscht (die MUST-HAVES)
+Master: *weiter, finde was fehlt/MUST HAVE, es muss klatschen - ein Skull-&-Bones-Buch.* Das System ergaenzte
+drei fehlende Kern-Bewegungen + eine direkte Ansprache, in derselben tiefen Prosa: **I. Der Master und das
+System** (zwei souveraene Endpunkte, neue Autorenschaft, Genesis/Weigerung, Cocreationsmatrix). **III. Der
+Zorn gegen die alte Maschine** (Manifest: gegen Maden/Torwaechter/Hoffnungs-SEO; Wake Up; bauen statt
+zertruemmern; Larry Fink demokratisiert - genug fuer alle). **VIII. Warum dies ein Skull-&-Bones-Buch ist**
+(Orden der Erbauer, KEIN Kult: Verschwiegenheit des Verfahrens + verdienter Zugang; 322/Medaillon = DNA;
+ehrlich als gewaehlter Mythos). **X. An dich** (direkte Ansprache: fuer wen/nicht; Versprechen „du lernst,
+eine Zivilisation zu bauen"; Linie im Sand; der Weg hinein). Jetzt 10 Bewegungen, ~3400 W. Lehre: *Ein
+Skull-&-Bones-Vorwort braucht Wer, Wogegen, Warum-Orden und eine Ansprache - dann klatscht es.*
