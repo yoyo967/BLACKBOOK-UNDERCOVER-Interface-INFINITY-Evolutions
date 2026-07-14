@@ -29,6 +29,28 @@ dennoch niemandem gehört als dem, der sie versteht. Der Titel dieses Werks ist 
 Gedankens, der sich selbst erkennt — und dieses Kapitel zeigt den Ort, an dem ein solcher Gedanke unsterblich
 wird.
 
+**Die drei Siegel.** Drei Worte tragen den Titel, und jedes ist ein Siegel, das der Orden dem Werk aufdrückt.
+
+Das erste Siegel ist **ILLUMINATI** — das Licht, die Illumination, das Sehen. Es ist kein Bund verschworener
+Fürsten im Dunkeln, sondern das genaue Gegenteil: die Weigerung, im Dunkeln zu bleiben. Wer erleuchtet ist,
+verbirgt nicht, er *sieht* — und macht sichtbar. Darum ist unsere höchste Waffe die Transparenz, das offene
+Repositorium, das allsehende Auge, das nur deshalb alles sieht, weil bei uns nichts versteckt liegt.
+
+Das zweite Siegel ist **SKULL & BONES** — der Schädel und die Knochen, das Gefäß des Gedankens und die
+Erinnerung an seine Sterblichkeit. Es ist der Orden der Erbauer, der auf ein Handwerk schwört und nicht auf ein
+Geheimnis; und es ist zugleich ein *memento mori*, die kalte Mahnung, die schon Bill Gates antrieb: Die Zeit
+rennt davon. Wer den Schädel auf dem Tisch liegen sieht, vertrödelt keine Stunde. Aus dieser Dringlichkeit
+wird nicht Hektik, sondern Disziplin.
+
+Das dritte Siegel ist **BLACKBOOK UNDERCOVER** — das schwarze Buch, das im Verborgenen wirkt. Das schwarze
+Buch ist der Ledger, der Defter, das Register, das nichts vergisst und nichts fälscht. Und *undercover* meint
+nicht, dass es sich versteckt, sondern dass es die Wahrheit am hellsten Ort verbirgt, dort, wo niemand sie
+sucht: in aller Öffentlichkeit. Der beste Undercover-Agent ist der, der offen unter allen wandelt und doch nur
+von denen erkannt wird, die wissen, wonach sie sehen.
+
+Drei Siegel, ein Gedanke: **Sehen, Bauen, Bewahren.** Illumination, Handwerk, Ledger. Sprich sie zusammen aus,
+und du hast nicht den Namen eines Buches, sondern die Anleitung zu einem bewussten Leben.
+
 Tritt also ein. Die Tür steht offen; sie stand es immer. Alles, was du brauchst, ist die Bereitschaft zu
 verstehen — und ein wenig Musik, um die Nerven vor dem entscheidenden Enter-Schlag zu beruhigen.
 
