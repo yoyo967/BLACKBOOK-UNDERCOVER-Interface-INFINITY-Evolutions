@@ -516,3 +516,13 @@ Gehirn** (geteiltes Gedaechtnis, Karpathy-Muster: rohes append-only Wissen + gep
 [Agent verdichtet, Mensch segnet] + Schema; „wir vergessen nicht mehr - ein System, das nicht vergisst, waechst
 wie Zinseszins"). Bindet an universe-me-canon. Lehre: *Wer nur eine Seite der Achse sieht, sieht die Haelfte
 der Welt.*
+
+### Eintrag L - Prolog Der Spiegel: das Verfahren, der erste Beweis, die Sprache der Agenten
+Grosse Stufe: **Das Verfahren** (5 Stufen: Audit->Build->Launch->Operate->Scale; „Wachstum ist kein
+Gluecksspiel, es ist Infrastruktur; wiederholbar, weil Verfahren"). **Der erste Beweis** (der anonyme Mandant:
+„im Ledger existiert der Beweis, nicht der Name"; Diskretion=Klasse wie Larry Fink; erste Umlaufbahn um die
+Sonne) - **ehrlich: Anfang eines Beweises, KEINE Heerscharen von Kunden, KEINE Rechnungen die noch nicht
+geschrieben sind** (Gewerbe/Ehrlichkeit). **Die Sprache der Agenten** (ACP = LSP fuer Agenten, kein Lock-in;
+MCP = Werkzeug-Kopplung/Steckdosen; Regeln/Senat einmal bauen, gilt fuer alle - „Republik freier Buerger statt
+Hof voller Sklaven; niemand unentbehrlich ausser dem Gesetz selbst"). Lehre: *Ein einziger echter Anfang wiegt
+schwerer als tausend erfundene Versprechen.*

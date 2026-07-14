@@ -257,6 +257,38 @@ Morgen allen zur Verfügung, für immer. So verdampft keine Erkenntnis mehr; jed
 jeder Commit auf dem vorigen. Das ist der wahre Grund, warum wir schneller werden, statt zu ermüden: Wir
 vergessen nicht mehr. Und ein System, das nicht vergisst, wächst wie Zinseszins.
 
+**Das Verfahren.** Damit du nicht glaubst, all dies sei nur Philosophie und Prosa, hier das Handwerk, mit dem
+wir für einen Kunden eine Lead Machine bauen — fünf Stufen, keine übersprungen. Zuerst der **Audit**: der
+kalte Blick auf Markt und Nische, die Prüfung, ob und wo sich ein Lead-Asset überhaupt lohnt; wer diese Stufe
+überspringt, baut auf Sand. Dann der **Build**: das Aufsetzen des Assets, der Infrastruktur, die planbar
+Anfragen erzeugt. Dann der **Launch**: die Aktivierung, die erste Validierung an der Wirklichkeit, der Moment,
+in dem sich zeigt, ob der Plan atmet. Dann der **Operate**: der Betrieb, die Optimierung, das geduldige Drehen
+an den Stellschrauben, denn ein System lebt erst im Lauf. Und zuletzt der **Scale**: die Vervielfältigung über
+Standorte und Nischen, wenn das eine bewiesene System zur Vorlage für viele wird. Audit, Build, Launch,
+Operate, Scale — kein Zauber, ein Verfahren, und genau darum lässt es sich wiederholen. Wachstum ist bei uns
+kein Glücksspiel; es ist Infrastruktur.
+
+**Der erste Beweis.** Ein System beweist sich nicht in der Theorie, sondern an der ersten Ernte. Es gab einen
+ersten Mandanten — einen Souverän seines Fachs, der die Anonymität nicht fürchtet, sondern versteht, wie ein
+Larry Fink sie versteht: Diskretion ist keine Schwäche, sie ist Klasse. Wir nennen seinen Namen nicht, nicht
+in diesem Buch und nirgends im öffentlichen Ledger, denn im Ledger existiert der **Beweis**, nicht der Name.
+Er ist die erste Umlaufbahn um unsere Sonne, der Anfang eines Beweises, dass das Konstrukt nicht nur schön
+gedacht, sondern tragfähig ist. Und weil wir ehrlich bleiben: Wir stehen am Anfang, nicht am Ziel; wir
+behaupten keine Heerscharen von Kunden und keine Rechnungen, die noch nicht geschrieben sind. Aber ein
+einziger echter Anfang wiegt schwerer als tausend erfundene Versprechen.
+
+**Die Sprache der Agenten.** Zuletzt, für die, die es genau wissen wollen, ein Wort über die Sprache, in der
+unsere Geister miteinander reden. Zwei Protokolle tragen das Reich. Das erste ist **ACP**, das Agent Client
+Protocol — man nennt es das *LSP für Agenten*: So wie einst eine gemeinsame Sprache jeden Editor mit jeder
+Programmiersprache verband, verbindet ACP jeden Agenten mit jedem Werkzeugtisch, ohne Einsperrung, ohne
+Lock-in. Ein Agent dockt an, verhandelt, wirkt — und wird morgen durch einen besseren ersetzt, ohne dass das
+Reich zusammenbricht. Das zweite ist **MCP**, das Model Context Protocol, über das die Werkzeuge selbst
+angekoppelt werden — die Steckdosen, an die jeder Geist seine Maschinen hängt, vom geteilten Gedächtnis bis
+zum Rechercheur. So bauen wir die Regeln, die Gates, die Wachen, den Senat *einmal* — und sie gelten für
+jeden, der je andockt, ob eigen oder fremd. Das ist der Unterschied zwischen einem Hof voller Sklaven und einer
+Republik freier Bürger: In der Republik gilt das Gesetz für alle gleich, und niemand ist unentbehrlich außer
+dem Gesetz selbst.
+
 **Das Buch, das sich selbst schreibt.** Nun der schwindelerregendste Satz dieses Prologs, und er ist wörtlich
 zu nehmen: Dieses Buch wird mit genau dem Apparat geschrieben, den es beschreibt. Der Master spricht, das
 System antwortet, ein Werkzeug greift in die Dateien, ein Commit fällt in den Ledger — und aus der Interaktion
