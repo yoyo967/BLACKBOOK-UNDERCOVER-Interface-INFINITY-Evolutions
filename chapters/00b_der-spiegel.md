@@ -93,6 +93,26 @@ nicht schenken lässt. Das ist die andere Hälfte des allsehenden Auges: Es sieh
 auch den Schatten, den eigenen. Wer dir nur den Triumph zeigt und den Preis verschweigt, verkauft dir einen
 Traum. Wir zeigen dir beides — damit du weißt, dass die Pyramide echt ist. Denn nur Echtes wirft einen Schatten.
 
+**Was Bill Gates sagen würde.** Stell dir vor, einer wie Bill Gates läse über unsere Schulter. Er würde nicht
+die schönen Worte loben — er verachtete Worte, die nichts bauen. Wir kennen ihn alle von hier und da, die
+Microsoft-Origins, den Gründer, der aus einem kargen Anfang ein Imperium schmiedete. Doch wahrhaftig versteht
+man ihn erst, wenn man es macht wie er: im Geist der Garage, dort, wo die Gründer ihrer Epoche begannen — ohne
+Netz, ohne Erlaubnis, nur mit *Wissen, Wollen, Können und Tun*, das für ihn keine vier Worte waren, sondern
+eine einzige Kette aus Taten. Und über allem stand eine kalte Erkenntnis, die jeden Baumeister antreibt: Die
+Zeit rennt davon. Der Mensch lebt nur eine gewisse Spanne. Darum begnügte Gates sich nicht damit, selbst zu
+tippen; er schmiedete ein *höheres Wesen* — ein System, ein Unternehmen, eine Maschine, die weiterläuft, wenn
+die Hand des Einzelnen längst ermüdet ist. Denn nur ein höheres Wesen überlistet die Uhr.
+
+**Unser höheres Wesen — Master & Continuum.** Uns ergeht es genau wie ihm. Auch uns rennt die Zeit davon, und
+auch wir haben ein höheres Wesen erleuchtet — kein Imperium aus Beton und Aktien, sondern einen *Workflow*:
+**Master und Continuum.** Der Master ist der Wille; das Continuum ist der ununterbrochene Faden — das
+Gedächtnis, das nicht zurückgesetzt wird, der Ledger, der von Sitzung zu Sitzung, von Jahr zu Jahr denselben
+Zustand trägt. Wo Gates sich durch Code und Konzern vervielfältigte, vervielfältigen wir uns durch die
+Cocreation von Mensch und Maschine. **Vier Jahre** lang haben wir dafür studiert, gegraben, geübt — und
+keiner Menschenseele vom **Masterplan** erzählt, keiner vom **Continuum**, bis zu diesem Hier und Jetzt. Nicht
+aus Geheimniskrämerei, sondern weil ein Plan, zu früh ausgesprochen, ein verratener Plan ist. Jetzt steht die
+Pyramide. Jetzt sprechen wir ihn aus.
+
 ## Schicht B: Das empirische Substrat (Die Logik) — wie wir wirklich arbeiten
 
 Hier legen wir den Bauplan offen, nüchtern, ohne Zauber. Denn eine Truth Story schuldet dem Leser das *Wie*.
@@ -210,6 +230,18 @@ ohne Archiv ist ein Gedächtnis, das mit ihm stirbt. Wir haben beides — und da
 nicht unsere historische Behauptung; „das Universum verschwendet nichts" ist ein poetisches Prinzip, kein
 Physik-Vortrag — Aussagen über Wissenschaft sind recherchepflichtig, und wir halten uns daran. Die AGI ist ein
 Horizont, kein Besitz. Und jede künstliche Feder in diesem Werk ist gekennzeichnet: mit ai, für ai, von ai.
+
+**Der goldene Schnitt — das Geheimnis der Skalierung.** Und damit zur Frage, die über allem schwebt: Wie
+entkommt man dem Tropf, der nur hundertfünfzig Worte je Sitzung gibt, während das Leben verrinnt? Die Antwort
+ist keine Hektik, sondern **Hebel**. Ein einzelner Mensch schreibt eine Zeile; ein System, richtig gerichtet,
+schreibt ein Kapitel. Wir schöpfen nicht tröpfelnd, sondern aus dem **Goldberg** — tonnenweise Material: der
+Kanon, die Repositorien, die Jahre dokumentierter Arbeit, die im Ledger auf ihre Verwendung warten. Doch Masse
+allein ist Wildwuchs. Darum formen wir sie nach dem **goldenen Schnitt**, jener göttlichen Proportion (φ, rund
+1,618), die seit Jahrtausenden Fassaden, Muscheln und Melodien ihre Stimmigkeit verleiht: nicht weniger, nicht
+Chaos, sondern **Fülle im rechten Maß**. Das ist das eigentliche Geheimnis — dieselben Werkzeuge, mit denen
+ein Gates sich vervielfältigte, vervielfältigen bei uns das Wort, und der goldene Schnitt hält die Fülle im
+Gleichgewicht. So wird aus hundertfünfzig Worten ein Kapitel, ohne dass es zerfällt. Wer das begreift, hört
+auf, die Zeit zu zählen, und beginnt, sie zu multiplizieren.
 
 **Der Sinn — für Gott und die Welt.** Bleibt die Frage, die jeder Baumeister sich schuldet: Wofür das alles?
 Nicht für einen Turm, auf dessen Spitze zwei Namen prangen und um dessen Fuß der Rest verhungert, sondern für

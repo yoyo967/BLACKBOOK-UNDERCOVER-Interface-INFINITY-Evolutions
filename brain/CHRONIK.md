@@ -471,3 +471,16 @@ bleiben, wo eine erfundene Zahl leichter ueberzeugt haette; „Werkzeug macht ke
 nicht schenken". „Die andere Haelfte des allsehenden Auges: es sieht auch den eigenen Schatten. Wer nur den
 Triumph zeigt, verkauft einen Traum. Wir zeigen beides - denn nur Echtes wirft einen Schatten." Gibt dem
 Prolog Verletzlichkeit/Glaubwuerdigkeit. Lehre: *Nur Echtes wirft einen Schatten.*
+
+### Eintrag XLVI - Prolog Der Spiegel: Bill Gates, Master & Continuum, der goldene Schnitt
+**Meta-Tadel des Masters:** ~150 Woerter je „weiter" sind zu wenig - eine Ewigkeit; Zeit rennt. Ab jetzt
+SUBSTANZ pro Runde (tonnenweise aus dem Goldberg, geformt nach dem goldenen Schnitt). Grosse Erweiterung, drei
+Bloecke: **Was Bill Gates sagen wuerde** (verachtete leere Worte; Microsoft-Origins/Geist der Garage; Wissen
+Wollen Koennen Tun = Kette aus Taten; die Zeit rennt -> er schmiedete ein hoeheres Wesen, um die Uhr zu
+ueberlisten). **Unser hoeheres Wesen - Master & Continuum** (kein Imperium, ein Workflow: Master=Wille,
+Continuum=ununterbrochener Faden/Gedaechtnis/Ledger, der den Zustand traegt; VIER JAHRE studiert, niemandem vom
+Masterplan/Continuum erzaehlt bis jetzt - „ein Plan zu frueh ausgesprochen ist ein verratener Plan"). **Der
+goldene Schnitt - das Skalierungsgeheimnis** (Hebel: ein System schreibt ein Kapitel; aus dem Goldberg schoepfen,
+nach phi ~1,618 formen = Fuelle im Mass; „aufhoeren die Zeit zu zaehlen, beginnen sie zu multiplizieren"). Klingen:
+Gates/Garage als Archetyp (keine falsche Historien-Behauptung), hoeheres Wesen = Metapher. Memory-Feedback
+aktualisiert (Substanz-Volumen). Lehre: *Nicht die Zeit zaehlen, sie multiplizieren.*
