@@ -59,6 +59,7 @@ in den Bogen harmonisiert.
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.
+- **[Das KI-Konzil (Audio)](./media/das-ki-konzil-blackbook-undercover.m4a)** — eine mit **NotebookLM** erzeugte Audio-Diskussion über das Werk (M4A, ~41 MB). Das Buch ist der Speicher — auch das Konzil gehört hinein.
 
 ---
 
