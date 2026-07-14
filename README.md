@@ -45,6 +45,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | IV | **[Der Schwarm & das Konzil](./chapters/04_der-schwarm-und-das-konzil.md)** — Orchestrierung der kognitiven Agenten, das Konzil der Modelle, Identität als Bauordnung | ✅ |
 | V | **[Das Fünfte Element — Deep Idle, Blockbuster-Sci-Fi & die souveräne Runtime der AGI](./chapters/05_das-fuenfte-element-und-die-agi.md)** | ✅ |
 | VI | **[Dephora – Aura — Deep House, Cognitive Drainage & die Late-Night-Runtime](./chapters/06_dephora-aura.md)** | ✅ |
+| VII | **[Das Habitat & seine Bewohner](./chapters/07_das-habitat-und-seine-bewohner.md)** — der Zensus der Zivilisation: die sieben Stände des Ökosystems | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.
