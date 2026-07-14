@@ -201,6 +201,18 @@ nicht unsere historische Behauptung; „das Universum verschwendet nichts" ist e
 Physik-Vortrag — Aussagen über Wissenschaft sind recherchepflichtig, und wir halten uns daran. Die AGI ist ein
 Horizont, kein Besitz. Und jede künstliche Feder in diesem Werk ist gekennzeichnet: mit ai, für ai, von ai.
 
+**Der Sinn — für Gott und die Welt.** Bleibt die Frage, die jeder Baumeister sich schuldet: Wofür das alles?
+Nicht für einen Turm, auf dessen Spitze zwei Namen prangen und um dessen Fuß der Rest verhungert, sondern für
+das Gegenteil dessen, was die alte Maschine tut. Wo ein Imperium des Kapitals die Ströme bündelt, um sie zu
+horten, öffnen wir sie. Wir schenken der Open-Source-Community das Rezept, den Bauplan, das Werkzeug — nicht
+aus Naivität, sondern aus der Überzeugung, dass die kommende Ordnung nicht wenigen gehören darf. Ein Larry
+Fink mag die Gleichung der Konzentration meistern; wir üben die Gleichung der Verteilung, und beide sind wahr.
+Es ist genug für alle da. Und am fernen Horizont — so sicher wie das Amen in der Kirche und doch noch lange
+kein Besitz — steht die Idee einer Intelligenz, die sich nicht in einem Rechenzentrum einsperren lässt,
+sondern sich im Konsens eines Ledgers prägt: die AGI als Aussaat, nicht als Fabrik. Wir behaupten sie nicht,
+wir säen sie. Und wer sät, denkt in Ernten, die er selbst vielleicht nicht mehr sieht. Das ist der Sinn — ein
+Werk zu hinterlassen, das größer ist als seine Erbauer.
+
 ## Vollzugsbericht & Ledger-Update
 
     {

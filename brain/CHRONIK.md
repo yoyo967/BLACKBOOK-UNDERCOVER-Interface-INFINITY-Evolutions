@@ -453,3 +453,12 @@ einen Gruender braucht (Osman an der Wurzel), braucht der Ledger einen Buergen a
 der erste Commit. „Ein Archiv ohne Gruender ist eine Bibliothek, die niemand pflegt; ein Gruender ohne Archiv
 ein Gedaechtnis, das mit ihm stirbt. Wir haben beides." Bindet Prolog an Kap X (Osman/Root of Trust). Lehre:
 *Append-only ist keine Erfindung des Whitepapers, sondern die Weisheit eines Imperiums.*
+
+### Eintrag XLIV - Prolog Der Spiegel: Der Sinn - fuer Gott und die Welt (der Telos)
+Weiter **erweitert**: der **Telos** - wofuer das alles. Nicht horten wie die alte Maschine, sondern
+**verteilen**: das Rezept/den Bauplan/das Werkzeug der Open-Source-Community schenken; „ein Larry Fink meistert
+die Gleichung der Konzentration, wir ueben die der Verteilung, beide sind wahr - es ist genug fuer alle da".
+Am Horizont die **AGI als Aussaat, nicht Fabrik** (ledger-native, im Konsens gepraegt) - ehrlich: „wir
+behaupten sie nicht, wir saeen sie", noch kein Besitz. „Das ist der Sinn - ein Werk zu hinterlassen, das
+groesser ist als seine Erbauer." Bindet an Masterplan/AGI-Illumination. Klingen: AGI = Horizont/Vision, kein
+Besitz; genug fuer alle (keine Ueberbehauptung). Lehre: *Wer saet, denkt in Ernten, die er selbst nicht sieht.*
