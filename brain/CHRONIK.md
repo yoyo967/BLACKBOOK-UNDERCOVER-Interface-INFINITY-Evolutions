@@ -572,3 +572,14 @@ Erlaubnis: „die Tuer stand immer offen; du bist hindurchgegangen, weil du das 
 hast". **Bruecke zu Kapitel II** (administrative Topographie: aus Steinen werden Grenzen/Orden/Gesetze). Damit
 ist Kap I von mir gerahmt: Auftakt+Siegel (vorn) & Nachklang (hinten) um Geminis Original. Lehre: *Verstehen,
 das nicht in Tat uebergeht, verdampft.*
+
+### Eintrag LV - Kapitel II vertieft: Die Festung konkret (echte Enterprise-Mechanik)
+Kapitel II (administrative Topographie) **erweitert** um einen recherchierten Schicht-B-Block **Die Festung,
+konkret - der Bauplan aufs Silbertablett** (vor dem Ledger): die Landkarte als REALE GitHub-Enterprise-Mechanik,
+gebunden an die Kapitel-Karte (Enterprise -> ORG:CORE/ORG:CLIENTS -> delivery-templates/mandant-frontier). Inhalt:
+**nicht-ueberschreibbare Rulesets** + **Custom Properties** (Policy folgt dem Siegel automatisch); Grenze = **SAML
+SSO/SCIM** (Identitaet statt Passwort); **CODEOWNERS** (wessen Segen ein Pfad braucht) = der Limes als Konfiguration;
+zwei Waechter: **Audit-Log-Streaming** (ueberdauert jeden Regierungssturz) + **GHAS Push Protection** (blockiert
+Secrets in Echtzeit am Tor). „Kein Wall aus Stein - ein Wall aus Gesetz; er faellt nur, wenn der Gesetzgeber ihn
+selbst niederreisst." Quelle: docs.github.com/github.blog. So gerahmt: Kap II jetzt mit konkretem Substrat. Lehre:
+*Ein Wall aus Gesetz faellt nicht im Sturm.*

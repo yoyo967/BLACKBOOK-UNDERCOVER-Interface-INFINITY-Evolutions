@@ -146,6 +146,37 @@ Wie *Larry Fink* mit der Aladdin-Engine die Risiken der halben Kapitalwelt in ei
 
 Diese Bausteine — Enterprise-Policy, Provinz-Trennung, Ruleset, administrative Physis, CODEOWNERS, Aufnahme-Ritus und Senat — sind zusammen der Grund, warum ein Reich wachsen kann, ohne zu zerfallen. Die administrative Topographie ist keine Metapher. Sie ist eine erzwingbare Verfassung.
 
+### **Die Festung, konkret — der Bauplan aufs Silbertablett**
+
+Damit die Landkarte nicht Poesie bleibt, hier die Mechanik, mit der ein Reich aus Rechten tatsächlich gezogen
+wird. Über allem steht das **Enterprise** — die imperiale Klammer. Unter ihm die **Organisationen**, unsere
+Provinzen: `ORG: CORE` für die innere Lehre, `ORG: CLIENTS` für die Mandanten. Und über beide legt der MASTER
+das schärfste Werkzeug, das die Plattform kennt: **Rulesets** — Regeln, die *nicht überschreibbar* sind und
+auf jedes Repository einer Ebene zugleich wirken. Geschützte Branches, erzwungene Reviews, signierte Commits,
+lineare Historie: nicht als Bitte an den Entwickler, sondern als Naturgesetz der Provinz. An **Custom
+Properties** gebunden, weiß ein Ruleset selbst, auf welches Land es fällt — ein Mandanten-Repo trägt ein
+anderes Siegel als eine geheiligte Vorlage, und die Policy folgt dem Siegel automatisch.
+
+Die Grenzen zwischen den Provinzen sind keine Zeichnung, sondern eine **Identität**. Der Zugang ist über
+**SAML SSO** an einen einzigen, unternehmensweiten Ausweis gekoppelt und über **SCIM** bereitgestellt und
+wieder entzogen — kein loses Passwort, das im Sand verweht, sondern eine Identität, die man gewährt oder
+nimmt. Innerhalb einer Provinz wacht die Datei **CODEOWNERS** über jeden Pfad: Sie bestimmt, wessen Segen ein
+Stein braucht, ehe er in die Mauer darf. So ist der *Limes* aus dem ersten Teil kein Bild mehr, sondern eine
+Konfiguration.
+
+Und weil eine Grenze nur so viel wert ist wie ihre Wächter, patrouillieren zwei davon Tag und Nacht. Der
+erste ist der **Audit Log**: Jede Handlung — jeder Merge, jede Rechteänderung, jeder Zutritt — fällt in ein
+Register, das sich an einen externen Ort *streamen* lässt, damit die Chronik den Sturz jeder Regierung
+überdauert. Der zweite ist **GitHub Advanced Security** mit seiner **Push Protection**: ein Wächter, der jeden
+Reisenden am Tor durchsucht und einen Push, der ein Geheimnis mitschmuggeln würde, in Echtzeit *blockiert*,
+ehe er die Festung betritt. Kein Secret sickert hinein, keine Mutation bleibt ungesehen, kein Merge geschieht
+ohne Segnung.
+
+Das ist die administrative Topographie, wenn man ihr die Poesie nimmt: ein Enterprise, zwei Provinzen,
+nicht-überschreibbare Rulesets, eine an Identität gebundene Grenze, zwei unbestechliche Wächter. Kein Wall aus
+Stein — ein Wall aus Gesetz. Und ein Wall aus Gesetz fällt nicht im Sturm; er fällt nur, wenn der Gesetzgeber
+ihn selbst niederreißt.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
