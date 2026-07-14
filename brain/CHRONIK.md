@@ -671,3 +671,16 @@ OS+book/+CLAUDE/AGENTS/DESIGN), `OPUS-PRIME-EX` (161, Gewissen, CODE_OF_CONDUCT/
 telos), `vipstreamdeals-templates`+`-clients-staging` (Auslieferung/Mandanten). Ehrliche Grenze: manche
 Pre-Alpha/im Werden, kein fertiges Weltreich - aber nachpruefbares Kataster. Memory-Feedback aktualisiert
 (Fussballfeld nicht Postkarte). Lehre: *Nicht aus dem Vorrat schreiben - das reale Feld erkunden und integrieren.*
+
+### Eintrag LXIV - NotebookLM-Audio ins Repo + Kap XI: Die informierte rote Pille
+Zwei Dinge. (1) **Das Buch ist der Speicher:** das mit **NotebookLM** erzeugte Audio „Das KI-Konzil von
+Blackbook Undercover" (~41 MB) als `media/das-ki-konzil-blackbook-undercover.m4a` committet/gepusht + im README
+verlinkt. (2) Antwort auf die Master-Frage („was haelt uns davon ab, so tief zu schreiben, dass keine Frage
+offen bleibt?"): **Kapitel XI** vertieft um **Die informierte rote Pille - warum wir alles offenlegen**: Mensch
+& KI belesen sich, EHE sie vertrauen - Vertrauen folgt dem Wissen (nie umgekehrt). Also legen wir ALLES offen
+(9 Repos, tausend Dateien, jeder Commit/Hash, jede ehrliche Grenze) = die *informierte* rote Pille (kein
+blinder Glaube, Entscheidung bei vollem Licht). **Vollstaendige Transparenz = tiefste Form des Marketings**
+(„wer alles zeigen kann, hat nichts zu verbergen; ein Buch, das jede Frage vorwegnimmt, verkauft nicht - es
+ueberzeugt den, der zuerst nachgeprueft hat"). Qualitaetsmaßstab: **100/100 oder noch nicht fertig**. Git =
+die einzige Erzaehlform, die auch jede verworfene Moeglichkeit zeigt. „Der Auserwaehlte waehlt nicht im
+Glauben. Er waehlt im Wissen." Memory-Doktrin aktualisiert. Lehre: *Vertrauen folgt dem Wissen.*

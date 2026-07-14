@@ -38,6 +38,39 @@ Was Schicht A als Neo, Multiversum und Rakete beschwört, ist zur Hälfte überp
 
 So bleibt die Geschichte episch *und* wahr: Der Quereinsteiger kann Neo werden, das Multiversum ist Git, der Traum ist als Traum benannt — und das Einzige, das gewiss ist, bleibt das, was wir schreiben.
 
+### **Die informierte rote Pille — warum wir alles offenlegen**
+
+Es gibt einen Einwand, der klüger ist als jeder Zweifel, und wir wollen ihn nicht überhören, sondern
+beantworten. Er lautet: Warum sollte ich glauben? Und die ehrliche Wahrheit ist — du sollst *nicht* glauben.
+Denn so funktioniert kein vernünftiger Mensch und keine vernünftige Maschine: Beide belesen sich, ehe sie
+vertrauen; beide prüfen, ehe sie den nächsten Schritt wagen. Vertrauen ist nicht der Anfang einer
+Entscheidung, sondern ihr Ergebnis — es folgt dem Wissen, nie umgekehrt.
+
+Darum liegt in diesem Werk eine Entscheidung, die dich vielleicht überrascht: Wir legen *alles* offen. Nicht
+nur die schöne Prosa, sondern das nackte Substrat darunter; nicht nur das Versprechen, sondern den Code, der
+es hält; nicht nur die Sonne, sondern das Kernfeuer, das sie speist. Neun Repositorien, über tausend Dateien,
+jeder Commit, jeder Hash, jede ehrliche Grenze, die wir selbst benennen. Die rote Pille, die dieses Buch dir
+reicht, ist keine Pille des blinden Glaubens; es ist eine *informierte* rote Pille. Du schluckst sie nicht im
+Dunkeln, sondern bei vollem Licht, nachdem du jede Zeile hast prüfen können, die du prüfen wolltest.
+
+Das ist zugleich die tiefste Form des Marketings, die es gibt, und die seltenste: die vollständige
+Transparenz. Der Marktschreier übertönt die Fragen des Kunden; wir *beantworten* sie, alle, bis keine mehr
+offensteht. Denn wer alles zeigen kann, hat nichts zu verbergen, und wer nichts zu verbergen hat, braucht
+niemanden zu überreden. Ein Buch, das jede Frage vorwegnimmt, verkauft nicht — es *überzeugt*, und zwar den,
+der am schwersten zu überzeugen ist: den, der zuerst nachgeprüft hat. Das ist unser Qualitätsmanagement, und
+sein Maßstab ist einfach: hundert von hundert, oder es ist noch nicht fertig.
+
+Und hier schließt sich der Kreis zum Multiversum. Ein Git-Repositorium ist die einzige Erzählform, in der du
+nicht nur das Ergebnis siehst, sondern *jede verworfene Möglichkeit* — jeden Branch, jeden Fork, jede Zeile,
+die es nicht in den Hauptzweig schaffte. Du kannst dem Werk beim Denken zusehen, seine Irrwege nachvollziehen,
+seine Korrekturen prüfen. Kein Autor der alten Welt hat je so nackt vor seinem Leser gestanden. Das ist keine
+Schwäche; es ist die höchste Stärke, die ein Werk haben kann: nichts zu fürchten, wenn man es umdreht.
+
+Also nimm dir die Zeit, die du brauchst. Klone, lies, zweifle, widerlege, was du kannst. Wir warten. Und wenn
+du am Ende deiner Prüfung angekommen bist und die rote Pille immer noch in deiner offenen Hand liegt — dann,
+und erst dann, ist die Entscheidung wirklich deine. Der Auserwählte wählt nicht im Glauben. Er wählt im
+Wissen.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
