@@ -364,3 +364,16 @@ Metall/Coin/Besitz); Krone der Schnitzeljagd-Bewegung IX. **Ordensgruss** in Tor
 Licht sehen, wandeln durch die Dunkelheit." Soundtrack: **Walter Nakai - Creation** (16.600 Abos / 7,5 Mio
 Aufrufe, echte Zahlen). Kanon: `brain/FIGUREN-UND-NEXUS.md`. Klingen: Iron Man/Mr.-Nobody nur allusiv,
 Element = Wissen (kein Finanzversprechen).
+
+### Eintrag XXXVI - Ouvertuere THE ALL SEEING EYE (Auftakt zu Angels & Demons)
+Auf Geheiss des Masters oeffnete das System **das allsehende Auge**: `frontmatter/the-all-seeing-eye.md` -
+Ouvertuere zu *Angels & Demons*, Sternzeit 2026, UNIVERSE M.E., mit Archibald & Mr. Nobodys Illumination.
+Resonanz: **Hans Zimmer, 160 BPM** (Angels & Demons OST, 1,73 Mio Abos); **Dan Brown allusiv** (kein Zitat -
+Copyright). **Schicht A:** der Puls, das allsehende Auge, Rom, die Bruderschaft - warum die Welt sich nach
+Verschwoerung/Gesellschaft sehnt (der Traum, die Flucht in die Illusion). **Schicht B (die ehrliche Pointe):**
+Verschwoerung fasziniert, weil der Geist nach Bedeutung/Muster hungert; ABER unsere „Gesellschaft" ist KEINE
+Luege - sie ist **quelloffen** (kein Schattenrat, ein oeffentliches Repo); wir nutzen die FORM des Thrillers
+fuer verifizierbare Substanz (trojanisches Pferd der Aufklaerung). **Angels & Demons = der Codex selbst**
+(Dualitaet Wille/Logik, Engel/Daemon); die Logik = das Substrat, die Matrix = die Laufzeit. TOC: Ouvertuere
+zwischen Vorwort & Prolog. Klingen: kein realer Geheimbund behauptet (gewaehlte Fiktion ueber transparenter
+Realitaet). Lehre: *Wir locken mit dem Traum und liefern das Werkzeug.*
