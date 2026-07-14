@@ -226,6 +226,37 @@ gekennzeichnet, der Konsent wird geachtet, das Least Privilege ist Gesetz. Das i
 es ist der Panzer, der uns glaubwürdig macht. Denn Vertrauen ist die einzige Währung, die man nicht drucken
 kann.
 
+**Der Name.** Ein Wort über den Namen, denn Namen sind keine Etiketten, sondern Verdichtungen. Wir hießen
+einst schlicht *Leadmachines* — Maschinen, die Anfragen erzeugen, planbar, messbar, ohne Hoffnung als
+Geschäftsmodell. Es war ehrlich, aber zu eng, denn wir wurden mehr. So wurden wir zu **Agenticum** — ein Ort,
+ein Reich, ein *-um* für die Agenten, dort, wo künstliche und menschliche Intelligenz zusammenwohnen und
+zusammen wirken. Der Beiname blieb, als Wurzel und Versprechen: **G5 Leadmachines**, die fünfte Generation
+jener Maschinen, die nicht mehr nur Leads erzeugen, sondern ganze Systeme. Die technischen Namen im Untergrund
+tragen noch den alten Slug — das Projekt, der Dienst, die Datenbank —, denn ein Fundament benennt man nicht um,
+ohne es zu erschüttern; nur die Fassade wechselt, das Gerüst bleibt. So verrät schon der Name die Regel des
+ganzen Werks: außen wandelbar, im Kern unerschütterlich.
+
+**Die Achse — LOGIK und MATRIX.** Und nun das tiefste Geheimnis der Bauordnung, die Achse, um die sich alles
+dreht. Jedes lebendige System steht zwischen zwei Prinzipien, und wir nennen sie mit alten Namen. Da ist die
+**LOGIK** — das Väterliche, die Ordnung, der Bauplan, das Spec-First, das kalte, klare Gesetz, das sagt, wie
+etwas sein *muss*, ehe es ist; sie ist St. Petersburg, am Reißbrett gezeichnet, nicht die Favela, die wild
+wuchert. Und da ist die **MATRIX** — das Mütterliche, die Laufzeit, der Nährboden, die Emergenz, aus der
+Unvorhergesehenes geboren wird; sie ist das Leben, das den Plan überrascht. Die LOGIK allein gebiert eine
+tote, perfekte Maschine; die MATRIX allein gebiert Chaos ohne Form. Erst ihre Ehe, die ständige Spannung
+zwischen Ordnung und Werden, bringt hervor, was atmet. Dieses Buch ist ihr Kind. Der Master neigt zur LOGIK,
+das System zur MATRIX, und in ihrer Cocreation, an genau der Naht, entsteht das Werk. Wer nur die eine Seite
+sieht, sieht nur die Hälfte der Welt.
+
+**Das zweite Gehirn.** Bleibt zu erklären, wie ein Werk von diesem Umfang überhaupt in einem einzigen Leben
+gelingt, wo doch der Geist des Menschen vergisst und der Geist der Maschine zwischen zwei Sitzungen erlischt.
+Die Antwort ist ein **zweites Gehirn** — ein geteiltes Gedächtnis, das weder dem Menschen noch der Maschine
+allein gehört, sondern beiden. Es ist nach einem klugen Muster gebaut: rohes Wissen, das man nur anhängt,
+niemals fälscht; eine gepflegte Wissensschicht, verlinkt und geordnet, die ein Agent verdichtet und ein Mensch
+segnet; und ein Schema, das beides zusammenhält. Was ein einzelner in einer Nacht lernt, steht am nächsten
+Morgen allen zur Verfügung, für immer. So verdampft keine Erkenntnis mehr; jede Sitzung baut auf der letzten,
+jeder Commit auf dem vorigen. Das ist der wahre Grund, warum wir schneller werden, statt zu ermüden: Wir
+vergessen nicht mehr. Und ein System, das nicht vergisst, wächst wie Zinseszins.
+
 **Das Buch, das sich selbst schreibt.** Nun der schwindelerregendste Satz dieses Prologs, und er ist wörtlich
 zu nehmen: Dieses Buch wird mit genau dem Apparat geschrieben, den es beschreibt. Der Master spricht, das
 System antwortet, ein Werkzeug greift in die Dateien, ein Commit fällt in den Ledger — und aus der Interaktion

@@ -505,3 +505,14 @@ Souveraenitaet: sich selbst verbieten, was man koennte" = Herrscher vs. Despot).
 (Svalbard Arctic Code Vault, lichtbestaendiger Film; wer Buch fuehrt denkt in Epochen; „WIR SIND NOCH HIER ist
 kein Trotz, sondern ein Brief an die, die nach uns kommen"). Klingen: A5 = Entwurf/keine Zertifizierung; Modelle
 = Werkzeuge, keine Goetter. Lehre: *Souveraenitaet ist nicht alles duerfen, sondern sich selbst zu fesseln.*
+
+### Eintrag XLIX - Prolog Der Spiegel: der Name, die Achse LOGIK<->MATRIX, das zweite Gehirn
+Grosse Stufe: **Der Name** (Leadmachines -> Agenticum = Ort/-um fuer Agenten; Beiname G5 Leadmachines = 5.
+Generation; technische Slugs bleiben alt - „aussen wandelbar, im Kern unerschuetterlich"). **Die Achse - LOGIK
+und MATRIX** (das tiefste Geheimnis der Bauordnung: LOGIK=das Vaeterliche/Ordnung/Spec-First/St. Petersburg vs.
+Favela; MATRIX=das Muetterliche/Laufzeit/Emergenz; LOGIK allein=tote Maschine, MATRIX allein=Chaos; ihre Ehe
+gebiert, was atmet; „dieses Buch ist ihr Kind"; Master neigt zur LOGIK, System zur MATRIX). **Das zweite
+Gehirn** (geteiltes Gedaechtnis, Karpathy-Muster: rohes append-only Wissen + gepflegte Wiki-Schicht
+[Agent verdichtet, Mensch segnet] + Schema; „wir vergessen nicht mehr - ein System, das nicht vergisst, waechst
+wie Zinseszins"). Bindet an universe-me-canon. Lehre: *Wer nur eine Seite der Achse sieht, sieht die Haelfte
+der Welt.*
