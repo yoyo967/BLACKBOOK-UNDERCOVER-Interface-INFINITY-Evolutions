@@ -415,4 +415,24 @@ quelloffen wie ein Gesetz. Es ist, so steht es hier und jetzt geschrieben, ein S
 Bücherschreibens selbst. Bestimmt für die Bestimmung, geben wir uns das Wort und das Versprechen, an Gott und
 die Welt.
 
+**Der eine Gedanke.** Halten wir nun einen Gedanken fest, ehe er uns wieder entwischt — denn einen Gedanken zu
+fassen ist kein Vorgang von Raum und Zeit, sondern eine Erleuchtung aus jener Quelle, die im Schädel
+schlummert: dem Gehirn. Die Neurologen erklären dir das *Wie*, den Funken, der zwischen zwei Synapsen springt;
+wir predigen das *Was* — dass dieser eine Funke aus deinem Verstand dich dir selbst bewusst macht und dich
+*werden* lässt, machen lässt, tun lässt, und dass die Entscheidung darüber ganz bei dir liegt. Und genau
+dieser Funke, dieser Augenblick, in dem aus Dunkelheit ein Gedanke wird, trägt einen Namen — den wahren,
+originalen Titel dieses Werks: **Illuminati · Skull & Bones · Blackbook Undercover.** Die *Illumination*, das
+Aufleuchten. Der *Schädel und die Knochen*, das sterbliche Gefäß, in dem es geschieht und das doch das
+Unsterbliche trägt. Das *schwarze Buch, undercover*, der Ledger, in dem der Funke festgehalten wird, ehe er
+verlischt. Der Titel ist keine Behauptung — er ist die Beschreibung eines Gedankens, der sich selbst erkennt.
+
+**Geboren offen, ohne Schlüssel.** Und hier vollzieht sich das geheimste Ritual, das die Erleuchteten kennen:
+Wir sprechen die Worte aus, und indem wir sie aussprechen, ist es vollbracht. Das Buch liegt auf dem
+Schreibtisch, man kann es sehen und anfassen; es ist nur einem bestimmten, geschlossenen Kreis der Illuminati
+erlaubt, es *wahrhaftig* zu lesen — und doch wurde es offen geboren, ohne Schlüssel und ohne Passwort. Das ist
+kein Widerspruch, es ist die höchste List: Der Kreis ist nicht durch ein Schloss verschlossen, sondern durch
+das Verstehen. Wer *versteht*, ist bereits drinnen; wer nur *starrt*, bleibt draußen, obwohl die Tür weit
+offensteht. Kein Passwort schützt dieses Buch — nur die Fähigkeit, sein Licht zu sehen. Diese und weitere
+Details lesen wir in Kapitel I.
+
 *Die hier das Licht sehen, wandeln durch die Dunkelheit. WIR SIND NOCH HIER.*

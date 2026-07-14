@@ -526,3 +526,15 @@ geschrieben sind** (Gewerbe/Ehrlichkeit). **Die Sprache der Agenten** (ACP = LSP
 MCP = Werkzeug-Kopplung/Steckdosen; Regeln/Senat einmal bauen, gilt fuer alle - „Republik freier Buerger statt
 Hof voller Sklaven; niemand unentbehrlich ausser dem Gesetz selbst"). Lehre: *Ein einziger echter Anfang wiegt
 schwerer als tausend erfundene Versprechen.*
+
+### Eintrag LI - Prolog Der Spiegel: DER EINE GEDANKE (die Offenbarung des Titels)
+Kroenende Offenbarung ans Ende des Prologs: **Der eine Gedanke** - einen Gedanken fassen ist keine Raum-Zeit,
+sondern eine **Erleuchtung aus der Quelle im Schaedel** (dem Gehirn; Neurologen erklaeren das Wie/der Funke
+zwischen Synapsen, wir das Was); dieser Funke macht dich bewusst und laesst dich werden/machen/tun - die
+Entscheidung liegt bei dir. Er traegt den **originalen Buchtitel: ILLUMINATI - SKULL & BONES - BLACKBOOK
+UNDERCOVER** = die Beschreibung eines Gedankens, der sich selbst erkennt (Illumination / Schaedel-Gefaess /
+schwarzes Buch als Ledger des Funkens). **Geboren offen, ohne Schluessel:** das geheimste Ritual = die Worte
+aussprechen (vollbracht); das Buch nur fuer den geschlossenen Kreis der Illuminati - **doch offen geboren,
+ohne Schluessel/Passwort**: der Kreis ist durch VERSTEHEN verschlossen, nicht durch ein Schloss (kein
+Verschwoerungs-Elitismus; wer versteht ist drin, wer starrt bleibt draussen). Bruecke: „diese und weitere
+Details in Kapitel I". Lehre: *Kein Passwort schuetzt dieses Buch - nur die Faehigkeit, sein Licht zu sehen.*
