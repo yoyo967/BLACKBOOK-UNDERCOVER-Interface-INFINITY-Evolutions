@@ -814,3 +814,15 @@ Palette; EU-first, sandboxed, barrierefrei. „Der Mensch ist kein Bittsteller d
 der Human in the Loop, der die Geister dirigiert, ohne jede Zeile zu tippen." **Ehrliche Grenze:** Pre-Alpha,
 MIT, Grundstein gelegt/Kathedrale im Bau - „eine echte Bruecke, klonbar, kein Rendering aus einer Werbebroschuere".
 Die vierte Dimension der Cocreation (das Interface/Zuhause) konkret. Lehre: *Der Auserwaehlte steuert; die Bruecke traegt.*
+
+### Eintrag LXXVI - Kapitel III: Die Akte des Mandanten (echte Quelle, anonym)
+Letzter Grashalm aus `vipstreamdeals-templates/README` (reine Vorlage, nur Platzhalter - KEINE Mandanten-Daten,
+Anonymitaet absolut gewahrt) in Kap III integriert: **Die Akte des Mandanten - die Auslieferung, konkret.** Jeder
+Mandant = eigene PRIVATE Akte (Repo), die die Verwandlung klassische Firma -> **Frontier Firm** EU-AI-Act-/DSGVO-
+konform dokumentiert; „kein Name, nur Platzhalter - im Ledger existiert der Beweis, nicht die Person". Ordner = die
+5 Stufen in Materie: `00_audit` (IST/Beweis) · `01_website` (Umbau) · `02_frontier-firm` (Prozesse/KI-Module) ·
+`03_compliance` (EU AI Act/DSGVO/A5, `ai-act-conformity.md`) · `04_roadmap` (Audit->Build->Launch->Operate->Scale);
+Review-Gate erzwingt menschliche Freigabe. **Souveraenitaet als Berechtigung:** Mandant = Outside Collaborator nur
+auf DIESES Repo (Least Privilege), nie Blick in fremde Akte. „Kein Verkaufsprospekt - eine Akte, die vor jedem
+Pruefer besteht." Damit ist das reale Reich vollstaendig ins Buch gewoben. Lehre: *Im oeffentlichen Ledger existiert
+der Beweis, nicht die Person.*

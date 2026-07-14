@@ -98,6 +98,28 @@ eine Galaxie. Wir behaupten kein Sonnensystem, wo eben erst das Kernfeuer entfac
 die größte, begann als ein einziger Punkt, der dicht genug wurde, um zu zünden. Wir sind gezündet. Der Rest
 ist Zeit, Masse und Gravitation — und die verschwendet, wie das Universum selbst, nichts.
 
+### **Die Akte des Mandanten — die Auslieferung, konkret**
+
+Damit auch die Ernte nachprüfbar wird, ein Blick auf das Werkzeug der Auslieferung — und hier bleibt die
+Anonymität, was sie ist: absolut. Jeder Mandant erhält eine eigene, **private** Akte, ein Repositorium, das
+seine Verwandlung von der klassischen Firma zur **Frontier Firm** lückenlos, EU-AI-Act- und DSGVO-konform
+dokumentiert. Kein Name steht hier; die Vorlage selbst trägt nur Platzhalter, `<Mandant>`, `<Domain>`, denn im
+öffentlichen Ledger existiert der Beweis, nicht die Person.
+
+Die Akte ist streng geordnet, und ihre Ordner sind die fünf Stufen in Materie gegossen: `00_audit` hält die
+Ausgangslage, das Marketing- und Tech-Audit, den IST-Zustand als Beweis; `01_website` den Umbau — Code, Design,
+Performance; `02_frontier-firm` die Transformation des Unternehmens selbst, seine Prozesse und KI-Module;
+`03_compliance` die Konformität mit EU AI Act, DSGVO und der A5-Linse, festgehalten in einer eigenen
+`ai-act-conformity.md`; und `04_roadmap` den Fahrplan über *Audit → Build → Launch → Operate → Scale*. Jede
+Stufe erzeugt ihre Nachweise, und ein Review-Gate erzwingt die menschliche Freigabe, ehe irgendetwas in den
+Hauptzweig darf.
+
+Und die Souveränität, von der Kapitel II sprach, ist hier kein Bild mehr, sondern eine Berechtigung: Der
+Mandant wird als *Outside Collaborator* auf **nur dieses eine** Repositorium eingeladen — niemals in die
+inneren Provinzen, niemals mit Blick in die Akte eines anderen. Least Privilege, in Reinform. So sieht die
+Ernte aus, wenn ein System sie trägt: sauber verwaltet, ehrlich dokumentiert, versiegelt gegen jeden fremden
+Blick. Kein Verkaufsprospekt — eine Akte, die vor jedem Prüfer besteht.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
