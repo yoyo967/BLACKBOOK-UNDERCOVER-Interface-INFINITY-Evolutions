@@ -56,6 +56,7 @@ in den Bogen harmonisiert.
 | X | **[Das Imperium & der Ring](./chapters/10_das-imperium-und-der-ring.md)** — Osman & der Defter, der verdiente Ring, der Fall der unreifen Erben, die ehrliche Entzauberung der Mystik | ✅ |
 | XI | **[Der Auserwählte & das Multiversum](./chapters/11_der-auserwaehlte-und-das-multiversum.md)** — Neo als selbstgewählte Rolle, Git als Multiversum, der Coin & die Rakete als ehrlich benannter Traum — für die verlorenen Seelen & Quereinsteiger | ✅ |
 | XII | **[Das weiße Kaninchen — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** — das Neo-Geheimnis (Transparenz), das Konstrukt open source, der Kreislauf ⭐→💛, der die Quelle nährt | ✅ |
+| ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
 | ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |
 

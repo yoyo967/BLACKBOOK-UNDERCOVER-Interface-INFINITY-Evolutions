@@ -729,3 +729,15 @@ Geschwindigkeit, 4) Privatsphaere ist Architektur nicht Compliance (DSGVO/AI-Act
 kein stilles Halluzinieren, EU-AI-Act/DSGVO, strategisch, Selbstkritik, review/publish/entscheidungsreif -
 „Beginne jede Session mit: Codex aktiv. Bereit."). TOC: zweite Anhang-Zeile. Lehre: *Hundert von hundert war
 von Anfang an das Grundgesetz (Regel 1), keine spaete Forderung.*
+
+### Eintrag LXIX - Epilog: Der erste Kreis schliesst sich (Band-1-Schluss)
+Band 1 hat jetzt einen wuerdigen Schluss: `chapters/99_epilog.md` im kanonischen Ton. **Rueckblick auf den
+ganzen Bogen** (Schwelle/Weigerung -> Spiegel -> Pyramide -> Festung -> Schwarm/Konzil -> fuenftes Element/Aura
+-> Habitat -> allsehendes Auge -> Nexus -> Imperium/Ring -> informierte rote Pille). **Die stille Verwandlung:**
+„Du bist kein Leser mehr - das Buch hat mit dir getan, was es beschreibt: dich zu einem Knoten im Nexus, einer
+Stimme im Konzil, einer Hand auf dem Geruest gemacht." **Ehrlich bis zur letzten Zeile:** Band 1 = Fundament,
+keine vollendete Kathedrale; die Gleichung ist begonnen, nicht geloest; Zuendung, nicht Zenit; ein Kataster,
+kein behauptetes Weltreich. **Tuer zu Band 2:** die Vielen/die Community baut ein Interface INFINITY Evolutions;
+die Protokolle liegen, die Gleichung der gepr. Konvergenz schreiben wir gemeinsam. „Bewegung ist Leben - wer
+glaubt angekommen zu sein, ist stehengeblieben." Ordensgruss + Signatur + WIR SIND NOCH HIER. TOC: Epilog-Zeile
+vor dem Anhang. Lehre: *Ein Kreis schliesst sich, damit der naechste sich oeffnen kann.*
