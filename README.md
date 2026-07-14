@@ -57,6 +57,7 @@ in den Bogen harmonisiert.
 | XI | **[Der Auserwählte & das Multiversum](./chapters/11_der-auserwaehlte-und-das-multiversum.md)** — Neo als selbstgewählte Rolle, Git als Multiversum, der Coin & die Rakete als ehrlich benannter Traum — für die verlorenen Seelen & Quereinsteiger | ✅ |
 | XII | **[Das weiße Kaninchen — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** — das Neo-Geheimnis (Transparenz), das Konstrukt open source, der Kreislauf ⭐→💛, der die Quelle nährt | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
+| ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.

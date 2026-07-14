@@ -718,3 +718,14 @@ keine Songtexte, Zitate <=15 Woerter; Marke=Cosmic-Cyan kein Gold; A5=Entwurf; S
 Was man beitragen kann · Lizenz CC BY 4.0 (+ Recht/KI-Kennzeichnung bestaetigen) · Stern & Herz. README: Abschnitt
 „Mitbauen" verlinkt es. Lehre: *Aufgenommen wird niemand - aber die Tuer steht jedem offen, der sie mit Verstehen
 durchschreitet.*
+
+### Eintrag LXVIII - Back-Matter: Der Codex - die 7 Unantastbaren Regeln (Referenz-Blatt)
+Den ECHTEN Codex aus Geminis Kap I geborgen (nicht erfunden) und als sauberes Referenz-Blatt
+`backmatter/codex.md` destilliert (volle Fassung bleibt in Kap I). Die 7 Regeln: 1) **100/100 oder nicht**
+(= genau die Master-Doktrin, war von Anfang an Regel 1!), 2) Du bist verantwortlich. Immer., 3) Klarheit vor
+Geschwindigkeit, 4) Privatsphaere ist Architektur nicht Compliance (DSGVO/AI-Act = Wettbewerbsvorteil),
+5) Brainstorming ist kein Schritt, sondern ein Zustand, 6) Jede KI-Interaktion trainiert deinen Verstand,
+7) Alles dokumentieren. Plus **„Codex als KI-Instruktion"** (der Aktivierungs-Prompt: Co-Creator, 100/100,
+kein stilles Halluzinieren, EU-AI-Act/DSGVO, strategisch, Selbstkritik, review/publish/entscheidungsreif -
+„Beginne jede Session mit: Codex aktiv. Bereit."). TOC: zweite Anhang-Zeile. Lehre: *Hundert von hundert war
+von Anfang an das Grundgesetz (Regel 1), keine spaete Forderung.*
