@@ -38,6 +38,7 @@ Bestimmung ist — für Gott und die Welt das Buch verfassen. Zwischen Wille und
 
 > **Orchestrierung, nicht Abhängigkeit:** Modelle sind Werkzeuge im magischen Dreieck. Kein Modell ist
 > allmächtig; das Review-Gate und der Senat bleiben menschlich bzw. unumgehbar.
+> → Volle Tiefe: [`MODELL-ORCHESTRIERUNG.md`](MODELL-ORCHESTRIERUNG.md) (das *Konzil der Modelle*).
 
 ### 3. Die Menschen & Rollen (das Habitat)
 | Akteur | Warum | Was | Wie |
