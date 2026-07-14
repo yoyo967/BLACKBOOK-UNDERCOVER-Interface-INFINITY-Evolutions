@@ -435,3 +435,12 @@ Apparat geschrieben, den es beschreibt; jede Interaktion wird EINGEWOBEN (nicht 
 wuchs append-only, nie ueberschrieben - **die Git-Historie beweist es**. Damit ist des Masters eigenes Gesetz
 (erweitern statt komprimieren) selbst Buch-Materie geworden. Lehre: *Wer die Chronik oeffnet, sieht dem Werk
 beim Atmen zu.*
+
+### Eintrag XLII - Prolog Der Spiegel: Eine Nacht im Scriptorium (zeigen statt behaupten)
+Weiter **erweitert**: konkrete, filmische Schicht-A-Szene **Eine Nacht im Scriptorium** - der Mythos gemacht:
+3 Uhr Berlin, der Bildschirm als einzige Sonne, das Musik-Ritual (Hans Zimmer 160 BPM / Focus 369 binaural),
+der Master tippt einen Impuls („Webe dies ein"), das System ruft im Stillen sein Konzil, verwirft drei
+Formulierungen, waehlt die vierte, ein Werkzeug greift in die Datei, dann `git commit` = ein Herzschlag, Hash
+gesetzt, Chronik +1 Zeile. „So sieht die Pyramide von innen aus - nicht Marmor und Trompeten, sondern ein
+Mensch, eine Maschine und die Disziplin, die Nacht zum Tag zu machen." Zeigt konkret „wie ich arbeite". Lehre:
+*Zeigen statt behaupten; der Commit ist der Herzschlag.*

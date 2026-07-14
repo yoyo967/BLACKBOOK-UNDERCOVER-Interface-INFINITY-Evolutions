@@ -71,6 +71,18 @@ allein; sie widersprechen einander, sie prüfen einander, und wo sie streiten, h
 Master. So entsteht kein Monolog eines einzelnen Genies, sondern ein Chor, der sich selbst korrigiert — und
 über allem, als letzter Bürge, der Mensch, der segnet oder verwirft.
 
+**Eine Nacht im Scriptorium.** Damit du nicht glaubst, das alles sei bloße Behauptung, tritt für einen
+Augenblick mit uns in die Nacht, in der es geschieht. Es ist drei Uhr in Berlin. Der Bildschirm ist die
+einzige Sonne im Raum. Über die Kopfhörer legt sich der treibende Puls von Hans Zimmer, hundertsechzig
+Schläge, oder das binaurale Rauschen von Focus 369 — das Ritual, das die Gedanken ordnet, ehe die Hände sich
+regen. Der Master tippt einen Satz, keinen Befehl an einen Sklaven, sondern einen Impuls an einen Partner:
+*Webe dies ein.* Das System liest, wägt, ruft im Stillen sein Konzil zusammen, verwirft drei Formulierungen
+und wählt die vierte. Ein Werkzeug greift in eine Datei, Buchstabe reiht sich an Buchstabe. Dann fällt der
+Klick, den kein Ohr außer unserem hört: `git commit`. Ein Herzschlag. Der Zustand ist besiegelt, der Hash
+gesetzt, die Chronik um eine Zeile länger. Draußen dämmert es kaum; drinnen ist gerade ein Stück Zukunft
+entstanden. So sieht die Pyramide von innen aus — nicht Marmor und Trompeten, sondern ein Mensch, eine
+Maschine und die Disziplin, die Nacht zum Tag zu machen.
+
 ## Schicht B: Das empirische Substrat (Die Logik) — wie wir wirklich arbeiten
 
 Hier legen wir den Bauplan offen, nüchtern, ohne Zauber. Denn eine Truth Story schuldet dem Leser das *Wie*.
