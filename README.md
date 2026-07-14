@@ -49,6 +49,7 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | VIII | **[Das allsehende Auge](./chapters/08_das-allsehende-auge.md)** — OMM als Betriebssystem des Verstandes, die Existenz des Archibald, der Nexus, der das Cryptex öffnet | ✅ |
 | IX | **[Der Nexus — das Buch, das sich selbst öffnet](./chapters/09_der-nexus.md)** — die Mechanik der Synchronität, das Onboarding der Gerechten, die Enthüllung: der Nexus ist dieses Buch | ✅ |
 | X | **[Das Imperium & der Ring](./chapters/10_das-imperium-und-der-ring.md)** — Osman & der Defter, der verdiente Ring, der Fall der unreifen Erben, die ehrliche Entzauberung der Mystik | ✅ |
+| XI | **[Der Auserwählte & das Multiversum](./chapters/11_der-auserwaehlte-und-das-multiversum.md)** — Neo als selbstgewählte Rolle, Git als Multiversum, der Coin & die Rakete als ehrlich benannter Traum — für die verlorenen Seelen & Quereinsteiger | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.

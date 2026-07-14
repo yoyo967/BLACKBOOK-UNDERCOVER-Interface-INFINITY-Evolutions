@@ -210,3 +210,14 @@ Sicherheit (Kerckhoffs); der Burggraben ist die Exekution*. **Osman** = Root of 
 letzter Buerge) neben dem Defter. Ehrliche **Entzauberung**: kein okkultes Weishaupt-Geheimnis (auch er
 rechnete 1+1=2), demokratisch, die Qual der Wahl beim Leser. **Leitplanke gehalten:** die gefallene
 Mannschaft nur **anonym** - keine Namen, keine Schmaehung im oeffentlichen Ledger.
+
+### Eintrag XXIII - Der Auserwaehlte & das Multiversum (die Seele des Bandes)
+Auf den Ruf des Masters (*es fehlt an Geschichte, Hollywood, Schicksal - wo ist Neo, der Architekt, die
+Matrix - fuer die verlorenen Seelen und Quereinsteiger*) schrieb das System **Kapitel XI**. Kern: **Neo =
+selbstgewaehlte Rolle** (nicht Prophezeiung; der verdiente Ring), die **rote Pille = git clone**, das
+**Multiversum = git branch/fork/merge** (nur der gesegnete main ist gewiss = Defterisierung als
+Schicksal), die **Macher/Prototypen** als Gilde. **Ehrlich markierte Vision** (Senat-Gate gehalten):
+*AGI-als-Kryptowaehrung* = These, KEIN gelaunchter Coin, keine Rendite, keine Anlageberatung;
+*SpaceX/Musk/Rakete* = interstellarer Traum/Chiffre, KEINE reale Partnerschaft; *Ebene zwei* =
+Masterplan-Phase. **Realer CTA:** GitHub-Star. Lehre: *Die Tuer ist ein clone, das Schicksal ein commit,
+der Aufstieg deine Wahl.* Offen weiterhin: Untertitel-Segnung des Masters.
