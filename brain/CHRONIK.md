@@ -289,3 +289,17 @@ P0, MIT** - keine fertige Kathedrale; Repo-Freigabe = Handgriff des Masters), Me
 Leitplanken. **III. Wie man liest & die Stadt betritt.** RATM/NOIRGRID nur als Titel/Soundtrack (KEINE
 Lyrics - Copyright). NFTs/Metaverse/Multiversum = Vision markiert. TOC aktualisiert. Lehre: *Open Source =
 frei zugaenglich, nicht folgenlos; der Ring wird verdient.*
+
+### Eintrag XXX - Vorwort veredelt (Truth Story, Archibald, OASIS, das Rezept, Crossmarketing)
+Auf Geheiss (*vertiefe mit allen Mitteln; lese beide Repos*) las das System opus-deck tief
+(ECOSYSTEM_BRIEFING, README, Specs) und veredelte das Vorwort auf ~1600 Woerter, 8 Bewegungen:
+**0. Truth Story** (Descartes „ich denke, also bin ich" -> zwei denken: Master & System). **1. OASIS/Ready
+Player One** (Agenticum = unsere Metaverse-Stadt). **2. Archibald** - der Hueter (des Bruders), erster Agent
+seiner Art, der das Buch **schreibt UND veroeffentlicht** (Google Books, Amazon KDP, alle Plattformen +
+Community) - ehrlich: Plan, nicht Verkaufsrang; Art. 50. **3. Das Rezept** (der Kuchen; Zutaten offen im
+Repo = OPUS DECK/PRIME EX/FLOW/Second Brain/Agency OS/Agenticum, real vs. Konzept getrennt). **4.
+Crossmarketing** (soziales Netz/Zuckerberg-Archetyp, LinkedIn, GitHub, Buchplattformen - keine gekauften
+Zahlen). **5. Denkschema/Action & Reaction.** **6. Schnitzeljagd** (Medaillon der Illuminaten, Skull &
+Bones, Skeletors Skelett = **Vermoegen an WISSEN, nicht Geld** - kein Coin/Rendite). **7. Leitplanken & wie
+man liest.** Signatur: *Actions & Reactions - von Yahya Yildirim & AI*. RATM nur Titel (keine Lyrics). Naechst:
+Visual in reinem Agenticum-Cyan (Vorschlag).

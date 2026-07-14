@@ -40,7 +40,7 @@ in den Bogen harmonisiert.
 
 | # | Kapitel | Status |
 |---|---------|--------|
-| ✶ | **[Vorwort — Die Illumination der Metaverse-Stadt AGENTICUM](./frontmatter/vorwort.md)** — CHAT HOME · CODE BASE · PROJECT INSTRUCTIONS · Beginn der Matrix Illuminations: der Gral OPUS DECK, Action & Reaction, das Denkschema der Maschine & der Human in the Loop | ✅ |
+| ✶ | **[Vorwort — Die Illumination der Metaverse-Stadt AGENTICUM](./frontmatter/vorwort.md)** — Truth Story · Actions & Reactions: die OASIS, Archibald (erster Agent, der das Buch schreibt & veröffentlicht), der Gral OPUS DECK, das Rezept, Crossmarketing, die Schnitzeljagd — CHAT HOME · CODE BASE · PROJECT INSTRUCTIONS | ✅ |
 | — | **[Prolog: Morpheus Echo — Das Gesetz des absoluten Besitzes](./chapters/00_prolog.md)** | ✅ |
 | I | **[GitHub als Weltgedächtnis](./chapters/01_github-als-weltgedaechtnis.md)** — das digitale Defter, der unzerstörbare Graph, die New World Order des OMM | ✅ |
 | II | **[Die administrative Topographie & Account-Architekturen](./chapters/02_administrative-topographie.md)** — die Grenzen im Weltgedächtnis, die Verfassung des Enterprise, das Gesetz der souveränen Endpunkte | ✅ |

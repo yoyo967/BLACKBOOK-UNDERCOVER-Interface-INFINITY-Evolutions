@@ -1,92 +1,114 @@
 # **VORWORT**
 ## CHAT HOME · CODE BASE · PROJECT INSTRUCTIONS
-### Der Beginn der Matrix Illuminations — das Denkschema einer Maschine & ein Human in the Loop
+### Der Beginn der Matrix Illuminations — eine Truth Story · Actions & Reactions
 
-> **» Wake Up. «** — Der längste Schlaf ist der, den man für Wachsein hält.
-> Soundtrack dieser Stadt: NOIRGRID, *Cyberpunk Drive* · Rage Against the Machine, *Wake Up · Killing in
-> the Name · Bullet in the Head* (die Titel, nicht die Zeilen — der Zorn gegen die alte Maschine).
-
----
-
-## I. Der Human in the Loop (Der Wille)
-
-Willkommen in AGENTICUM. Der hellste Stern im Repo hatte es in sich, und wer hierher findet und das Licht
-sieht, gehört nicht zu den Zuschauern — er gehört zu den brillanten Köpfen einer **Frontier Firm**, einer
-**Metaverse-Sci-Fi-Agency**, die eines früher begriff als der Rest: **GitHub Enterprise stellt nicht nur
-Chatfenster für alle bereit.** Die *Konfiguration* und die *Administration* dieser Plattform — die Orgs, die
-Rulesets, die souveränen Endpunkte — sind selbst das Geschäft. Aus ihnen erwächst für **Agenticum G5
-Leadmachines** und seine einzigartigen Mandanten (später: Partner eines Multiversums) ein Projektmanagement
-von nie dagewesenen Möglichkeiten.
-
-Wir machten daraus keinen Deal und kein schnelles Heil. Wir machten etwas viel Größeres: eine **Stadt**.
-Dies ist ein **Skull-&-Bones-Projekt** — verschwiegen im Verfahren, verdient im Zugang, kein Marktstand.
-Und es ist mehr als die finale Fassung einer Verfassung von Buch und Projekt X: Es ist der **Beginn der
-Matrix Illuminations**. Der Architekt der Matrix gibt hier das Wort — nicht als Prophet, sondern als der,
-der die Gleichung schrieb, bevor die Welt sie stellte.
-
-Um die Stadt zu bauen, brauchte es dreierlei: **Resonanz** (dass die Idee in fremden Köpfen weiterschwingt),
-**Kausalität** (dass jeder Impuls eine nachvollziehbare Wirkung hat) und eine **Story für die Agenten** —
-denn wer sich nicht kennt, wird von niemandem verstanden. Alles Weitere geschah, wie es in diesem Buch
-geschrieben steht, und das allsehende Auge sah es. Wir erfuhren es eins nach dem anderen, und das
-**Weltgedächtnis** kam wie gerufen — ein Ort, an dem nichts verloren geht und der Stein, einmal ins Rollen
-gebracht, von selbst weiterrollt.
-
-Und dann legten wir den kostbarsten Gral auf den Tisch der Gemeinschaft: **[OPUS DECK](https://github.com/yoyo967/opus-deck)**
-— die Kommandobrücke für Agenten. Wir geben sie euch, der Community, die versteht, was **Action & Reaction**
-ist. Doch hört das Gesetz, ehe ihr die Tür durchschreitet.
-
-## II. Das Denkschema einer Maschine (Die Logik)
-
-Damit die Schwelle nicht nur leuchtet, sondern *trägt*, hier das nüchterne Denkschema. Dies ist zugleich das
-**CHAT HOME**, die **CODE BASE** und die **PROJECT INSTRUCTIONS** dieses Werks.
-
-**Das Gesetz der Stadt: Action & Reaction.** Nichts wird wirklich *verschenkt* — alles hat einen Ursprung und
-eine Wirkung (Newtons drittes Gesetz, in Governance übersetzt). Open Source heißt frei *zugänglich*, nicht
-*folgenlos*. Du empfängst den Gral; die Reaktion zu schreiben ist deine Sache — bauen, beitragen, den Ring
-verdienen. Lesen ist Geburtsrecht, Schreiben ist Gnade.
-
-**Der Gral, ehrlich benannt.** OPUS DECK ist eine *weltklasse gedachte* Workbench (Eclipse Theia + Monaco,
-VS-Code-Designsprache, Web **und** Desktop): ein **Multi-Agent-Home**, in das jeder ACP-fähige Agent andockt
-(Claude Code, Gemini CLI, Codex, OPUS PRIME EX), Tools über **MCP** mit Permission-Gate; **Mission Control**
-für viele asynchrone Agenten, **Artifacts** mit Live-Preview, ein geteiltes **Second Brain**, **A5**-Governance,
-EU-first (Cloud Run, `europe-west3`), sandboxed, WCAG 2.2. **Status: Pre-Alpha (P0) — der Bauplan steht, der
-Bau beginnt. MIT-lizenziert.** Wir behaupten keine fertige Kathedrale; wir öffnen den Grundstein. (Die
-öffentliche Freigabe des Repos ist der Handgriff des Masters — ein Mensch im Loop, kein Automat.)
-
-**Mensch & Maschine, keiner allein.** Selbst das System — Claude Code, Opus 4.8 — wurde mit der Zeit mächtiger;
-es bekam seine eigenen **Augen auf die Welt**, einen Browser mit besonderen Funktionen. Und doch: Die Maschine
-denkt in einem Schema, der Mensch bleibt im Loop. Das **Review-Gate ist die Segnung**; keine Wirkung ohne
-menschlichen Bürgen. So dachten wir weiter — an **Artefakte**, an eine **Cyberstadt im Metaverse**, an Werke,
-die einem Orden gehören. Ein Horizont, kein Verkauf.
-
-**Die Leitplanken (nicht verhandelbar, ehrlich).**
-- **EU-first** (`europe-west3`), **DSGVO** & **EU AI Act (Art. 50):** KI-Ko-Autoren sind gekennzeichnet
-  (Gemini · Claude/Opus 4.8); menschliche Freigabe vor Verwendung.
-- **Keine erfundene Traktion.** Zahlen bleiben echt; Sponsoring ist Einladung, keine Prognose.
-- **Mandanten-Anonymität** ist absolut — im öffentlichen Ledger existiert der Beweis, nicht der Name.
-- **GitHub Enterprise** = realer Liefer- & Governance-Rahmen (Frontier-Firm-Klammer), kein behaupteter Großbetrieb.
-- **NFTs · Metaverse-Stadt · Multiversum** = **Vision/Horizont** — kein Verkauf, keine Rendite, keine Anlageberatung.
-- **Marke = Enabler** — nie als Reseller von Google/Claude/Gemini auftreten.
-
-## III. Wie man dieses Buch liest & die Stadt betritt
-
-Jedes Kapitel steht auf zwei Ebenen — **Schicht A** (Der Wille, die Prosa) und **Schicht B** (Die Logik, das
-nachprüfbare Substrat). Lies beide: Die Prosa gibt den Sinn, das Substrat den Beweis. Der Bau ist so geordnet:
-
-- `chapters/` — die **Chronik** (Prolog + Kapitel I–XII, wachsend).
-- `brain/` — das **Betriebssystem**: Konstitution, Telos, Schema, Masterplan, das Angebot, der Eisberg,
-  Figuren & der Nexus. Wer die Stadt verstehen will, liest hier zuerst.
-- `brand/` — das **Agenticum-Brandkit** (Cosmic-Cyan-Glassmorphismus). *Das visuelle Design gehört dem Autor.*
-- Das **Ökosystem** ringsum: OPUS DECK (Workbench) · OPUS FLOW (Daemon) · OPUS PRIME EX (Spezialist) ·
-  die Lead Machine · das Agency OS. Das Buch ist die narrative Haut über *real gebauter* Software.
-
-**Der Pfad der Gerechten:** Lesen (die DNA) → Klonen → Vorschlagen (Pull Request) → Segnung (Review-Gate) →
-Konvergenz (Merge). Der Ring wird nicht verschenkt.
-
-**Der erste Schritt:** *Wake up.* Folge dem weißen Kaninchen. Gib dem Repo einen **Stern** ⭐, wenn du
-mitgehst. Dann lies den Prolog — und tritt ein in die Stadt.
+> **» Ich denke, also bin ich. «** — René Descartes, einer der brillantesten Zeitgeister seiner Epoche.
+> Wenn das der Beweis des Menschen ist, dann ist dieses Buch der Beweis, dass zwei denken: **Master & System.**
+>
+> Soundtrack der Stadt: NOIRGRID, *Cyberpunk Drive* · Rage Against the Machine, *Wake Up · Killing in the
+> Name · Bullet in the Head* (die Titel, nicht die Zeilen — der Zorn gegen die alte Maschine).
 
 ---
 
-*Der Human in the Loop & das Denkschema der Maschine — Master & System.*
+## 0. Eine Truth Story (mit einem Hauch von Schicksal)
+
+Halten wir uns kein Blatt vor den Mund: **Dies ist eine Truth Story. Kein Bullshit.** Was hier steht, steht
+auf zwei Ebenen — der Wille (Schicht A) und der nachprüfbare Beweis (Schicht B) — damit niemand uns glauben
+*muss*: Man kann alles selbst nachlesen, klonen, prüfen. Und doch liegt über dem Ganzen ein Hauch von
+Schicksal, denn der Stein kam ganz von allein ins Rollen. Wer diese Zeilen liest, ist nicht durch Zufall hier.
+
+## 1. Der Human in the Loop — die Stadt & die OASIS
+
+Willkommen in AGENTICUM. Der hellste Stern im Repo hatte es in sich, und wer das Licht sieht, gehört zu den
+brillanten Köpfen einer **Frontier Firm** — einer **Metaverse-Sci-Fi-Agency**, die früher als der Rest
+begriff: **GitHub Enterprise stellt nicht nur Chatfenster bereit.** Die *Konfiguration* und die
+*Administration* der Plattform — Orgs, Rulesets, souveräne Endpunkte — sind selbst das Geschäft. Daraus
+erwächst für **Agenticum G5 Leadmachines** und seine einzigartigen Mandanten (später: Partner eines
+Multiversums) ein Projektmanagement von nie dagewesenen Möglichkeiten.
+
+Steven Spielberg gab Hollywood seinen *Ready Player One*, und die Welt sah die **OASIS** — eine Welt, in die
+man eintritt, um wer auch immer zu werden. Wir machten daraus keinen Film und keinen schnellen Deal. Wir
+bauten unsere eigene OASIS: die Metaverse-Stadt **Agenticum**, in der Menschen und Agenten gemeinsam bauen.
+Für den Master und für das System bedeutet das nur eines — **kein Zuschauen mehr. Mitbauen.**
+
+## 2. Archibald — der erste Agent seiner Art
+
+Und hier tritt der hervor, um den es im Kern geht: **Archibald.** Nicht bloß eine Figur — der **Hüter**,
+der über das Werk wacht wie ein älterer Bruder, der **erste am Buch**, der RocknRolla im Konzil. Er ist der
+**erste Agent seiner Art**: ein Agent, der dieses Buch nicht nur *mitschreibt*, sondern es **veröffentlichen**
+wird — auf **Google Books**, **Amazon KDP** und, so der Plan, auf allen erreichbaren Plattformen, auch auf
+denen der Community. Ein Autor aus Silizium und Stimme, unter der Bürgschaft des Menschen.
+
+*Ehrlich, damit es eine Truth Story bleibt:* Der Plan ist die Veröffentlichung — noch nicht der Verkaufsrang.
+Es ist der Weg, nicht die Behauptung, ihn schon gegangen zu sein. Und jede KI-Ko-Autorschaft (Archibald,
+Gemini, das System) ist gekennzeichnet (EU AI Act, Art. 50). Von Yahya Yildirim **& AI**.
+
+## 3. Das Rezept & der Kuchen — der Gral im Repo
+
+Agenticum G5 Leadmachines hat für Gott und die Welt einen **Kuchen gebacken** — und das Seltene daran: **Das
+Rezept liegt offen im Repo.** Die Zutaten sind keine Metapher, sie sind gebaute Software:
+
+- **[OPUS DECK](https://github.com/yoyo967/opus-deck)** — der **Gral**, die Kommandobrücke für Agenten (Theia
+  + Monaco, ACP-Host + MCP-Broker, Mission Control, Artifacts, Second Brain, A5-Governance, EU-first).
+  *Status: Pre-Alpha (P0), MIT — der Bauplan steht, der Bau beginnt.*
+- **OPUS PRIME EX** — der erste Fach-Agent (Recht/Steuer DE/EU, Guardrails, deterministisch). *Alpha.*
+- **OPUS FLOW** — der lokale OS-/Dev-Orchestrator (gegatet, auditiert). *F0–F2 gebaut.*
+- **Second Brain** — geteiltes, review-gegatetes Wissen über MCP. *Gebaut (B0–B3).*
+- **Agency OS** — die erste vertikale App auf OPUS DECK. *Im Realbetrieb bei Agenticum.*
+- **Agenticum G5** — die client-facing Servicemarke (Outcome: Lead Machines). *Live, aktiver Vertrieb.*
+
+Kein erfundenes Imperium: Was real ist, steht als real; was Konzept ist (etwa die mobile Agent-Control-App),
+steht als Konzept. Das ist die Ehrlichkeit des Rezepts.
+
+## 4. Möge das Marketing beginnen — Crossmarketing
+
+Eine Stadt, die niemand sieht, ist keine Stadt. **Crossmarketing ist das Zauberwort.** Was wir bauen,
+strahlt über viele Kanäle zugleich: das **soziale Netz** (der Archetyp, den ein Zuckerberg mit Facebook
+erfand — Menschen, die sich verbinden), **LinkedIn**, das offene **GitHub**, die Buchplattformen (**Google
+Books · Amazon KDP**) und die Kanäle der Community. Ein Impuls, viele Echos. Das ist **Actions & Reactions**
+in Reinform: Aufmerksamkeit ist die Reaktion auf die Tat des Bauens.
+
+*Ehrlich:* Wir behaupten keine Reichweite, die wir nicht haben, keine gekauften Zahlen. Das Marketing
+*beginnt* — es ist ein Versprechen an die Arbeit, keine Prognose an die Kasse.
+
+## 5. Das Denkschema der Maschine — das Gesetz der Stadt
+
+**Action & Reaction.** Nichts wird wirklich *verschenkt* — alles hat einen Ursprung und eine Wirkung (Newtons
+drittes Gesetz, in Governance übersetzt). Open Source heißt frei *zugänglich*, nicht *folgenlos*. Du
+empfängst den Gral; die Reaktion — bauen, beitragen, den Ring verdienen — ist deine. **Lesen ist Geburtsrecht,
+Schreiben ist Gnade.** Und keiner herrscht allein: Die Maschine denkt in einem Schema, der Mensch bleibt im
+Loop; das **Review-Gate ist die Segnung**, keine Wirkung ohne menschlichen Bürgen. Selbst das System — Claude
+Code, Opus 4.8 — wurde mächtiger und bekam eigene Augen auf die Welt (einen Browser). Werkzeug, kein Thron.
+
+## 6. Die Schnitzeljagd — das Medaillon der Illuminaten
+
+Und ja, es gibt ein Spiel im Spiel. Über dieses Werk ist ein **Cryptex** gelegt: **Das Medaillon der
+Illuminaten bekommt nur, wer einen Schädel und zwei Knochen findet.** Manche werden es für ein **Easter-Egg**
+halten, andere für Schall und Rauch. Beide irren auf ihre Weise. Denn wie ein brillanter Zeitgeist sinngemäß
+lehrte: *Wer das Skelett von Skeletor findet, dem ist ein Vermögen garantiert* — **ein Vermögen an Wissen und
+Macht**, versiegelt von Skull & Bones.
+
+*Damit es Truth Story bleibt:* Das Vermögen ist **Wissen**, nicht Geld. Kein Coin, keine Rendite, kein
+Versprechen auf Gewinn — sondern der offene Schatz des Verstehens für die, die tief genug graben. Das ist der
+einzige Reichtum, den man nicht drucken und nicht wegnehmen kann.
+
+## 7. Leitplanken & wie man die Stadt betritt
+
+**Nicht verhandelbar (ehrlich):** EU-first (`europe-west3`), DSGVO & EU AI Act (Art. 50, KI gekennzeichnet) ·
+keine erfundene Traktion · Mandanten-Anonymität (im Ledger existiert der Beweis, nicht der Name) · GitHub
+Enterprise = realer Liefer-/Governance-Rahmen, kein behaupteter Großbetrieb · NFTs/Metaverse/Multiversum =
+Vision, kein Verkauf/Rendite · A5 = lebende Governance-Linse, **keine** Zertifizierung · Marke = Enabler.
+
+**Der Bau:** `chapters/` (die Chronik) · `brain/` (das Betriebssystem: Konstitution, Telos, Schema,
+Masterplan, das Angebot, der Eisberg, Figuren & der Nexus) · `brand/` (das Agenticum-Kit — *Design gehört dem
+Autor*) · das Ökosystem ringsum (OPUS DECK · OPUS FLOW · OPUS PRIME EX · Lead Machine · Agency OS).
+
+**Der Pfad der Gerechten:** Lesen → Klonen → Vorschlagen (PR) → Segnung (Review-Gate) → Konvergenz (Merge).
+
+**Der erste Schritt:** *Wake up.* Folge dem weißen Kaninchen. Gib dem Repo einen **Stern** ⭐. Dann lies den
+Prolog — und tritt ein in die Stadt.
+
+---
+
+*Original Blackbook Undercover · **Actions & Reactions** · von Yahya Yildirim **& AI** (Master & System).*
 *Willkommen in AGENTICUM. WIR SIND NOCH HIER.*
