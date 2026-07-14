@@ -59,6 +59,7 @@ in den Bogen harmonisiert.
 | ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
 | ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |
+| ⌾ | **[Anhang · Der Soundtrack — Die Resonanz](./backmatter/soundtrack.md)** — die Talismane des Scriptoriums, die ewige Quelle des Bruders (Hirschmilch), die Playlist als Förder-Kanal | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.

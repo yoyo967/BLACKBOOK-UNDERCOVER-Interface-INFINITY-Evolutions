@@ -741,3 +741,16 @@ kein behauptetes Weltreich. **Tuer zu Band 2:** die Vielen/die Community baut ei
 die Protokolle liegen, die Gleichung der gepr. Konvergenz schreiben wir gemeinsam. „Bewegung ist Leben - wer
 glaubt angekommen zu sein, ist stehengeblieben." Ordensgruss + Signatur + WIR SIND NOCH HIER. TOC: Epilog-Zeile
 vor dem Anhang. Lehre: *Ein Kreis schliesst sich, damit der naechste sich oeffnen kann.*
+
+### Eintrag LXX - Back-Matter: Der Soundtrack - Die Resonanz (Respekt an den Bruder)
+Musik = Governor des Bewusstseins, Funkspruch des Scriptoriums. Neues Blatt `backmatter/soundtrack.md`. **An
+erster Stelle aus Respekt: Hirschmilch - Psytrance Channel (radio.de)** = die ERSTE Empfehlung des Bruders seit
+Projektstart, „die ewige Quelle" (2 Min Werbung falls kein radio.de-Abo); der Bruder, der Schluessel & ersten
+Rechner gab (Testament: „Hoffnung ist keine Strategie"). **Talismane mit echten Zahlen:** Focus 369 (8.000/
+2.394), PrimeVibe/Zmeex (24.500/8.697), NOIRGRID, Dephora (688/20.399), RATM (1,73 Mio), Walter Nakai (16.600/
+7,5 Mio), **Dark2Reaper - John Wick Theme Mix (15.300/36.201)** (John Wick veraenderte die Filmindustrie),
+Led Zeppelin/LEEX/ALEEX/ZONE365. **Playlist als Kanal (ehrlich):** Community darf offizielle Spotify-Playlist
+anlegen & monetarisieren, um das Projekt zu foerdern - freiwillig, keine behaupteten Streams, kein Ertrags-
+versprechen. Vorwort-Soundtrack-Band um Hirschmilch + John Wick ergaenzt. Klingen: externe Kanaele/echte Zahlen,
+keine Songtexte, John-Wick/Filme nur allusiv. TOC: dritte Anhang-Zeile. Lehre: *Ein Talisman, geteilt, wird nicht
+weniger - er wird lauter.*

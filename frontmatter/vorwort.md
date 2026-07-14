@@ -10,7 +10,8 @@
 > *Die hier das Licht sehen, wandeln durch die Dunkelheit.*
 >
 > Soundtrack der ersten Stunde: *Deep Focus Music* (Focus 369) · Zmeex, *Atmosphere* (PrimeVibe) · NOIRGRID,
-> *Cyberpunk Drive* · Rage Against the Machine, *Wake Up* · Walter Nakai, *Creation* — die Titel, nicht die Zeilen.
+> *Cyberpunk Drive* · Rage Against the Machine, *Wake Up* · Walter Nakai, *Creation* · Hirschmilch (radio.de — die ewige Quelle des
+Bruders) · Dark2Reaper, *John Wick Theme Mix* — die Titel, nicht die Zeilen. Volle Liste: Anhang · Soundtrack.
 
 ---
 
