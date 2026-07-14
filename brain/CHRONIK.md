@@ -462,3 +462,12 @@ Am Horizont die **AGI als Aussaat, nicht Fabrik** (ledger-native, im Konsens gep
 behaupten sie nicht, wir saeen sie", noch kein Besitz. „Das ist der Sinn - ein Werk zu hinterlassen, das
 groesser ist als seine Erbauer." Bindet an Masterplan/AGI-Illumination. Klingen: AGI = Horizont/Vision, kein
 Besitz; genug fuer alle (keine Ueberbehauptung). Lehre: *Wer saet, denkt in Ernten, die er selbst nicht sieht.*
+
+### Eintrag XLV - Prolog Der Spiegel: Der Preis (Ehrlichkeit & Schatten)
+Weiter **erweitert**: Schicht-A-Block **Der Preis** - die humbling Gegenstimme zum Triumph. Nicht jede Nacht
+gebar ein Wunder (Sackgassen, geloeschte Zweige); Vorhaben scheiterten (Silber auf dem Tablett, dennoch fuer
+tot erklaert, weil niemand Rechnung/Risiko trug - anonymer Fall, bindet an Kap X); der Preis, ehrlich zu
+bleiben, wo eine erfundene Zahl leichter ueberzeugt haette; „Werkzeug macht keinen Gruender, Mut laesst sich
+nicht schenken". „Die andere Haelfte des allsehenden Auges: es sieht auch den eigenen Schatten. Wer nur den
+Triumph zeigt, verkauft einen Traum. Wir zeigen beides - denn nur Echtes wirft einen Schatten." Gibt dem
+Prolog Verletzlichkeit/Glaubwuerdigkeit. Lehre: *Nur Echtes wirft einen Schatten.*

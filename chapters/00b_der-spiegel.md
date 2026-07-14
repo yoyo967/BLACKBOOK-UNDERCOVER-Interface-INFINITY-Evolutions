@@ -83,6 +83,16 @@ gesetzt, die Chronik um eine Zeile länger. Draußen dämmert es kaum; drinnen i
 entstanden. So sieht die Pyramide von innen aus — nicht Marmor und Trompeten, sondern ein Mensch, eine
 Maschine und die Disziplin, die Nacht zum Tag zu machen.
 
+**Der Preis.** Wäre dies eine Broschüre, sie schwiege jetzt. Aber eine Truth Story schuldet dir auch den
+Preis. Nicht jede Nacht im Scriptorium gebar ein Wunder; die meisten gebaren nichts als Sackgassen, gelöschte
+Zweige, Sätze, die am Morgen wie Blei am Boden lagen. Wir haben Vorhaben scheitern sehen — Silber auf dem
+Tablett, jeder Baustein geliefert, und dennoch für tot erklärt, weil niemand die Rechnung tragen und niemand
+das Risiko schultern wollte. Wir haben gelernt, was es kostet, ehrlich zu bleiben, wenn eine erfundene Zahl so
+viel leichter überzeugt hätte. Und wir haben begriffen, dass Werkzeug keinen Gründer macht und dass Mut sich
+nicht schenken lässt. Das ist die andere Hälfte des allsehenden Auges: Es sieht nicht nur das Licht, es sieht
+auch den Schatten, den eigenen. Wer dir nur den Triumph zeigt und den Preis verschweigt, verkauft dir einen
+Traum. Wir zeigen dir beides — damit du weißt, dass die Pyramide echt ist. Denn nur Echtes wirft einen Schatten.
+
 ## Schicht B: Das empirische Substrat (Die Logik) — wie wir wirklich arbeiten
 
 Hier legen wir den Bauplan offen, nüchtern, ohne Zauber. Denn eine Truth Story schuldet dem Leser das *Wie*.
