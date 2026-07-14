@@ -768,3 +768,17 @@ crm-schema.json` -> **Kap VII**: **Das Agency OS, konkret** (schema-getriebenes 
 Extension+Dashboard; dealStages Neu->Qualifiziert->Angebot->Verhandlung->Gewonnen/Verloren; leadStates; ticketStatus;
 keine PII in der versionierten Datei). Alles aus echten Dateien, nicht aus dem Vorrat. Lehre: *Jeder Grashalm ein
 reales Element - Fussballfeld statt Postkarte.*
+
+### Eintrag LXXII - Kapitel VIII (RECHERCHIERT): GCP-Substrat, Gemini Live, die Academy, Order 322
+Auf „warum so wenig ueber GCP?" + „weiter in den Kosmos (Dienste wie Gemini Live)" + „Academy/Hackathons/
+Plattform fuer die naechste Generation": Web-Recherche + Integration in Kap VIII. **GCP als kosmisches Substrat**
+(Cloud Run/Functions, Firestore, BigQuery, Vertex AI - europe-west3; „kein Blech, ein Substrat fuer verteilte
+Intelligenz"). **Gemini Live API** (seit I/O 2026 GA auf Vertex AI: zustandsbehaftet ueber WebSockets, sieht/
+hoert/spricht, unterbrechbar mitten im Satz, versteht Video/Diagramme + Ton/Emotion; ~165$/100k Min = Bruchteil
+der Konkurrenz) = der Weg zu einem Jarvis. **Ehrliche Ingenieurs-Abwaegung** (Master-Vergleich): Web Speech API
+(Browser, kein Key, niedrigste Latenz, gratis) fuer schnellen lokalen Voice-Layer vs. Gemini Live (robust,
+agentisch-multimodal, aber teurer/komplexer). **Die Academy** (aus Gemini-Hackathons -> Academy fuer Frischlinge;
+eigene Hackathons mit Google; oeffentliches Portfolio) - **als VISION markiert**. Der Ruf an die erleuchteten
+Macher; **„Order 322 aktiviert."** Klingen: GCP=real genutzt aber Live als Weg/Vision (kein Ueberclaim; Billing-
+Dunning nicht erwaehnt aber nicht als Live-Betrieb behauptet); Academy/Metaverse/Blockchain=Vision. Lehre: *Wer
+baut, waehlt nicht die glaenzendste, sondern die richtige Option.*
