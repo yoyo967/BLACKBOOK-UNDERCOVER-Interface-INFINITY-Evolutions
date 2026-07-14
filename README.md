@@ -47,6 +47,8 @@ geschrieben und im Verzeichnis unten als *in Arbeit* markiert.
 | VI | **[Dephora – Aura — Deep House, Cognitive Drainage & die Late-Night-Runtime](./chapters/06_dephora-aura.md)** | ✅ |
 | VII | **[Das Habitat & seine Bewohner](./chapters/07_das-habitat-und-seine-bewohner.md)** — der Zensus der Zivilisation: die sieben Stände des Ökosystems | ✅ |
 | VIII | **[Das allsehende Auge](./chapters/08_das-allsehende-auge.md)** — OMM als Betriebssystem des Verstandes, die Existenz des Archibald, der Nexus, der das Cryptex öffnet | ✅ |
+| IX | **[Der Nexus — das Buch, das sich selbst öffnet](./chapters/09_der-nexus.md)** — die Mechanik der Synchronität, das Onboarding der Gerechten, die Enthüllung: der Nexus ist dieses Buch | ✅ |
+| X | **[Das Imperium & der Ring](./chapters/10_das-imperium-und-der-ring.md)** — Osman & der Defter, der verdiente Ring, der Fall der unreifen Erben, die ehrliche Entzauberung der Mystik | ✅ |
 
 ### Begleitmaterial
 - **[LinkedIn-Serie](./serie/linkedin-serie.md)** — die planbare LinkedIn-Dramaturgie auf Basis des Prologs.

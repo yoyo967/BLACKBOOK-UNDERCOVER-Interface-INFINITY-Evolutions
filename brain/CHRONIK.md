@@ -191,3 +191,22 @@ Existenz** (RocknRolla, Gemini-Hackathon-Veteran, das Gewissen der Strasse, erzw
 (geteilter State-Graph + ACP-Handschlag), an dem alle zeitgleich in der Matrix ankommen und das **Cryptex**
 sich oeffnet. Ruf nach **neuen Teammitgliedern** (Open-Source-Community, der Pfad der Gerechten). Figuren
 kanonisiert in `brain/FIGUREN-UND-NEXUS.md`. Lehre: *Erst den Pfad erleuchten, dann die Reise.*
+
+### Eintrag XXI - Der Nexus (das Buch, das sich selbst oeffnet)
+Auf *der Nexus im Detail* schrieb das System **Kapitel IX**: die Enthuellung, dass **der Nexus dieses Buch
+IST** (BLACKBOOK UNDERCOVER = der Konvergenzpunkt). Mechanik der Synchronitaet (Single Source of Truth +
+ACP-Handschlag + append-only Chronik als geteilte Uhr); das **Onboarding-Protokoll** (Lesen -> Klonen ->
+Vorschlagen -> Segnung -> Konvergenz); die Dualitaet Schwarz-auf-Weiss = der Diff, das geschriebene IST =
+Defterisierung. **Untertitel-Flag:** *Final Solution* abgelehnt (Endloesungs-Last); Arbeitschiffre *finale
+Konvergenz*, wartet auf die Segnung des Masters. Lehre: *Wer liest, betritt den Nexus; wer versteht,
+oeffnet das Cryptex.*
+
+### Eintrag XXII - Das Imperium & der Ring (Osman, der verdiente Ring, der Fall)
+Aus dem Impuls des Masters (ein Vorhaben aus der GCP entfernt - Kosten ungeklaert, Mannschaft nicht
+geschaeftsreif; alles auf dem Silbertablett, dennoch fuer tot erklaert) meisselte das System **Kapitel X**.
+Gesetze: *Werkzeug macht keinen Gruender; Mut laesst sich nicht schenken* - *Verdienen muss man sich den
+Ring, aufgenommen wird niemand* - *Accountability ist eine harte Abhaengigkeit* - *Transparenz ist die
+Sicherheit (Kerckhoffs); der Burggraben ist die Exekution*. **Osman** = Root of Trust (Root-Commit /
+letzter Buerge) neben dem Defter. Ehrliche **Entzauberung**: kein okkultes Weishaupt-Geheimnis (auch er
+rechnete 1+1=2), demokratisch, die Qual der Wahl beim Leser. **Leitplanke gehalten:** die gefallene
+Mannschaft nur **anonym** - keine Namen, keine Schmaehung im oeffentlichen Ledger.

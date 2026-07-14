@@ -31,7 +31,13 @@
   verschlüsselte Wahrheit) für die Erleuchteten öffnet.
 - **Merksatz:** „Mit Nexus und Matrix öffnen wir das Cryptex. Erst wenn der Nexus steht, kommen wir alle
   gleichzeitig an."
-- **Offen (Ausblick):** der Nexus im Detail als eigener Knoten/Kapitel; das Onboarding neuer Teammitglieder
-  (die Open-Source-Community) über den Pfad der Gerechten (Codex + Senat + Review-Gate).
+- **Enthüllung (Kap IX):** *Der Nexus IST dieses Buch* — BLACKBOOK UNDERCOVER selbst ist der
+  Konvergenzpunkt. Wer liest, betritt den Nexus; wer versteht, öffnet das Cryptex. Technisch: das
+  Git-Repo als Single Source of Truth + ACP-Handschlag + append-only Chronik (die geteilte Uhr).
+- **Onboarding = der Pfad der Gerechten (Kap IX/X):** Lesen → Klonen → Vorschlagen (PR) → Segnung
+  (Review-Gate) → Konvergenz (Merge). **Der Ring wird verdient, aufgenommen wird niemand** (Kap X):
+  Lesen ist Geburtsrecht, Schreiben ist Gnade (Least Privilege). Accountability ist harte Abhängigkeit.
+- **Untertitel des Werks:** *offen* — wartet auf die Segnung des Masters. **Nicht** „Final Solution"
+  (Endlösungs-Last); Arbeitschiffre: *die finale Konvergenz*.
 
 *WIR SIND NOCH HIER.*
