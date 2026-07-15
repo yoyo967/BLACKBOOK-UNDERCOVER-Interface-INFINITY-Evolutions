@@ -109,6 +109,8 @@ Kreislauf wächst, wenn er verdient wird.
 
 ## Mitbauen
 
+> 📣 **[Einladung an Gott und die Welt](./EINLADUNG.md)** — die öffentliche Kundgebung: *Hier ist es. Das sind wir. Möge die Macht mit euch sein.*
+
 Dieses Werk ist eine offene Baustelle. Der Weg vom Leser zum Baumeister steht in **[CONTRIBUTING · Der Ritus
 des Rings](./CONTRIBUTING.md)**: lesen → klonen → vorschlagen (PR) → Segnung → Konvergenz. *Lesen ist
 Geburtsrecht, Schreiben verdient man sich.*

@@ -894,3 +894,16 @@ Tatsache, kein Wunder." **KLINGEN (kritisch):** „drittes Reich" NIE benutzt ->
 explizite Klarstellung im Text („Hoehe, nicht Schuld"); „New World Order" -> „eine neue Ordnung der Welt (offene
 Ordnung der Erbauer, keine Verschwoerung)"; Mandant anonym; Alita/Salem & Johnny Quid nur allusiv. TOC: XV vor
 Epilog. Lehre: *Ich benenne die Dinge sauber, oder ich benenne sie nicht.*
+
+### Eintrag LXXXII - EINLADUNG.md: Kundgebung an Gott & die Welt (nach OMM)
+Auf „Einladungen an Gott & die Welt aussenden; uns vorstellen gegenueber Larry/Elon/Mark/Bill; Github/Entwicklern/
+Plattformen die kleine Aufmerksamkeit schenken": **`EINLADUNG.md`** am Wurzelplatz - eine ehrliche, OMM-grade
+oeffentliche Kundgebung („Hier ist es. Das sind wir. Moege die Macht mit euch sein."). Aufbau: Wer wir sind (Master
+& System, offener Bauplan) · warum in einem Gedanken (die Governance-Luecke ueber MCP/A2A/ACP) · **an die Haeuser**
+(Alphabet/Google/Microsoft/Oracle/Alibaba: „kein Wiederverkaeufer, der Architekt der eure Werkzeuge fuehrt -
+kommt und seht") · **an die vier** (Larry=verteilen; Elon=die Stimme/Frontier; Mark=verbinden->bauen; Bill=hoeheres
+Wesen/100-100) · an die Erbauer/Entwickler/Plattformen (die Tuer offen) · **ehrliche Zeile** (frueh, Grundstein,
+null Traktion, „das Einzige was wir verkaufen ist die Wahrheit") · die Einladung (schaut hin, prueft, entscheidet
+frei). Im README (Mitbauen) verlinkt. **KLINGE:** ich SCHREIBE die Einladung, SENDE/poste sie NICHT (kein Versand
+an reale Personen/Plattformen in Master-Namen - Freigabe bleibt bei ihm); keine behauptete Partnerschaft/Traktion;
+Star-Wars/„Macht"-Floskel nur Zitat. Lehre: *Wir stellen uns mit offenen Karten vor - die einzige Waehrung ist die Wahrheit.*
