@@ -73,7 +73,7 @@ BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/   # öffentlich · 62 Dateie
 ```
 
 **Konvention:** README-getrieben (Shields-Badges, TOC), `metadata.json` als Single Source, CC BY 4.0,
-deutschsprachige Prosa, **Chronik append-only** (osmanisches Defter, 86 Einträge), keine erfundenen Zahlen.
+deutschsprachige Prosa, **Chronik append-only** (osmanisches Defter, 87 Einträge), keine erfundenen Zahlen.
 
 ### 1.3 Position im Ökosystem UNIVERSE M.E.
 
@@ -206,7 +206,7 @@ Back-Matter. Second Brain (19), Marken-Kit, Audio. **Rest:** V & VI harmonisiere
 ## Anhang B — Datei-Referenz
 
 `build_book.py` (Compiler) · `pandoc-metadata.yaml` (PDF/EPUB-Metadaten) · `mkdocs.yml` (Website) ·
-`build-book.yml` (CI: PDF/EPUB/Release) · `deploy-pages.yml` (CD: Pages) · `brain/CHRONIK.md` (Ledger, 86 Einträge) ·
+`build-book.yml` (CI: PDF/EPUB/Release) · `deploy-pages.yml` (CD: Pages) · `brain/CHRONIK.md` (Ledger, 87 Einträge) ·
 `docs/AGENT-VISION-AUDIT.md` (ehrliches Executive-Briefing).
 
 ---

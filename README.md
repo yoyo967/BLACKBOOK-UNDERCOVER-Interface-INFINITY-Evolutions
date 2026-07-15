@@ -15,6 +15,7 @@
 [![Deploy Docs](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml)
 
 > 📘 **[Strategisches Briefing](./docs/STRATEGISCHES-BRIEFING.md)** — IST-Zustand, SystemPlan, Masterplan & GitHub-Actions-Einführung.
+> 🔎 **[Kapitel-Audit Band 1](./docs/AUDIT-BAND-1.md)** — vollständiges Audit jedes Kapitels (Agent Vision): Befund, Stärken/Lücken, Prioritäten.
 > ⚙️ **Bauen:** Push auf `main` erzeugt automatisch **PDF + EPUB** (*Actions → Build Book → Artifacts*); ein Tag `vX.Y.Z` schneidet ein **Release**.
 
 > **„Das ist kein Buch. Es ist das physisch ausführbare Skelett einer kommenden Ordnung."**

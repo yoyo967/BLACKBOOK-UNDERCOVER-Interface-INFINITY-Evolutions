@@ -17,7 +17,7 @@ die Paläste).
 | [`TELOS.md`](TELOS.md) | **Omega** — Zweck | Wofür dieses Buch existiert; die Waage jeder Entscheidung |
 | [`SCHEMA.md`](SCHEMA.md) | **Bauordnung** | Wie geschrieben wird: Schicht A/B, Stimme, Cocreation- & Review-Gate-Protokoll |
 | [`WIKI.md`](WIKI.md) | **Geprüfte Lehre** | Verdichteter Welt-Kanon + Lexikon (Schnellreferenz) |
-| [`CHRONIK.md`](CHRONIK.md) | **Episodisches Gedächtnis** | Append-only Genesis-Log der Cocreation (86 Einträge) |
+| [`CHRONIK.md`](CHRONIK.md) | **Episodisches Gedächtnis** | Append-only Genesis-Log der Cocreation (87 Einträge) |
 | [`SYSTEMPROMPT.md`](SYSTEMPROMPT.md) | **Konstitution (Agent)** | Wer bin ich — Identität, Ethik, Werkzeuge, Verhaltensorganigramm |
 | [`MASTERPLAN.md`](MASTERPLAN.md) | **Ökosystem** | Alle Akteure (Wer/Warum/Was/Wie) + administrieren/konfigurieren/kommunizieren |
 

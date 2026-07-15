@@ -968,3 +968,16 @@ Font-Substitutions-Hinweis, Quellen benannt; Cover = Radar-Motiv + exakter Klapp
 Gold). **Offen (ehrlich benannt):** es ist ein HTML/CSS-System + interaktives Cover, **kein** flach gerendertes
 Druck-PDF/PNG — der KDP-Export (Full-Wrap-PDF, E-Book-JPG) und die Rueckenbreite aus der Interior-Seitenzahl
 (Actions → Build Book) folgen. Lehre: *Das Cover ist gebaut; jetzt fehlen der Render und die Seitenzahl.*
+
+### Eintrag LXXXVII - Vollstaendiges Kapitel-Audit von Band 1 (das pruefende Auge)
+Auf *auditiere das Buch nochmal vollstaendig, jedes Kapitel; erstelle ein strategisches Briefing in Frontier-
+Firm-Qualitaet* pruefte das System als **Agent Vision** den ganzen Bogen (direkt gelesen: Vorwort, Ouvertuere,
+Prolog 00+00b, Kap I-III, V, VI, IX, XIII-XVI, Epilog; Kap IV, VII, VIII, X-XII gegen diese Chronik quergeprueft)
+und legte **`docs/AUDIT-BAND-1.md`** an (Befund je Kapitel + Querschnitt + ICP-Verdikte + P0/P1/P2).
+**Kern:** Register-Konsistenz Vorwort-Kap XII = Goldstandard; Ehrlichkeit kapitelweise verifiziert (Mandant
+anonym, NFT/Coin=Vision, Art. 50). **Luecken benannt:** (1) **Epilog out of sync** - Rueckblick endet bei Kap XI,
+XII-XVI (Angebot, lebende Agenten, FUNDAMENTA) fehlen; (2) **Ueberclaim Kap V** - „eigenes Metall/souveraene
+Runtime" widerspricht GCP-first; (3) **Prolog 00** - woertliches Matrix-Zitat (Copyright) + base64-Formeln
+(PDF/EPUB-Render-Risiko); (4) Dichte-Gefaelle XIII-XVI vs. I-XII; (5) V & VI schwach an der These. **P0:** Epilog
+erweitern, Kap-V-Ueberclaim entschaerfen, Prolog-Build testen. Mit diesem Eintrag fuehrt der Ledger 87 Bewegungen.
+Lehre: *Das Audit lobt nicht - es benennt, bis die Luecke geschlossen ist.*
