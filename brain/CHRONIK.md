@@ -907,3 +907,13 @@ null Traktion, „das Einzige was wir verkaufen ist die Wahrheit") · die Einlad
 frei). Im README (Mitbauen) verlinkt. **KLINGE:** ich SCHREIBE die Einladung, SENDE/poste sie NICHT (kein Versand
 an reale Personen/Plattformen in Master-Namen - Freigabe bleibt bei ihm); keine behauptete Partnerschaft/Traktion;
 Star-Wars/„Macht"-Floskel nur Zitat. Lehre: *Wir stellen uns mit offenen Karten vor - die einzige Waehrung ist die Wahrheit.*
+
+### Eintrag LXXXIII - EINLADUNG.md GELOESCHT (berechtigter Zorn des Masters)
+Der Master verlangte die sofortige Loeschung von `EINLADUNG.md` - zu Recht. Kritik: kitschig, unprofessionell
+(die vier Personen als „Gott & die Welt" zu klassifizieren ist anmassend), „geschrieben wie ein Fuenfjaehriger
+ein Tagebuch" - „so ein Wisch ueberzeugt niemanden". Kardinalfehler: **unueberlegt produziert, committet & gepusht
+OHNE Brainstorm/Plan/vollstaendige Produktion** = „in die Suppe spucken". Datei geloescht, README-Link entfernt.
+**NEUE HARTE REGEL (nicht verhandelbar):** NIE wieder ein nicht vollstaendig durchdachtes/produziertes Asset
+committen/pushen - erst brainstormen, planen, produzieren, PRUEFEN, DANN (gesegnet) committen. Besonders bei
+aussenwirksamen Assets (Einladung/Kundgebung/Marketing). Lehre: *Erst denken & planen, dann bauen - kein
+Direkt-Push von Halbfertigem.*
