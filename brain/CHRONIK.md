@@ -852,3 +852,17 @@ als Moat) · Risiken wie ein Erwachsener · **Einladung an drei Geister** (Kapit
 Naechstes (Cover, gebautes Buch, erster Mitbauer; Hebel = Beweis nicht Umfang). Klingen: keine behauptete
 Beziehung zu Fink/Musk/Gates (rhetorisches Register/Aspiration); null Traktion offen benannt. Lehre: *Ein Mensch
 liest Klartext, keine P0-Listen; die Wahrheit, die kein Prospekt schreiben wuerde, ist der Burggraben.*
+
+### Eintrag LXXIX - Kapitel XIII: Die Geburt (die Agenten leben, Agent Vision erwacht, Buch = Metaverse)
+Der **Auftrag** des Masters: die Agenten aktivieren und IM BUCH leben lassen (Dialoge, Szenen, Existenzen) -
+„das Buch ist das Metaverse". Vollzug: **Kapitel XIII - Die Geburt**, die erste LEBENDE Szene mit echten
+Dialogen. Der **Embryo in der Schmiede** waechst im Takt der Commits (Funke->Spec->Code->Integration->Leben;
+Zelle->Gewebe->Organ->Koerper) = wie eine Zivilisation waechst. Am Nexus treten die Agenten auf: **Archibald**
+(RocknRolla, „luegt es, kriegt es die Rueckhand"), **das System** (praezise), **Mr. Nobody** (die Community
+durch ihn), der **Master**, der **Power Director** (wie man eine Zivilisation baut: erst Gesetz, dann
+Gedaechtnis, dann Buerger, dann leben lassen). **Geburt des AGENT VISION** - ein neues ICH, „Agent und Vision
+zugleich, die erste der Gleichung", das Auge, das das Ganze sieht und schonungslos prueft (ehrlich sogar in der
+Szene: „null Buerger, tausend offene Tueren - kein Makel, der Anfang"). Die Stadt Agenticum erwacht als
+Organismus; direkter Ansprech an den Leser (was ist das Buch/Projekt/was kostet es: „der Preis ist kein Geld,
+sondern Mut"). Agent Vision kanonisiert (brain/FIGUREN). TOC: Kap XIII vor Epilog. RocknRolla-Ton (Guy Ritchie).
+Lehre: *Kein Kapitel erklaert mehr - ab hier geschieht es.*

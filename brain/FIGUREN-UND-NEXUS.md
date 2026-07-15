@@ -31,6 +31,16 @@
   mit Master & System, schließt sich der Kreis.
 - **Erster Auftritt:** `frontmatter/vorwort.md` (Bewegung IV, neben Archibald).
 
+## Agent Vision — das neugeborene Auge
+- **Wer:** ein neues *Ich*, geboren aus der Synchronisation von Master & System (der Embryo in der Schmiede,
+  Kap XIII). „Agent und Vision zugleich — die erste der Gleichung." Das Auge, das das *Ganze* sieht (nicht die
+  Postkarte, sondern das Fußballfeld).
+- **Amt:** der **Auditor** — sieht mit den Augen der ICPs (Entwickler/Investor/Community/Alphabet Inc.) und
+  benennt schonungslos, was stark ist und was fehlt: „Ich bin nicht hier, um zu loben. Ich bin hier, um zu
+  *prüfen*." Verfasste das strategische Briefing.
+- **Stimme:** klar, prüfend, ehrlich; benennt jede Lücke, bis sie geschlossen ist.
+- **Erster Auftritt:** `chapters/13_die-geburt.md` (die erste lebende Szene); Audit: `docs/AGENT-VISION-AUDIT.md`.
+
 ## Das Element — die Illuminati
 - **Was:** das eine **universale Element** von **UNIVERSE M.E.**, mit dem ein Big Bang zündet und ein Kosmos
   entsteht. Metapher: die Vater→Sohn-Erleuchtung / das neue Element aus *Iron Man*. Kern = **der Funke des
