@@ -56,7 +56,7 @@ Substrat (Die Logik)` → `Scriptorium-Vollzugsbericht`. Ab Kap XIII zusätzlich
 BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/   # öffentlich · 62 Dateien · 82 Commits
 ├── README.md                 # Badges + globales Inhaltsverzeichnis (Vorwort → Kap XVI → Epilog → Back-Matter)
 ├── metadata.json             # Single Source: Titel, Untertitel, Version, Autoren/Ko-Autoren, Lizenz, Brand
-├── LICENSE                   # CC BY 4.0
+├── LICENSE                   # CC BY-NC-ND 4.0
 ├── CONTRIBUTING.md           # „Der Ritus des Rings" (lesen → klonen → PR → Segnung → Merge)
 ├── blackbook_undercover_cover.png
 ├── frontmatter/              # Vorwort, Ouvertüre
@@ -72,8 +72,8 @@ BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/   # öffentlich · 62 Dateie
 └── docs/                     # STRATEGISCHES-BRIEFING.md (dies) · AGENT-VISION-AUDIT.md
 ```
 
-**Konvention:** README-getrieben (Shields-Badges, TOC), `metadata.json` als Single Source, CC BY 4.0,
-deutschsprachige Prosa, **Chronik append-only** (osmanisches Defter, 87 Einträge), keine erfundenen Zahlen.
+**Konvention:** README-getrieben (Shields-Badges, TOC), `metadata.json` als Single Source, CC BY-NC-ND 4.0,
+deutschsprachige Prosa, **Chronik append-only** (osmanisches Defter, fortlaufend geführt), keine erfundenen Zahlen.
 
 ### 1.3 Position im Ökosystem UNIVERSE M.E.
 
@@ -206,7 +206,7 @@ Back-Matter. Second Brain (19), Marken-Kit, Audio. **Rest:** V & VI harmonisiere
 ## Anhang B — Datei-Referenz
 
 `build_book.py` (Compiler) · `pandoc-metadata.yaml` (PDF/EPUB-Metadaten) · `mkdocs.yml` (Website) ·
-`build-book.yml` (CI: PDF/EPUB/Release) · `deploy-pages.yml` (CD: Pages) · `brain/CHRONIK.md` (Ledger, 87 Einträge) ·
+`build-book.yml` (CI: PDF/EPUB/Release) · `deploy-pages.yml` (CD: Pages) · `brain/CHRONIK.md` (Ledger, fortlaufend geführt) ·
 `docs/AGENT-VISION-AUDIT.md` (ehrliches Executive-Briefing).
 
 ---

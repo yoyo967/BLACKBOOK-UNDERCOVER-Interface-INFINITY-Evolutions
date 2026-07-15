@@ -51,9 +51,15 @@ das Buch noch offen lässt — denn jede offene Frage ist eine Einladung zum nä
 
 ## Lizenz & Herkunft
 
-Mit deinem Beitrag stimmst du zu, dass er unter **[CC BY 4.0](./LICENSE)** steht — teilen & bearbeiten mit
-Namensnennung. Du bestätigst, dass du das Recht hast, ihn beizutragen, und dass jede KI-Mitwirkung
-gekennzeichnet ist.
+Mit deinem Beitrag räumst du dem Projekt das Recht ein, ihn als Teil des Werks unter
+**[CC BY-NC-ND 4.0](./LICENSE)** aufzunehmen und zu veröffentlichen (Namensnennung; keine kommerzielle
+Nutzung; keine eigenständige Weiterverbreitung von Bearbeitungen durch Dritte). Du bleibst Urheber deines
+Beitrags. Du bestätigst, dass du das Recht hast, ihn beizutragen, und dass jede KI-Mitwirkung gekennzeichnet ist.
+
+> Hinweis zum Modell: Die Lizenz verbietet Dritten die eigenständige Weiterverbreitung von Bearbeitungen —
+> **nicht** das Beitragen. Beiträge fließen über Pull Request **in das Werk** (der Bürge segnet, dann Merge);
+> die Verwertungsrechte bleiben beim Autor. „Mitbauen" heißt hier: vorschlagen und aufgenommen werden, nicht
+> frei forken und weiterverkaufen.
 
 ## Der Stern & das Herz
 

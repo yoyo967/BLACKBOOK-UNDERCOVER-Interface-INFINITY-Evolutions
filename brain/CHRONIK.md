@@ -981,3 +981,17 @@ Runtime" widerspricht GCP-first; (3) **Prolog 00** - woertliches Matrix-Zitat (C
 (PDF/EPUB-Render-Risiko); (4) Dichte-Gefaelle XIII-XVI vs. I-XII; (5) V & VI schwach an der These. **P0:** Epilog
 erweitern, Kap-V-Ueberclaim entschaerfen, Prolog-Build testen. Mit diesem Eintrag fuehrt der Ledger 87 Bewegungen.
 Lehre: *Das Audit lobt nicht - es benennt, bis die Luecke geschlossen ist.*
+
+### Eintrag LXXXVIII - Lizenz-Kohaerenz & der ehrliche IST-vs-Spec-Satz (Punkt 2 des Feedbacks)
+Auf externes Feedback (im Claude-Ordner abgelegt) + Master-Wort *punkt 2 erledigen* zog das System die Lizenz
+**ueberall gleich** auf **CC BY-NC-ND 4.0** (der Master hatte LICENSE + README-Badge bereits gehoben — niemand
+soll Buch/Doku verkaufen): `metadata.json`, `build/pandoc-metadata.yaml` (bakt in PDF/EPUB), `CONTRIBUTING.md`
+(**ND-vs-PR-Widerspruch geloest**: Beitraege fliessen INS Werk, Rechte beim Autor), `design-system/readme` +
+Cover-HTML (die vom Feedback geruegte Cover-Flaeche: „Open Source (CC BY 4.0)" -> „Frei lesbar (CC BY-NC-ND
+4.0)"), `docs/STRATEGISCHES-BRIEFING`. **„Open Source" als Begriff entschaerft** (CC-NC-ND ist keins). **Ehrlicher
+IST-vs-Spec-Satz** ins README: dieses Repo = Narrativ + Tooling; Spec liegt drueben; Laufzeit-Durchsetzung ist
+Roadmap, hier nicht erzwungen — nimmt der „Governance ist nur Prosa"-Kritik die Spitze. **Bewusst NICHT
+angefasst** (gehoert zur Buch-Optimierung/Identitaets-Entscheidung, Punkt 3): die In-Prosa-„(CC BY 4.0)"-
+Erwaehnungen in Kap VIII/IX/XI/XII/00b/16 + brain-Docs (DAS-ANGEBOT/MASTERPLAN/KANAELE), die den Offenheits-Ethos
+argumentieren — deren Spannung zur NC-ND-Lizenz ist die eigentliche Identitaets-Gabelung (Geschenk vs. gehuetet).
+Lehre: *Eine Aussage, ueberall gleich — und die Sprache nie groesser als die Lizenz.*

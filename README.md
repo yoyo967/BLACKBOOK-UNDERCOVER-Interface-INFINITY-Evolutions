@@ -81,6 +81,12 @@ Die knappe, technische **Swarm Governance Specification** (18 Spec-Kapitel) lebt
 
 Dieses Repo (`BLACKBOOK UNDERCOVER`) ist die **narrative Schwester** dazu — Prosa statt Spec.
 
+> **Ehrlich eingeordnet:** Dieses Repo enthält das **Narrativ** und das **Buch-/Marken-Tooling**. Die technische
+> Spezifikation liegt drüben (`DIE-LOGIK-UND-DIE-MATRIX`); die im Buch beschriebene **Governance-Durchsetzung
+> zur Laufzeit ist Roadmap** — sie wird in diesem Repo *nicht* erzwungen. Das einzige real erzwingende Stück
+> hier ist der Marken-Linter des Design-Systems. Wer ein lauffähiges Framework erwartet, findet hier den
+> **Bauplan**, nicht die Laufzeit.
+
 ---
 
 ## Teil von UNIVERSE M.E.
@@ -93,7 +99,7 @@ Dieses Repo (`BLACKBOOK UNDERCOVER`) ist die **narrative Schwester** dazu — Pr
 ## Das Angebot & Sponsoring — folge dem weißen Kaninchen 🐇
 
 **Das Neo-Geheimnis:** Es gibt kein Gewölbe. Wir liefern das **Konstrukt** — das Universum, den Bauplan,
-das Betriebssystem eines Verstandes — **open source, und eben deshalb kontrolliert**: jeder kann einsehen,
+das Betriebssystem eines Verstandes — **offen einsehbar, und eben deshalb kontrolliert**: jeder kann einsehen,
 prüfen, nachrechnen. Du baust darin dein eigenes Business; die Quelle wird im Gegenzug frei genährt.
 
 - **Star** ⭐ das Repo, wenn du mitgehst — der ehrliche erste Schritt.

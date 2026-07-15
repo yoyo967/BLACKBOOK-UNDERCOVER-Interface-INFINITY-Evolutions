@@ -54,7 +54,7 @@ need — not a generic UI kit.
 - **No emoji** anywhere in the brand voice or on covers. The source book's own README does use emoji
   sparingly (⭐ 💛 🐇) in its GitHub-facing sections — that's the *repo's* community-facing register, not
   the print/cover register, and is not carried into this design system.
-- **Compliance is stated plainly, not hidden:** EU AI Act Art. 50 co-authorship disclosure, CC BY 4.0,
+- **Compliance is stated plainly, not hidden:** EU AI Act Art. 50 co-authorship disclosure, CC BY-NC-ND 4.0,
   and the "Agenticum is the author's own studio, not independent validation" disclaimer are treated as
   first-class copy, not fine print.
 
