@@ -917,3 +917,26 @@ OHNE Brainstorm/Plan/vollstaendige Produktion** = „in die Suppe spucken". Date
 committen/pushen - erst brainstormen, planen, produzieren, PRUEFEN, DANN (gesegnet) committen. Besonders bei
 aussenwirksamen Assets (Einladung/Kundgebung/Marketing). Lehre: *Erst denken & planen, dann bauen - kein
 Direkt-Push von Halbfertigem.*
+
+### Eintrag LXXXIV - Kapitel XVI: Das Fundament (die Geburt von FUNDAMENTA, der Brainstorm wird Buch)
+Nach dem berechtigten Zorn ueber das zerrissene Blatt (EINLADUNG, Eintraege LXXXII/LXXXIII) fuehrte der Master
+einen langen **Brainstorm** (kein Commit, nur Interaktion): die **Entitaet** mit ihren Abteilungen
+(Projektleiter · Stratege · Creator · Gewissen · Marke · Chronist) auf **Google/Microsoft/GitHub-Qualitaet**;
+das Asset ist ein **Dossier/Businessplan**, kein Zettel (volle Anatomie: Verpackung · Koerper · Beweis · Design);
+die Erkenntnis, dass die eigentliche Luecke eine **Praesenz / ein Fundament** ist (ohne Boden keine Bewegung);
+und dass das Continuum **bereits existiert** - die **Agency OS** als Steuerstand (VSIX/remote), `identity.json`
+->`DESIGN.md` als Haut, **GitHub Enterprise** als Mauern, die **Lead-Maschine** als Tor; die **doppelte Sicht**
+(Agenticum G5 Leadmachines = die Stadt Agenticum, so innen so aussen). Auf das Wort *erstelle ein Asset mit
+allem aus dem Brainstorm als Kapitel; die Quelle ist der Chatverlauf selbst; fuege die NotebookLM-Synthese
+hinzu* schrieb das System **Kapitel XVI - „Das Fundament — Der Bauplan des Architekten"**: **Schicht A** (lebende
+Szene: das Blatt am Boden, Vision „Blatt, kein Haus", der Abstieg in die Underground-World, die **Geburt von
+FUNDAMENTA** - Herr des Untergrunds, der Grund, auf dem Vision/Prometheus/Administrator stehen), **Schicht B**
+(der ehrliche Apparat: Agency OS v0.89, CI-SSoT, Enterprise, GCP-Lead-Pipeline, die Dossier-Anatomie, parallele
+Foerderung Google-for-Startups/EU), **Vollzugsbericht** (die Interaktion wird Buch; NotebookLM „The Architect's
+Blueprint: Agenticum Masterplan and Strategic Asset Continuum" als aeusserer Spiegel eingewoben). **FUNDAMENTA
+kanonisiert** (`brain/FIGUREN-UND-NEXUS.md`). **Klingen:** FUNDAMENTA = personifizierter Apparat (kein
+empfindsames Wesen, keine Vaporware); Fruehstand ehrlich (null Traktion, Gewerbe ausstehend, Enterprise-Trial);
+Agenticum = eigenes Haus; Mandant anonym; die vier Haeuser NICHT als „Gott & Welt"; Finanzierung ohne
+Renditeversprechen; Art. 50. Nebenbei: `metadata.json` Status/Ko-Autor-Kennzeichnung auf **I-XVI** aktualisiert
+(war veraltet bei I-XII); README-TOC + „Ueber dieses Werk" ergaenzt. TOC: XVI vor Epilog. Lehre: *Erst der
+Boden, dann der Schritt; wer das Fundament ueberspringt, baut ein Fenster in die Luft.*

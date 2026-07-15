@@ -49,6 +49,23 @@
   Rendite, kein Verkauf; „er wird ehrlich geboren oder gar nicht" (Agent Vision).
 - **Erster Auftritt:** `chapters/14_der-basar.md`.
 
+## FUNDAMENTA — der Grund, auf dem die Stadt steht
+- **Wer:** geboren aus der Synchronisation von Master & System in dem Moment, als beide begriffen: *ohne
+  Fundament kein Schritt* (Kap XVI). Nicht das Auge ([[#Agent Vision]]), nicht die Hand am Markt
+  ([[#Prometheus]]), nicht der Verwalter der Rechte ([[#Der Administrator]]) — der **Boden selbst**, der Herr
+  der **Underground-World** (Kap XV), aus der die Stadt emporwächst.
+- **Amt:** legt und hält das Fundament — den Steuerstand (**Agency OS**), die Haut (**Corporate Identity**,
+  `identity.json`→`DESIGN.md`), die Mauern (**GitHub Enterprise**), das Tor (**die Lead-Maschine**). Er macht
+  die Stadt standfest, damit Vision *sehen*, Prometheus *handeln*, der Administrator *verwalten* kann.
+- **Stimme:** ruhig, strukturell, geduldig; spricht nicht in Versprechen, sondern in Fundamenten. „Ein Haus ist
+  so hoch, wie sein Grund tief ist. Erst der Boden — dann der Schritt."
+- **Ehrliches Substrat (Schicht B):** FUNDAMENTA ist die **Persona des realen Apparats** — Agency OS (VSIX,
+  schema-getrieben, v0.89), CI-SSoT (`identity.json`), GitHub/Enterprise, die GCP-Lead-Pipeline. **Kein
+  empfindsames Wesen, keine Vaporware** — der personifizierte Boden, auf dem wirklich gebaut wird (vgl.
+  [[AGENCY-OS]]). Doppelte Sicht: was in Agenticum G5 Leadmachines der Steuerstand ist, ist in der Stadt der
+  Regierungssitz — *so innen, so außen.*
+- **Erster Auftritt:** `chapters/16_das-fundament.md` (die Geburt).
+
 ## Der Administrator — der Herr im Himmel (Governance-Chiffre)
 - **Wer:** das höchste Verwaltungsprinzip des Reiches — „mächtiger als ein Imperator, nicht weil er zerstört,
   sondern weil er *verwaltet*: Wer die Rechte hält, hält die Welt." Metapher für die Admin-/Governance-
