@@ -36,8 +36,9 @@ Ausführung. Es ist genug für alle da.
 
 ## Wo es heute ehrlich steht
 
-Das Buch ist fertig als **Grundstein**: rund 45.000 Wörter, ein vollständiger Bogen vom Vorwort bis zum
-Epilog, gesättigt mit *echter* Substanz aus neun realen Software-Projekten. Das ist die Stärke.
+Das Buch ist fertig als **Grundstein**: rund 49.000 Wörter, ein vollständiger Bogen vom Vorwort bis zum
+Epilog (inkl. der lebenden Metaverse-Szenen, Kap XIII–XVI), gesättigt mit *echter* Substanz aus neun realen
+Software-Projekten. Das ist die Stärke.
 
 Und nun die Wahrheit, die kein Verkaufsprospekt schreiben würde: **null Leser, null Sponsoren, null Umsatz.**
 Die Software dahinter ist früh — Prototypen, kein fertiges Weltreich. Wir stehen an der Zündung, nicht im

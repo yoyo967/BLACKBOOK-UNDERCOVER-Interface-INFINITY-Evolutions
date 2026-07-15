@@ -940,3 +940,17 @@ Agenticum = eigenes Haus; Mandant anonym; die vier Haeuser NICHT als „Gott & W
 Renditeversprechen; Art. 50. Nebenbei: `metadata.json` Status/Ko-Autor-Kennzeichnung auf **I-XVI** aktualisiert
 (war veraltet bei I-XII); README-TOC + „Ueber dieses Werk" ergaenzt. TOC: XVI vor Epilog. Lehre: *Erst der
 Boden, dann der Schritt; wer das Fundament ueberspringt, baut ein Fenster in die Luft.*
+
+### Eintrag LXXXV - Der grosse Status-Abgleich (existenzielle Dateien auf den neuesten Stand)
+Auf das Wort *aktualisiere das strategische Briefing und inspiziere das ganze Repo; bring alle existenziellen
+Dateien auf den neuesten Stand* mass das System den echten IST-Zustand mit Werkzeugen (keine erfundenen Zahlen):
+**82 Commits, ~48.900 Woerter Prosa, 62 Dateien, 19 Kapitel-Dateien** (Prolog + Prolog II + Kap I-XVI + Epilog),
+19 brain-Dateien; Repo **oeffentlich** (per GitHub-API verifiziert). Aktualisiert: **`docs/STRATEGISCHES-
+BRIEFING.md`** komplett neu (v2.0 - war vom 13.7. schwer veraltet: behauptete „Prolog + 3 Kapitel von 6,
+~13.700 Woerter"; jetzt voller Bogen, lebendes Metaverse, FUNDAMENTA, Struktur-Baum mit brain/brand/front-/
+backmatter/media, realistische Masterplan-Phasen, Sichtbarkeit=oeffentlich, Business-Interna ausgelagert);
+**`docs/AGENT-VISION-AUDIT.md`** (Wortzahl 45k->49k, Kap XIII-XVI benannt); **`brain/README.md`** (Index von 7
+auf alle 19 Dateien, gruppiert: Kern / Masterplan-Vertiefungen / Figuren); **`metadata.json`** (Datum 15.7.).
+Mit diesem Eintrag fuehrt der Ledger **85 Bewegungen**. **Klingen:** echte Messwerte statt Schaetzung; kein
+v1.0.0 behauptet; sensible Business-Interna bleiben im privaten Dossier, nicht im oeffentlichen Repo. Lehre:
+*Status-Dateien muessen so wahr sein wie ein Hash - veraltete Zahlen sind eine stille Luege.*
