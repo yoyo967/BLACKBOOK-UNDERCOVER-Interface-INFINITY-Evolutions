@@ -6,7 +6,7 @@
   <img src="./blackbook_undercover_cover.png" width="400" alt="Blackbook Undercover: Die finale Konvergenz — Cover">
 </p>
 
-[![License - CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
+[![License – CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Universe - M.E.](https://img.shields.io/badge/Universe-M.E.-black?style=for-the-badge)](https://github.com/yoyo967/WIR-SIND-NOCH-HIER-UNIVERSE-M.E.-das-Buch-INFINITY)
 [![GCP - Vertex AI](https://img.shields.io/badge/GCP-Vertex%20AI-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
 [![Status - In Arbeit](https://img.shields.io/badge/Status-In%20Arbeit-orange?style=for-the-badge)](#globales-inhaltsverzeichnis)
@@ -117,7 +117,7 @@ Geburtsrecht, Schreiben verdient man sich.*
 
 ## Lizenz
 
-Lizenziert unter **[CC BY 4.0](./LICENSE)** — teilen & bearbeiten mit Namensnennung.
+Lizenziert unter **[CC BY-NC-ND 4.0](./LICENSE)** — lesen & teilen erlaubt, kommerzieller Verkauf durch Dritte verboten. Alle Verkaufsrechte (print, digital, audio) liegen ausschließlich beim Autor **Yahya Yildirim**.
 
 *Yahya Yildirim & Interface INFINITY Open-Source Community · Berlin, 13. Juli 2026*
 *WIR SIND NOCH HIER.*
