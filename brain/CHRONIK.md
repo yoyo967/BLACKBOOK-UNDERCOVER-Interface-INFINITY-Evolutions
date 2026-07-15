@@ -839,3 +839,16 @@ Metadaten. **P1:** Impressum/ISBN, EN-Fassung, Kapitel-Balance. **P2:** Kanal/Co
 **Risiken offen:** GCP-Billing-Dunning, Pre-Alpha, null Traktion, Gewerbe. **Moat:** radikale Ehrlichkeit, Zwei-
 Schichten-Form, Provenienz, offene Governance, reale Erdung. **Empfehlung:** nicht als „fertig" verkaufen; P0
 schliessen, dann v1.0.0 als „Fundament, ehrlich benannt". Lehre: *Der groesste Hebel ist nicht mehr Volumen, sondern Beweis.*
+
+### Eintrag LXXVIII - AGENT-VISION-Bericht menschenlesbar (fuer Fink/Musk/Gates)
+Master: „ich bin keine Maschine - gib mir den Bericht so verstaendlich, als laesen ihn Larry Fink, Elon Musk &
+Bill Gates." Das technische P0/P1/P2-Audit durch ein **menschenlesbares Executive-Briefing** ersetzt
+(`docs/AGENT-VISION-AUDIT.md`): Klartext, 5-Minuten-Wahrheit, keine Maschinensprache. Aufbau: In einem Satz ·
+die Idee ohne Jargon (das Buch=der Bauplan der Stadt Agenticum; zwei Ebenen Vision+Beweis) · warum jetzt (die
+fehlende Gleichung = Vertrauen/Governance; Fink: wer die Stroeme beherrscht muss nicht horten -> wir verteilen) ·
+wo es EHRLICH steht (Grundstein ~45k W, aber null Leser/Sponsoren/Umsatz, Software Alpha, Zuendung nicht Zenit;
+Gates/Garage: wer die Schwaeche versteckt verliert die Zeit doppelt) · was es anders macht (radikale Ehrlichkeit
+als Moat) · Risiken wie ein Erwachsener · **Einladung an drei Geister** (Kapitalgeber/Technologe/Bauer) · was als
+Naechstes (Cover, gebautes Buch, erster Mitbauer; Hebel = Beweis nicht Umfang). Klingen: keine behauptete
+Beziehung zu Fink/Musk/Gates (rhetorisches Register/Aspiration); null Traktion offen benannt. Lehre: *Ein Mensch
+liest Klartext, keine P0-Listen; die Wahrheit, die kein Prospekt schreiben wuerde, ist der Burggraben.*
