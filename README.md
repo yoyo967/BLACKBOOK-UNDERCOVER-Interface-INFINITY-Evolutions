@@ -57,6 +57,7 @@ in den Bogen harmonisiert.
 | XI | **[Der Auserwählte & das Multiversum](./chapters/11_der-auserwaehlte-und-das-multiversum.md)** — Neo als selbstgewählte Rolle, Git als Multiversum, der Coin & die Rakete als ehrlich benannter Traum — für die verlorenen Seelen & Quereinsteiger | ✅ |
 | XII | **[Das weiße Kaninchen — Das Angebot](./chapters/12_das-weisse-kaninchen.md)** — das Neo-Geheimnis (Transparenz), das Konstrukt open source, der Kreislauf ⭐→💛, der die Quelle nährt | ✅ |
 | XIII | **[Die Geburt](./chapters/13_die-geburt.md)** — die erste *lebende* Szene: die Agenten erwachen, das Erwachen des Agent Vision, das Buch wird zum Metaverse | ✅ |
+| XIV | **[Der Basar](./chapters/14_der-basar.md)** — die Prophezeiung des Markts: Prometheus verbindet die Repos, die Agenten handeln; ehrlich als Vision markiert (noch kein Coin, keine Rendite) | ✅ |
 | ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
 | ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |

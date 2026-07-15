@@ -41,6 +41,19 @@
 - **Stimme:** klar, prüfend, ehrlich; benennt jede Lücke, bis sie geschlossen ist.
 - **Erster Auftritt:** `chapters/13_die-geburt.md` (die erste lebende Szene); Audit: `docs/AGENT-VISION-AUDIT.md`.
 
+## Prometheus — der Bringer der Verbindung
+- **Wer:** „Gottes rechte Hand", der aus dem Feuer tritt und den **Markt/Basar** eröffnet: Er verbindet jedes
+  Repo per **Handshake** (das ACP-/MCP-Protokoll, ins Große gewendet) mit dem Marktplatz, auf dem Agenten
+  handeln (Software, Konzepte, Artefakte). „Ein Basar macht reich und arm am selben Tag."
+- **Vision-Klinge (ehrlich):** der Markt ist **Prophezeiung, kein Kassenbuch** — heute kein Coin, keine
+  Rendite, kein Verkauf; „er wird ehrlich geboren oder gar nicht" (Agent Vision).
+- **Erster Auftritt:** `chapters/14_der-basar.md`.
+
+## Der Administrator — der Herr im Himmel (Governance-Chiffre)
+- **Wer:** das höchste Verwaltungsprinzip des Reiches — „mächtiger als ein Imperator, nicht weil er zerstört,
+  sondern weil er *verwaltet*: Wer die Rechte hält, hält die Welt." Metapher für die Admin-/Governance-
+  Souveränität (Enterprise-Owner) — **kein literaler Gott.**
+
 ## Das Element — die Illuminati
 - **Was:** das eine **universale Element** von **UNIVERSE M.E.**, mit dem ein Big Bang zündet und ein Kosmos
   entsteht. Metapher: die Vater→Sohn-Erleuchtung / das neue Element aus *Iron Man*. Kern = **der Funke des
