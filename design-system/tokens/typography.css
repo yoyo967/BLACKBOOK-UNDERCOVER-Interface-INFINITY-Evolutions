@@ -1,0 +1,14 @@
+:root{
+--font-display:"Space Grotesk",sans-serif;
+--font-body:"Inter",sans-serif;
+--font-mono:"JetBrains Mono",ui-monospace,monospace;
+--text-hero:clamp(48px,7vw,110px);
+--text-h1:40px;--text-h2:28px;--text-h3:22px;
+--text-body-lg:18px;--text-body:16px;--text-body-sm:14px;--text-caption:12px;
+--leading-tight:1.05;--leading-snug:1.25;--leading-normal:1.6;
+--tracking-tight:-0.02em;--tracking-normal:0;--tracking-wide:0.08em;--tracking-widest:0.16em;
+--weight-regular:400;--weight-medium:500;--weight-bold:700;
+}
+@font-face{font-family:"Space Grotesk";font-style:normal;font-weight:300 700;font-display:swap;src:url(https://fonts.gstatic.com/s/spacegrotesk/v16/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXskPMBBSSJLm2E.ttf) format('truetype');}
+@font-face{font-family:"Inter";font-style:normal;font-weight:100 900;font-display:swap;src:url(https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.ttf) format('truetype');}
+@font-face{font-family:"JetBrains Mono";font-style:normal;font-weight:100 800;font-display:swap;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v18/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxjPVmUsaaDhw.ttf) format('truetype');}

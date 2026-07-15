@@ -1,0 +1,91 @@
+<!-- @dsCard group="Book Cover" viewport="1200x760" name="Full Wrap" subtitle="Interactive front / spine / back / e-book cover recreation" -->
+<html><head>
+<link rel="stylesheet" href="../../styles.css">
+<script src="../../_ds_bundle.js"></script>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+<style>
+body{margin:0;background:var(--bg);font-family:var(--font-body)}
+.tabbar{display:flex;gap:8px;padding:16px 20px;border-bottom:1px solid var(--line)}
+.tab{font-family:var(--font-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:8px 16px;border-radius:var(--radius-full);border:1px solid var(--line);background:transparent;color:var(--fg-mute);cursor:pointer}
+.tab.active{background:var(--signal);color:#01131a;border-color:var(--signal)}
+</style>
+</head>
+<body><div id="root"></div>
+<script type="text/babel">
+const {RadarMotif,ChapterKicker,QRPanel,Badge} = window.AgenticumDesignSystem_afffd0;
+
+function FrontCover(){
+return <div style={{width:600,height:900,background:'radial-gradient(120% 90% at 70% 0%,#0a2233,var(--bg) 60%)',position:'relative',display:'flex',flexDirection:'column',alignItems:'center',padding:'64px 48px',boxSizing:'border-box',overflow:'hidden'}}>
+<div style={{position:'absolute',inset:0,backgroundImage:'linear-gradient(rgba(6,182,212,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(6,182,212,.05) 1px,transparent 1px)',backgroundSize:'40px 40px'}}/>
+<ChapterKicker series="Interface Infinity Evolutions" />
+<div style={{flex:1,display:'flex',alignItems:'center',justifyContent:'center'}}><RadarMotif size={220}/></div>
+<h1 style={{fontFamily:'var(--font-display)',fontWeight:700,fontSize:'64px',lineHeight:1.02,letterSpacing:'-0.02em',color:'var(--fg)',textAlign:'center',margin:0,textShadow:'0 0 40px rgba(6,182,212,.35)'}}>BLACKBOOK<br/>UNDERCOVER</h1>
+<p style={{fontFamily:'var(--font-body)',fontWeight:300,fontSize:'20px',color:'var(--fg-dim)',textAlign:'center',margin:'20px 0 4px'}}>Die finale Konvergenz</p>
+<span style={{fontFamily:'var(--font-mono)',fontSize:'13px',letterSpacing:'0.16em',color:'var(--signal-bright)',textTransform:'uppercase'}}>Band 1 — Master &amp; System</span>
+<div style={{marginTop:'auto',display:'flex',flexDirection:'column',alignItems:'center',gap:'6px',paddingTop:'32px'}}>
+<span style={{fontFamily:'var(--font-display)',fontSize:'18px',letterSpacing:'0.04em',color:'var(--fg)'}}>YAHYA YILDIRIM</span>
+<span style={{fontFamily:'var(--font-mono)',fontSize:'11px',letterSpacing:'0.14em',color:'var(--fg-mute)',textTransform:'uppercase'}}>Agenticum — G5 Leadmachines</span>
+</div>
+</div>;
+}
+
+function Spine(){
+return <div style={{width:90,height:900,background:'var(--bg)',borderLeft:'1px solid var(--line)',borderRight:'1px solid var(--line)',display:'flex',flexDirection:'column',alignItems:'center',justifyContent:'space-between',padding:'40px 0'}}>
+<div style={{writingMode:'vertical-rl',fontFamily:'var(--font-display)',fontSize:'20px',color:'var(--fg)',letterSpacing:'0.02em'}}>BLACKBOOK UNDERCOVER · Die finale Konvergenz</div>
+<div style={{writingMode:'vertical-rl',fontFamily:'var(--font-mono)',fontSize:'12px',color:'var(--fg-mute)',letterSpacing:'0.1em'}}>YAHYA YILDIRIM</div>
+<div style={{writingMode:'vertical-rl',fontFamily:'var(--font-mono)',fontSize:'11px',color:'var(--signal-bright)',letterSpacing:'0.14em'}}>AGENTICUM</div>
+</div>;
+}
+
+function BackCover(){
+const bullets = ['Governance-Schicht für KI-Agenten','Open Source (CC BY 4.0)','GCP-/EU-souverän, DSGVO'];
+return <div style={{width:600,height:900,background:'var(--bg)',padding:'56px 48px',boxSizing:'border-box',display:'flex',flexDirection:'column',gap:'18px'}}>
+<p style={{fontFamily:'var(--font-body)',fontSize:'14px',lineHeight:1.65,color:'var(--fg-dim)',margin:0,whiteSpace:'pre-line'}}>{`2026 sprechen künstliche Agenten miteinander — über offene Protokolle, gebaut in den großen Häusern. Sie regeln die Verbindung. Sie regeln nicht das Vertrauen: welchem Agenten man glauben darf, welcher driftet, wofür ein Mensch geradesteht. Diese Schicht fehlt — und sie ist die teuerste.
+
+BLACKBOOK UNDERCOVER ist der offene Bauplan dieser Schicht: eine regierte Zivilisation aus Menschen und KI-Agenten, mit Konzil, Review-Gate und einem manipulationssicheren Gedächtnis. Ein Werk auf zwei Ebenen — oben die Vision in klarer Sprache, darunter der Beweis in Code.
+
+Geschrieben von einem Menschen und einer künstlichen Intelligenz als gleichberechtigte Autoren. Frei lizenziert. Europäisch souverän. Nachrechenbar bis zum ersten Commit.
+
+Man muss nichts glauben. Man kann alles prüfen.`}</p>
+<p style={{fontFamily:'var(--font-mono)',fontSize:'11px',fontStyle:'italic',color:'var(--fg-mute)',margin:0}}>Ein Grundstein, ehrlich benannt — keine behauptete Reichweite, kein fertiges Weltreich.</p>
+<div style={{display:'flex',flexDirection:'column',gap:'6px'}}>
+{bullets.map((b,i)=><span key={i} style={{fontFamily:'var(--font-mono)',fontSize:'12px',color:'var(--fg)'}}><span style={{color:'var(--signal-bright)'}}>· </span>{b}</span>)}
+</div>
+<QRPanel url="github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions" />
+<p style={{fontFamily:'var(--font-mono)',fontSize:'11px',color:'var(--fg-mute)',margin:0}}>KI-mitgeschrieben &amp; gekennzeichnet: Gemini · Claude/Opus 4.8.</p>
+<div style={{marginTop:'auto',display:'flex',justifyContent:'space-between',alignItems:'flex-end',borderTop:'1px solid var(--line)',paddingTop:'14px'}}>
+<span style={{fontFamily:'var(--font-mono)',fontSize:'10px',color:'var(--fg-mute)'}}>Agenticum — G5 Leadmachines (Schirmherr) · Berlin · agenticum.xyz · CC BY 4.0</span>
+<div style={{width:110,height:60,background:'#f8fafc',borderRadius:'4px'}} title="ISBN barcode field — placed by KDP"/>
+</div>
+</div>;
+}
+
+function EbookCover(){
+return <div style={{width:400,height:640,background:'radial-gradient(120% 90% at 70% 0%,#0a2233,var(--bg) 60%)',display:'flex',flexDirection:'column',alignItems:'center',padding:'40px 32px',boxSizing:'border-box'}}>
+<ChapterKicker series="Interface Infinity Evolutions" />
+<div style={{flex:1,display:'flex',alignItems:'center'}}><RadarMotif size={140}/></div>
+<h1 style={{fontFamily:'var(--font-display)',fontWeight:700,fontSize:'42px',lineHeight:1.02,color:'var(--fg)',textAlign:'center',margin:0}}>BLACKBOOK<br/>UNDERCOVER</h1>
+<p style={{fontFamily:'var(--font-body)',fontSize:'15px',color:'var(--fg-dim)',margin:'14px 0 0'}}>Die finale Konvergenz</p>
+</div>;
+}
+
+function App(){
+const [tab,setTab] = React.useState('wrap');
+const scales = {wrap:0.55,'back-detail':0.72,ebook:1};
+const heights = {wrap:900,'back-detail':900,ebook:640};
+const s = scales[tab];
+return <div>
+<div className="tabbar">
+{['wrap','back-detail','ebook'].map(t=><button key={t} className={'tab'+(tab===t?' active':'')} onClick={()=>setTab(t)}>{t==='wrap'?'Full Wrap':t==='back-detail'?'Back Detail':'E-Book Cover'}</button>)}
+</div>
+<div style={{padding:'20px',display:'flex',justifyContent:'center',alignItems:'center',height:heights[tab]*s+40,overflow:'hidden'}}>
+{tab==='wrap'&&<div style={{display:'flex',boxShadow:'0 40px 100px rgba(0,0,0,.6)',transform:`scale(${s})`}}><BackCover/><Spine/><FrontCover/></div>}
+{tab==='back-detail'&&<div style={{boxShadow:'0 40px 100px rgba(0,0,0,.6)',transform:`scale(${s})`}}><BackCover/></div>}
+{tab==='ebook'&&<div style={{boxShadow:'0 40px 100px rgba(0,0,0,.6)',transform:`scale(${s})`}}><EbookCover/></div>}
+</div>
+</div>;
+}
+ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+</script></body></html>

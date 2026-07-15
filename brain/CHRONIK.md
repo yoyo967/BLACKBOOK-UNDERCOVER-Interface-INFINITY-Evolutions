@@ -954,3 +954,17 @@ auf alle 19 Dateien, gruppiert: Kern / Masterplan-Vertiefungen / Figuren); **`me
 Mit diesem Eintrag fuehrt der Ledger **85 Bewegungen**. **Klingen:** echte Messwerte statt Schaetzung; kein
 v1.0.0 behauptet; sensible Business-Interna bleiben im privaten Dossier, nicht im oeffentlichen Repo. Lehre:
 *Status-Dateien muessen so wahr sein wie ein Hash - veraltete Zahlen sind eine stille Luege.*
+
+### Eintrag LXXXVI - Das Cover & das Design-System (mit Claude Design gebaut, ins Repo geholt)
+Auf den Auftrag *erstelle einen Prompt fuers Buchcover* -> *sieh dir das Design an, committe & pushe es* baute
+der Master mit **Claude Design** aus dem Cover-Brief ein vollstaendiges **„Agenticum Design System"** (Tokens,
+8 Komponenten, 14 Spezimen-Karten, Full-Wrap-Cover + interaktives E-Book-Cover). Das System lag nur in der
+Claude-Cloud (kein lokaler Pfad); das System steuerte in Yahyas angemeldetem Chrome den **ZIP-Export**, holte
+die Datei aus Downloads und legte sie ins Repo: **`design-system/`** (51 Dateien) — `tokens/` (colors/typography/
+spacing/effects), `components/core`+`book` (Button, GlassCard, DualLayerBlock, Divider, Badge, RadarMotif,
+QRPanel, ChapterKicker), `guidelines/`, `ui_kits/book-cover/index.html`, readme/SKILL. **Verifiziert markentreu**
+(`--bg:#020617`, `--signal:#06b6d4`, `--signal-bright:#22d3ee`) und **ehrlich** (readme: „no mark was invented",
+Font-Substitutions-Hinweis, Quellen benannt; Cover = Radar-Motiv + exakter Klappentext + QR-Platzhalter, KEIN
+Gold). **Offen (ehrlich benannt):** es ist ein HTML/CSS-System + interaktives Cover, **kein** flach gerendertes
+Druck-PDF/PNG — der KDP-Export (Full-Wrap-PDF, E-Book-JPG) und die Rueckenbreite aus der Interior-Seitenzahl
+(Actions → Build Book) folgen. Lehre: *Das Cover ist gebaut; jetzt fehlen der Render und die Seitenzahl.*

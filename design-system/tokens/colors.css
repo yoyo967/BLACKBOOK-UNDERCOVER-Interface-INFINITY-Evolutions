@@ -1,0 +1,13 @@
+:root{
+color-scheme:dark;
+--bg:#020617;--bg-elevated:#0f172a;--bg-surface:#16233f;
+--fg:#f8fafc;--fg-dim:rgba(248,250,252,.72);--fg-mute:#94a3b8;
+--line:#1e293b;--glass:rgba(255,255,255,.06);
+--signal:#06b6d4;--signal-bright:#22d3ee;--signal-deep:#0e7490;--glow:#06b6d4;
+/* semantic aliases */
+--surface-page:var(--bg);--surface-card:var(--bg-elevated);--surface-card-solid:var(--bg-surface);
+--text-primary:var(--fg);--text-secondary:var(--fg-dim);--text-muted:var(--fg-mute);
+--border-default:var(--line);
+--accent-primary:var(--signal);--accent-bright:var(--signal-bright);--accent-deep:var(--signal-deep);
+--danger:#ef4444;--success:#10b981;--warning:#f59e0b;
+}
