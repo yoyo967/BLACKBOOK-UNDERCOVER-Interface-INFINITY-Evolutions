@@ -995,3 +995,28 @@ angefasst** (gehoert zur Buch-Optimierung/Identitaets-Entscheidung, Punkt 3): di
 Erwaehnungen in Kap VIII/IX/XI/XII/00b/16 + brain-Docs (DAS-ANGEBOT/MASTERPLAN/KANAELE), die den Offenheits-Ethos
 argumentieren — deren Spannung zur NC-ND-Lizenz ist die eigentliche Identitaets-Gabelung (Geschenk vs. gehuetet).
 Lehre: *Eine Aussage, ueberall gleich — und die Sprache nie groesser als die Lizenz.*
+
+### Eintrag LXXXIX - Kapitel XVII: Die Gleichung des Geschaefts (der erste Bund — real)
+Der Tag, an dem das Fundament zum ersten Mal jemanden trug, der **nicht wir** sind. Der **erste Mandant**
+(Immobilienmakler — im Buch **absolut anonym**, kein Name, keine Domain) meldete sich und wollte genau das, was
+Agenticum G5 Leadmachines tut. Vollzug an einem Tag: gemessenes **Audit** (13.07.) -> **Strategisches Briefing**
+(13 S., ueber die eigene Pipeline gerendert: print.css + Theme agenticum-premium + CI live aus identity.json,
+lokal = DSGVO) -> **Angebot** (5 S., 8 Module einzeln beziffert; Liste 10.500 EUR -> Founding 5.000 netto;
+GCP-Kosten im Konto des Mandanten, ohne Aufschlag). Auf das Wort des Masters (*foerdere den Sachverhalt ins
+Buch; die Community soll lesen: „aha, so macht man Geschaefte"*) schrieb das System **Kapitel XVII**.
+**Schicht A — die Lehren fuer die Community:** such die **zweite Seite** deines Marktes (das Schwungrad
+Immobilie <-> Sanierung; kein Portal kann es nachbauen, weil kein Portal die Handwerker hat) · **flick den
+Eimer, bevor du Wasser kaufst** (26 s Ladezeit = gekaufte Reichweite verdampft) · gemietete vs. **eigene**
+Reichweite · Produktion hat einen Preis — nenn ihn und **tausche fair** (Founding: -50 % gegen ehrliche
+Rueckmeldung + Referenz) · **gib dem Kunden den Schluessel** (seine Cloud, seine Daten, kein Aufschlag, KEINE
+Reseller-Rolle) · **lass ihn selbst rechnen** (ein Verkaufsmandat traegt das Paket). **Die zwei Seiten des
+Fundaments:** Infrastruktur (Praesenz/GCP/Buch/GitHub — offen & pruefbar) UND **Dienstleistung** (Logik & Matrix
+in fremde Haende gelegt); eins ohne das andere ist Behauptung.
+**DER BEWEIS DES TAGES (Schicht B):** Das **Review-Gate wies den eigenen Autor ab** —
+`! [remote rejected] main -> main (push declined due to repository rule violations)`. Governance **erzwungen,
+nicht erzaehlt**; das System ging den Pfad der Gerechten (Branch + PR + Segnung des Buergen). Damit ist
+**Problem A des externen Feedbacks** („Governance ist nur Prosa") am konkreten Fall widerlegt.
+**Ehrlicher Stand, im Kapitel benannt:** null Umsatz, null Vertrag, **Gewerbe nicht angemeldet** (keine
+Rechnung moeglich), Angebot = Entwurf (Art. 50, menschliche Freigabe vor Versand). Klingen: Mandant anonym,
+keine erfundene Traktion, keine Auftrags-/Renditegarantie. Lehre: *Ein Bauplan wird erst wahr, wenn ein Fremder
+darauf steht.*
