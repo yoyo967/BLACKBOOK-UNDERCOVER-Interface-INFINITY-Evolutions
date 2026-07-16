@@ -1418,3 +1418,39 @@ wer den Satz entschaerft — **Entscheidung des Masters.**
 sie selbst hingeschrieben hat: `# Simuliere`. Wer eine Zahl setzt, statt sie zu holen, baut kein Messgeraet,
 sondern eine Behauptung mit Nachkommastellen. Der Unterschied zwischen einem Governor und einer Kontrollleuchte
 ist nicht der Code — es ist die Frage, ob er ausloesen KANN.*
+
+### Eintrag CI - Die Koennen-Ecke bekommt einen Nenner (34 Grabsteine)
+Der Governor selbst zeigte die letzte Luecke, die dem System gehoerte und nicht dem Master:
+`E_pass = 1.0000 (1/1 Pruefung — dieses Repo hat keine Unit-Tests)`. **Ein Nenner von eins.** Kapitel VI
+definiert `E_pass` als *„Bestehensquote der automatisierten Unit-Tests"* — es gab keine. Die Ecke, die das
+**Koennen** misst, ruhte auf einem einzigen binaeren Signal.
+**GEBAUT: `tests/` — 34 Tests, stdlib `unittest`, null Fremdabhaengigkeiten** (die CI installiert kein
+pip-Paket dafuer; pytest waere bequemer und eine Abhaengigkeit mehr).
+**Kein Test misst Abdeckung. Jeder misst eine Narbe.** Jeder einzelne kodiert einen Fehler, der heute real war:
+- *„Das Vorwort ist im Buch"* · *„Das Buch beginnt mit dem Vorwort"* · *„Die Lesekarte Das Dreieck ist im Buch"*
+  · *„Die Methode ist im Buch"* — Eintrag XCVI: der Compiler las nur `chapters/`; sechs Teile fehlten lautlos.
+- *„Vorwort kommt vor der Ouvertuere"* — sortiert() haette es umgedreht. Die Ordnung eines Buches ist eine
+  Entscheidung, kein Zufall des Alphabets.
+- *„Ungelistete Datei bricht den Build ab"* + *„nennt sie beim Namen"* — Regel 3.
+- *„Keine eingebetteten base64-Bilder"* — Eintraege XCIV/XCVIII: das Beweissubstrat war unlesbar; es hat ein
+  Kapitel zum Interludium degradiert.
+- *„Referenz im Code-Span zaehlt nicht"* — sonst bestrafte sich das Werk fuer sein eigenes Gestaendnis im
+  Prolog-Nachklang.
+- *„Die Spec-Konstanten ergeben 0.972"* — der **Beweis in Testform**, dass die Spezifikation nie ausloesen
+  konnte.
+- *„Roter Build blockiert selbst bei perfektem Rest"* + *„alpha+beta <= Schwelle"* — die beweisbare Eigenschaft,
+  festgenagelt.
+- *„Der Zustand von heute Vormittag haette blockiert"* — `R_t = 0.541`, als Test.
+**VERDRAHTET:** `messe_koennen()` faehrt jetzt zwei Quellen als Subprozess: den Compiler **und** die Suite.
+`E_pass` ist damit eine echte Quote: **35/35**. Der Nenner bleibt trotzdem im Bericht — *eine Quote ohne Nenner
+ist eine Behauptung*.
+**GEGENPROBE, gemessen statt geglaubt:** Ein Test sabotiert (`SCHWELLE == 0.99`) -> `E_pass` faellt auf
+**34/35 = 0.9714**, `R_t` auf 0.9498, Klartext *„FEHLGESCHLAGEN: tests/ — 1 durchgefallen"*. **Erkannt und
+benannt — aber nicht blockiert** (0.9498 >= 0.90): gamma = 0.2 bewegt bei einem von 35 Tests nur 0.006.
+**Also steht das Test-Gate dort, wo seine Folge steht:** als eigener, **harter** CI-Schritt **vor** allem
+anderen. Faellt ein Test, faellt der Build — sofort, laut, ohne Toleranz. Der Governor misst Resonanz; die
+Suite misst Korrektheit. **Drei Gates, drei Aufgaben:** Compiler (Vollstaendigkeit, hart) · Tests
+(Korrektheit, hart) · Governor (Resonanz, gewichtet, vor dem Release).
+**Lehre:** *Eine Quote mit dem Nenner 1 ist keine Quote, sie ist ein Wort mit Nachkommastellen. Der Governor
+hat seine eigene schwaechste Ecke gemeldet, weil wir ihn gezwungen haben, den Nenner mitzudrucken — genau
+deshalb steht er da. Wer eine Zahl zeigt und ihre Herkunft verschweigt, hat schon angefangen zu luegen.*

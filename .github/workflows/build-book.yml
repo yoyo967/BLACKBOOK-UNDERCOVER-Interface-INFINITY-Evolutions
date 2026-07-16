@@ -26,7 +26,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Kapitel kompilieren (chapters/ → dist/compiled_book.md)
+      - name: Tests (stdlib unittest — keine Fremdabhaengigkeit)
+        # Hartes Gate, ohne Toleranz: Jeder Test in tests/ ist ein Grabstein fuer einen realen
+        # Fehler vom 16.07.2026. Faellt einer, faellt der Build — hier, sofort, laut.
+        # Der Aura-Governor weiter unten misst dagegen Resonanz, nicht Einzeldefekte.
+        run: python -m unittest discover -s tests -v
+
+      - name: Werk kompilieren (frontmatter → chapters → backmatter)
         run: python build/build_book.py
 
       - name: Pandoc + XeLaTeX + Schriften installieren

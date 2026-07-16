@@ -137,25 +137,55 @@ def messe_wollen() -> tuple[float, dict]:
 def messe_koennen() -> tuple[float, dict]:
     """E_pass — Koennen. Laeuft es wirklich, oder steht es nur da?
 
-    Gemessen: Anteil der bestandenen automatisierten Pruefungen. Dieses Repositorium hat
-    genau eine — den Compiler. Der Nenner steht im Bericht, damit niemand eine Testabdeckung
-    hineinliest, die es nicht gibt.
+    Gemessen: **Bestehensquote der automatisierten Pruefungen** — so, wie Kapitel VI es
+    definiert. Zwei Quellen, beide als Subprozess (Isolation):
+      1. der Compiler (`build/build_book.py`) — baut das Werk ueberhaupt?
+      2. die Test-Suite (`tests/`) — jeder Test dort ist ein Grabstein fuer einen realen Fehler.
+
+    Bis 16.07.2026, 20:40 Uhr gab es keine Tests; E_pass ruhte auf einem einzigen binaeren
+    Signal und der Bericht musste den Nenner nennen, damit niemand eine Abdeckung hineinliest,
+    die es nicht gab. Diese Luecke ist geschlossen — der Nenner steht trotzdem weiter im
+    Bericht, denn eine Quote ohne Nenner ist eine Behauptung.
     """
-    pruefungen = [("build/build_book.py", [sys.executable, os.path.join(HIER, "build_book.py")])]
-    bestanden, details = 0, []
-    for name, cmd in pruefungen:
-        try:
-            p = subprocess.run(cmd, cwd=ROOT, capture_output=True, timeout=180)
-            ok = p.returncode == 0
-        except Exception as e:  # noqa: BLE001 — jede Ausnahme ist ein Nichtbestehen
-            ok, p = False, None
-            details.append({"pruefung": name, "bestanden": False, "fehler": str(e)})
-            continue
-        bestanden += int(ok)
-        details.append({"pruefung": name, "bestanden": ok,
-                        "exit": p.returncode if p else None})
-    e = bestanden / len(pruefungen)
-    return e, {"pruefungen_gesamt": len(pruefungen), "bestanden": bestanden, "details": details}
+    details: list[dict] = []
+    gesamt = bestanden = 0
+
+    # 1) Der Compiler.
+    try:
+        p = subprocess.run([sys.executable, os.path.join(HIER, "build_book.py")],
+                           cwd=ROOT, capture_output=True, timeout=180)
+        ok = p.returncode == 0
+        details.append({"pruefung": "build/build_book.py", "bestanden": ok, "exit": p.returncode})
+    except Exception as ex:  # noqa: BLE001 — jede Ausnahme ist ein Nichtbestehen
+        ok = False
+        details.append({"pruefung": "build/build_book.py", "bestanden": False, "fehler": str(ex)})
+    gesamt += 1
+    bestanden += int(ok)
+
+    # 2) Die Test-Suite.
+    try:
+        p = subprocess.run([sys.executable, "-m", "unittest", "discover", "-s", "tests"],
+                           cwd=ROOT, capture_output=True, text=True, timeout=300,
+                           encoding="utf-8", errors="replace")
+        ausgabe = (p.stderr or "") + (p.stdout or "")
+        m = re.search(r"^Ran (\d+) test", ausgabe, re.M)
+        n = int(m.group(1)) if m else 0
+        durchgefallen = sum(int(x.group(1)) for x in re.finditer(r"(?:failures|errors)=(\d+)", ausgabe))
+        if n == 0:  # Suite lief nicht -> das ist ein Nichtbestehen, kein "keine Tests"
+            details.append({"pruefung": "tests/", "bestanden": False,
+                            "fehler": "Test-Suite lieferte kein Ergebnis", "exit": p.returncode})
+            gesamt += 1
+        else:
+            gesamt += n
+            bestanden += n - durchgefallen
+            details.append({"pruefung": "tests/", "tests": n, "durchgefallen": durchgefallen,
+                            "bestanden": durchgefallen == 0})
+    except Exception as ex:  # noqa: BLE001
+        details.append({"pruefung": "tests/", "bestanden": False, "fehler": str(ex)})
+        gesamt += 1
+
+    e = bestanden / gesamt if gesamt else 0.0
+    return e, {"pruefungen_gesamt": gesamt, "bestanden": bestanden, "details": details}
 
 
 def resonanz(k_sim: float, i_align: float, e_pass: float) -> float:
@@ -193,10 +223,11 @@ def main() -> int:
     print(f"  Wollen   I_align = {i:.4f}   ({i_d.get('offen_gewichtet')} von {i_d.get('befunde')} Audit-Befunden offen)")
     for d in i_d.get("details", []):
         print(f"             ! offen ({d['offen']}): {d['befund']}")
-    print(f"  Koennen  E_pass  = {e:.4f}   ({e_d['bestanden']}/{e_d['pruefungen_gesamt']} Pruefung — dieses Repo hat keine Unit-Tests)")
+    print(f"  Koennen  E_pass  = {e:.4f}   ({e_d['bestanden']}/{e_d['pruefungen_gesamt']} automatisierte Pruefungen bestanden)")
     for d in e_d.get("details", []):
-        if not d["bestanden"]:
-            print(f"             ! FEHLGESCHLAGEN: {d['pruefung']}")
+        if not d.get("bestanden"):
+            hinweis = d.get("fehler") or f"{d.get('durchgefallen', '?')} durchgefallen"
+            print(f"             ! FEHLGESCHLAGEN: {d['pruefung']} — {hinweis}")
     print(f"\n  R_t = {ALPHA}*{k:.4f} + {BETA}*{i:.4f} + {GAMMA}*{e:.4f} = {r_t:.4f}")
     if in_resonanz:
         print(f"  [+] RESONANZ: R_t = {r_t:.4f} >= {SCHWELLE}. Der Release ist frei.")
