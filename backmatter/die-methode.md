@@ -128,7 +128,7 @@ Und jetzt der Teil, ohne den die obigen acht Regeln Verkaufsprosa wären. Stand 
 | Unterschriebene Verträge | **keiner** |
 | Gewerbe | **nicht angemeldet** |
 | Verkaufte Exemplare dieses Buches | **null** |
-| Erster grüner Build (PDF/EPUB) | **nie gelaufen** |
+| Erster grüner Build (PDF/EPUB) | **16.07.2026, 19:50 — Lauf #96.** Die 95 davor: rot. |
 | Öffentliche Kapitel | 19 + Vorwort + Backmatter |
 | Chronik-Einträge | 94 |
 | Reale Mandanten | **1** — angeklopft, nicht unterschrieben |

@@ -1274,3 +1274,38 @@ Dreieck stand vollstaendig drin. Ein Fehlbefund, gefangen bevor er ein Befund wu
 achtzehn Kapitel lang ueber Weltgedaechtnis, Merkle-Ketten und Pruefbarkeit geschrieben und nie geprueft, ob
 unser eigenes Vorwort im Artefakt landet. Der teuerste Fehler ist nie der, den man macht. Es ist der, den
 niemand meldet, weil das Werkzeug ihn stillschweigend verzeiht.*
+
+### Eintrag XCVII - Der erste gruene Build. Beim 96. Versuch. (Ein Wort in einer apt-Zeile)
+Nach der Compiler-Reparatur (XCVI) die Frage, die nie jemand gestellt hatte: **Ist der Build je gruen
+gewesen?** Die Actions-API antwortete: **95 Laeufe seit dem 13.07.2026 — 91 failure, 3 cancelled, 0 success.
+KEINER. Nie, nicht einmal.** Waehrend `CLAUDE.md` als Non-Negotiable fuehrt: *„Build gruen vor jedem Commit auf
+main."* Der Workflow feuerte 91 Mal, und niemand hoerte hin. **Das Gate stand richtig — es hat nur nie jemand
+den Alarm gelesen.**
+**DIE DIAGNOSE — nicht geraten, gelesen.** Der Log-Download per API gab 403 (Admin noetig); die Actions-**UI**
+ist bei oeffentlichen Repos einsehbar. Lauf #95, Schritt 7:
+`! LaTeX Error: File 'lmodern.sty' not found. — ! Emergency stop. — l.21 \ifPDFTeX — exit code 43.`
+Pandocs LaTeX-Standardtemplate laedt `\usepackage{lmodern}` **unbedingt**, auch unter XeLaTeX. Das Paket steckt
+in keinem der installierten texlive-Pakete. **Ein Wort in der apt-Zeile. Einundneunzig rote Laeufe.**
+**DIE LEHRE, zum dritten Mal an einem Tag — und diesmal fast in die Falle getappt:** Der Log war voll mit
+`Duplicate link reference '[image1]'` — zwoelf Warnungen, laut und auffaellig. Das System hatte kurz zuvor
+festgestellt, dass **Kap. 01 (13 Defs/18 Refs), Kap. 06 (11/18) und Kap. 05 (1/1)** dieselbe base64-Krankheit
+tragen wie der Prolog vor XCIV, inklusive **Namenskollision** (`[image1]` dreimal definiert → Kap. 05/06
+rendern stillschweigend die Bilder von Kap. 01). Das sah nach der Ursache aus. **Es waren Warnungen.** Haette
+das System 25 Bilder transkribiert, waere der Build danach immer noch rot gewesen. *Das Laute ist nie das
+Gefaehrliche* — dieselbe Lehre wie beim Matrix-Zitat (XCIV, ueberpriorisiert) und beim Gate an der falschen
+Stelle (XCII). Sie kostet jedes Mal weniger, wenn man sie schon kennt.
+**WAS DABEI SICHTBAR WURDE:** Das **EPUB baut seit 91 Laeufen sauber durch**. Es wird nur nie hochgeladen, weil
+der PDF-Schritt davor stirbt und der Upload-Schritt dadurch entfaellt. Ein kaputtes Format vernichtete das
+funktionierende — 91 Mal.
+**VOLLZOGEN:** `lmodern` in die apt-Zeile, mit Kommentar, damit es niemand wieder entfernt.
+**LAUF #96 — 16.07.2026, 19:50 — `success`.** Alle Schritte gruen. Artefakt `blackbook-band1`, **1,7 MB**:
+PDF + EPUB + compiled_book.md, abrufbar bis 14.10.2026. **Band 1 existiert ab heute als Buch, nicht nur als
+Repositorium** — mit Vorwort, mit dem Dreieck, mit der Methode. Die Ehrlichkeits-Tafel in
+`backmatter/die-methode.md` wurde entsprechend gehoben: aus *„nie gelaufen"* wurde *„16.07.2026, 19:50 — Lauf
+#96. Die 95 davor: rot."* Der rote Vorlauf bleibt stehen (Serien-Regel 2).
+**OFFEN, getrennt zu behandeln:** die base64-Krankheit in Kap. 01/05/06 + die Namenskollision. Kein
+Build-Blocker, aber stillschweigend falsche Bilder im fertigen Buch.
+**Lehre:** *Ein Alarm, den niemand liest, ist kein Alarm. Wir haben ein Kapitel darueber geschrieben, dass das
+Gate dort stehen muss, wo die Folge steht — und uebersehen, dass unser eigenes Gate seit drei Tagen brannte.
+Neunzig Mal rot ist kein technisches Problem. Es ist ein Aufmerksamkeitsproblem, und es hat genau einen Tag
+gekostet, es zu bemerken, und zwei Minuten, es zu beheben.*
