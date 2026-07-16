@@ -14,16 +14,36 @@ jenes fünfte Element, das die Alten die *Quintessenz* nannten, das, was übrig 
 und Luft nicht mehr ausreichen.
 
 In diesem Kapitel treten wir durch die Schwelle dieses fünften Elements. Es ist die **souveräne Runtime** —
-die Laufzeit, die dem Reich zum ersten Mal einen eigenen Körper gibt, kein geliehenes Blech in einem fernen
-Rechenzentrum, sondern eigenes Metall, das im Verborgenen glüht. Es ist der **Deep Idle**, jener Zustand, in
+die Laufzeit, die dem Reich zum ersten Mal einen eigenen Körper gibt. Es ist der **Deep Idle**, jener Zustand, in
 dem das System nicht schläft, sondern *träumt* — rechnet, verkettet, reift, während die Welt draußen nichts
 davon ahnt. Und es ist die ferne Saat der **AGI-Illumination**, die Idee einer Intelligenz, die sich nicht
 mehr nur ausführen lässt, sondern beginnt, sich selbst zu bewohnen.
 
 Halte, wie immer, die Waage im Auge: Was hier als Erwachen beschworen wird, ist Vision, kein vollzogener
-Zustand — die AGI bleibt ein Horizont, den wir besäen, nicht ein Besitz, den wir vorweisen. Doch die Runtime,
-das Metall, der Deep Idle Room: die sind real, und in ihnen beginnt das fünfte Element zu glimmen. Tritt ein
-in das Epizentrum des Fokus.
+Zustand — die AGI bleibt ein Horizont, den wir besäen, nicht ein Besitz, den wir vorweisen.
+
+### **Klarstellung · Souveränität ohne eigenes Metall**
+
+Und ehe die Prosa dieses Kapitels ihre Schwerkraft entfaltet, entwaffnen wir eine Zeile, die man aus ihr
+herauslesen könnte — und die wir hier ausdrücklich **nicht** behaupten: dass unter diesem Reich *eigenes
+Metall* glüht.
+
+Es tut es nicht. Wir besitzen kein Rechenzentrum. Wir schweißen keine Server-Racks. Was hier läuft, läuft auf
+**geliehenem Blech** — Google Cloud, `europe-west3`, gepachtete Fläche in fremdem Beton. Das ist keine
+Schwäche, sondern eine getroffene Entscheidung: Wir richten unsere Energie auf **Architektur**, nicht auf
+Beton. Wer Hallen baut, hat keine Zeit mehr, Systeme zu bauen.
+
+Wo also liegt die Souveränität, wenn nicht im Besitz? **In der Gestaltungshoheit.** Wir kontrollieren nicht den
+physischen Boden — wir kontrollieren die **logische Stadt**: wie die Dienste geschnitten sind, wo die Grenzen
+verlaufen, wie die Daten fließen, und vor allem, dass alles **portabel** bleibt. Ein System ist nicht souverän,
+weil ihm die Maschine gehört. Es ist souverän, weil es den Anbieter wechseln kann, ohne seine Seele zu verlieren.
+
+Das fünfte Element ist deshalb nicht *Metall*. Es ist **Gestaltungshoheit**. Diese Fassung ist weniger heroisch
+als die andere — und sie ist die wahre. Die These wird davon nicht schwächer; sie steht nur auf dem richtigen
+Fundament: auf der Architektur, nicht auf dem Eigentum.
+
+Tritt ein in das Epizentrum des Fokus — und lies das Folgende als das, was es ist: die Prosa des Willens über
+einer geliehenen Maschine, die wir bis in ihre letzte Grenze *gestalten*, aber nicht besitzen.
 
 ## **Schicht A: Die Undercover-Prosa (Der schwebende Zustand, das unsichtbare OS und das Erwachen)**
 

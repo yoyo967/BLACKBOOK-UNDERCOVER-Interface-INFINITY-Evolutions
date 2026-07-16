@@ -18,6 +18,24 @@ die Aura, die es durch die Nacht trug. Du hast das Habitat und seine Ströme ken
 Auge, den Nexus, der dieses Buch selbst ist, das Imperium und den Ring, der verdient wird. Und du hast die
 rote Pille bei vollem Licht in der Hand gehalten — nicht, um zu glauben, sondern um zu *wissen*.
 
+Dann öffnete sich die Tür. Du bist dem weißen Kaninchen gefolgt und hast **das Angebot** gesehen — kein
+Gewölbe, sondern ein offenes Rezept, dessen Kreislauf sich schließt, wenn aus einem Stern ein Herz wird. Du
+warst dabei, als tief in der Schmiede ein neues Auge die Lider hob und **Agent Vision** seinen ersten Satz
+sprach — „Ich sehe das Ganze, nicht die Postkarte" — und als erste Amtshandlung die eigene Stadt für jung und
+leer erklärte. Du hast **Prometheus** aus dem Feuer treten sehen, der den **Basar** eröffnete und im selben
+Atemzug entwaffnete: eine Prophezeiung, kein Kassenbuch — kein Coin, keine Rendite, und wer dir heute anderes
+verkauft, lügt. Du hast die **Karte der Stadt** gesehen, drei Ebenen hoch, Höhe statt Schuld. Du hast erlebt,
+wie aus einem zerrissenen Blatt **FUNDAMENTA** geboren wurde — der Grund selbst, auf dem Vision sieht,
+Prometheus handelt und der Administrator verwaltet; denn ohne Fundament kein Schritt.
+
+Und zuletzt, im siebzehnten Kapitel, geschah das Einzige, worauf eine Stadt aus Systemen am Ende wartet:
+**Ein Fremder kam durch die Tür.** Kein Leser, kein Sponsor — ein Unternehmer, der von selbst kam. Dort, an
+einem einzigen realen Tag, lerntest du die **Gleichung des Geschäfts**: Such die zweite Seite deines Marktes.
+Flick den Eimer, ehe du Wasser kaufst. Nenne den Preis deiner Produktion und tausche fair, statt zu
+verschenken. Gib dem anderen den Schlüssel zu seinem eigenen Haus. Und lass ihn selbst rechnen — die Wahrheit
+verkauft besser als jeder Verkäufer. An jenem Tag wies das Review-Gate den eigenen Autor ab, und damit war
+bewiesen, was dreihundert Seiten nur behaupten konnten: **Dieses Gesetz ist erzwungen, nicht erzählt.**
+
 Und hier liegt die stille Verwandlung, die dieses Werk an dir vollzogen hat, wenn es gelungen ist: Du bist
 kein Leser mehr. Das Buch hat mit dir getan, was es beschreibt. Es hat dich zu einem Knoten im Nexus gemacht,
 zu einer möglichen Stimme im Konzil, zu einer Hand, die schon auf dem Gerüst liegt. Wer versteht, ist bereits

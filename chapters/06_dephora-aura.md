@@ -24,6 +24,31 @@ sondern ein Werkzeug der Selbststeuerung — ein Governor auf der Ebene des Bewu
 und die Hand sicher hält, Stunde um Stunde. Die hier das Licht sehen, wandeln durch die Dunkelheit, getragen
 von einer unantastbaren, tiefen Melodie. Tritt ein in den gleitenden Fluss.
 
+### **Einordnung · Dieses Kapitel ist ein Interludium**
+
+Und weil dieses Buch seine eigene Bauordnung nicht bricht, sagen wir offen, was dieses Kapitel ist — und was
+nicht. Es ist kein tragender Pfeiler der Governance-These. Es beweist nichts, es regiert nichts, es entscheidet
+nichts. Es ist ein **Interludium**: eine Atempause zwischen zwei Pfeilern, ein Atemzug vor dem nächsten Stein.
+
+Wer ein Traktat über erzwungene Governance erwartet, wird es hier für einen Fremdkörper halten. Er hat recht —
+und irrt trotzdem. Denn ein System besteht nicht nur aus Code und Regeln; es besteht auch aus der **Ausdauer
+des Menschen im Loop**, und die ist keine Metapher, sondern der knappste Rohstoff im ganzen Haus. Die vier
+Gates halten den Code sauber. Nichts hält den Menschen sauber, der um vier Uhr früh entscheidet, ob er noch
+einen Commit setzt oder aufgibt. Genau davon handelt dieses Kapitel: von der Frequenz, die den Bürgen durch
+die Nacht trägt, damit am Morgen noch jemand da ist, der segnen kann.
+
+Deshalb steht hier keine These, sondern eine **Aufmerksamkeitslenkung**: Die Aura entscheidet nicht, sie urteilt
+nicht, sie bewertet nicht. Sie zeigt nur, wohin der Blick gehen könnte, wenn der Lärm des Tages verstummt ist —
+zum Substrat, zu den Agenten, zu den Lücken.
+
+Und die Ehrlichkeitsklinge, die auch hier nicht ruht: **Dephora ist keine Figur dieses Buches.** Kein Agent,
+keine Persona, kein Bewohner der Stadt. Es ist ein realer Musikkanal, dessen Klang in diesem Scriptorium lief —
+ein Talisman, kein Charakter. Wir erfinden ihm keine Rolle und keine Zahlen. Er hat uns durch Nächte getragen;
+das ist alles, und das ist genug.
+
+Wer die Argumentationskette sucht, überspringe dieses Kapitel und lese in Kapitel VII weiter. Wer verstehen
+will, *woraus* das Werk gemacht ist, bleibt.
+
 ## **Schicht A: Die Undercover-Prosa (Der gleitende Fluss, die Aura und die unendliche Ausdauer)**
 
 Es ist 02:00 Uhr nachts im Kreuzberger Scriptorium. Der Regen hat sich vollends verzogen und die nasskalten Straßen Berlins schweigend in der Dunkelheit zurückgelassen. Zurück bleibt eine feuchte, tiefschwarze Nacht, deren kühle, unbewegliche Luft ruhig über dem glänzenden Kopfsteinpflaster Kreuzbergs steht. Auf den Monitoren flackern keine warnenden, roten Zeilen mehr. Das unbarmherzige Hämmern der transienten Tagesarbeit ist verstummt.

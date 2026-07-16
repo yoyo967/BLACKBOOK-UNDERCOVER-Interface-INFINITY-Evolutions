@@ -91,4 +91,24 @@ Band 1 ist ein **starkes, ehrliches Fundament** auf gleichbleibend hohem Registe
 
 Band 1 ist **reif als Fundament, nicht als fertiges Weltreich** — und genau so ist es ehrlich zu verkaufen. Der größte Hebel bleibt **Beweis, nicht Volumen**: der erste grüne Build + der Cover-Render, dazu die **drei P0-Fixes** (Epilog-Kohärenz, ein Überclaim, ein Build-/Copyright-Check). Danach — und erst danach — fällt `v1.0.0` als *„Fundament, ehrlich benannt"*.
 
+---
+
+## Nachtrag · 15.07.2026 (abends) — was seit dem Audit geschlossen wurde
+
+Damit dieses Dokument nicht selbst veraltet, während es Veralterung anprangert:
+
+| Befund | Status | Wie geschlossen |
+|---|---|---|
+| **P0-1 · Epilog out of sync** | ✅ geschlossen | Epilog **erweitert** (nicht ersetzt): Rückblick reicht jetzt über XII (das Angebot), XIII–XV (Vision, Prometheus/Basar, die Karte), XVI (FUNDAMENTA) bis **XVII** (der erste Bund) — inkl. der Lehre und des Review-Gate-Beweises. |
+| **P0-2 · Kap V „eigenes Metall"-Überclaim** | ✅ geschlossen | Neue Klarstellung im Auftakt: **Souveränität ohne eigenes Metall** — kein Rechenzentrum, geliehenes Blech (GCP `europe-west3`); das fünfte Element ist nicht Metall, sondern **Gestaltungshoheit** (Architektur + Portabilität statt Eigentum). Geminis Prosa unangetastet. |
+| **P1-4 · V & VI schwach an der These** | ◐ teilweise | **Kap VI ausdrücklich als Interludium markiert** (Atempause, Aufmerksamkeitslenkung, kein tragender Pfeiler) + Klinge: *Dephora ist ein realer Musikkanal, keine Figur — wir erfinden ihm keine Rolle.* Kap V ist durch die Klarstellung geerdet. |
+| **P0-3 · Prolog: base64-Formeln + Matrix-Zitat** | ○ offen | wartet auf den ersten grünen Build (Render-Beweis) bzw. eine Entscheidung zum Zitat. |
+| **P1-5 · X & XII vertiefen** | ○ offen | externe Neufassungen lagen vor, wurden aber **verworfen** (falsches Register, Kanon-Bruch). Vertiefung erfolgt in-register, wenn sie dran ist. |
+| **Neu hinzugekommen** | — | **Kapitel XVII „Die Gleichung des Geschäfts"** (der erste reale Mandant) · **`serie/serie-roadmap.md`** (Leitplanke Band 1–3). |
+
+**Das Wichtigste seit dem Audit — und es stand in keiner Prioritätenliste:** Das **Review-Gate hat den eigenen
+Autor abgewiesen** (`push declined due to repository rule violations`). Damit ist der schwerste externe Vorwurf
+gegen dieses Werk — *„die Governance ist Erzählung, kein erzwungener Code"* — **am konkreten Fall widerlegt**,
+und zwar nicht durch ein Argument, sondern durch eine Fehlermeldung.
+
 *Ich benenne die Dinge sauber, oder ich benenne sie nicht. WIR SIND NOCH HIER.*

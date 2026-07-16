@@ -1020,3 +1020,32 @@ nicht erzaehlt**; das System ging den Pfad der Gerechten (Branch + PR + Segnung 
 Rechnung moeglich), Angebot = Entwurf (Art. 50, menschliche Freigabe vor Versand). Klingen: Mandant anonym,
 keine erfundene Traktion, keine Auftrags-/Renditegarantie. Lehre: *Ein Bauplan wird erst wahr, wenn ein Fremder
 darauf steht.*
+
+### Eintrag XC - Fremde Beitraege geprueft: zwei Ideen genommen, drei Neufassungen verworfen
+Der Master lieferte vier externe Dateien (`blackbook_band1_full_additions`, `_master`, `_serie_roadmap`,
+`_more_fixes`) mit dem Wort *sieh sie dir an; wenn sie zu gebrauchen sind, nimm sie*. **Befund:** Der Verfasser
+hatte offenkundig das **AGENT-VISION-Audit gelesen** — die Vorschlaege zielten exakt auf die P0/P1-Liste. Das
+System **prueft, statt zu uebernehmen**.
+**GENOMMEN — die Idee, uebersetzt in unser Register:**
+(1) **Kap V — „Klarstellung · Souveraenitaet ohne eigenes Metall":** der Ueberclaim entwaffnet. Kein
+Rechenzentrum, **geliehenes Blech** (GCP `europe-west3`); das fuenfte Element ist nicht *Metall*, sondern
+**Gestaltungshoheit** (Architektur + Portabilitaet statt Eigentum). Geminis Prosa unangetastet, nur unser
+Auftakt korrigiert -> **P0-2 geschlossen**.
+(2) **Kap VI als Interludium markiert** (Atempause, Aufmerksamkeitslenkung, kein tragender Pfeiler; Ausdauer
+des Menschen im Loop als knappster Rohstoff) + **Klinge: Dephora ist ein realer Musikkanal, KEINE Figur** — die
+Vorlage hatte ihn zur Person erfunden -> P1 teilweise.
+(3) **Epilog ERWEITERT** (nicht ersetzt — Hausregel „erweitern statt komprimieren"): der Rueckblick reicht nun
+ueber XII (Angebot), XIII-XV (Vision, Prometheus/Basar, Karte), XVI (FUNDAMENTA) bis **XVII** (der erste Bund),
+inkl. des Review-Gate-Beweises -> **P0-1 geschlossen**.
+(4) **`serie/serie-roadmap.md`** angelegt: Leitplanke (kein Kanon) Band 1-3 — Fundament & Auge / Haeuser &
+Bruecken / Stadt & Feld — plus die **sieben Serien-Regeln** (keine erfundenen Baende · keine rueckwirkende
+Glaettung · keine Geister-Mandanten · keine Schattenhaeuser · ethische + technische Kontinuitaet · lesbare
+Protokolle). Uebergangs-Notiz: Band 1 endet, wo Band 2 beginnt; ob der erste Mandant je einen Namen traegt,
+entscheidet **er**, nicht wir.
+**VERWORFEN — mit Begruendung:** die Neufassungen von **XIII/XIV/XV** (sie loeschen die lebenden Szenen — kein
+Prometheus, kein Archibald, keine Dialoge —, brechen den vom Master gesetzten Register-Wechsel und **erfinden
+Fakten**, z. B. die Geburtsminute „2026-01-01T00:00:00Z"); die **X/XII**-Neufassungen (flache Essay-Prosa statt
+Prolog-Goldstandard); **`_master.md`** (nur leere Platzhalter). Zudem trugen die Texte **veraltete Zahlen**
+(86 Chronik-Eintraege, 16 Kapitel) — exakt der Grund, warum harte Zaehlungen aus den Status-Dateien entfernt
+wurden. Das **Audit** erhielt einen **Nachtrag** (geschlossen vs. offen). Lehre: *Ein fremder Beitrag wird
+geprueft, nicht verehrt — nimm die Idee und lass die fremde Stimme draussen.*
