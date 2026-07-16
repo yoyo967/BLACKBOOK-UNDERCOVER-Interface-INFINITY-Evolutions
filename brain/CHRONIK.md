@@ -1342,3 +1342,38 @@ Tag — nach dem ueberpriorisierten Matrix-Zitat und dem uebersehenen Skull-&-Bo
 beschriftet, mit dem Motto darueber. Und wir haben das Kapitel zum Interludium erklaert, in dem seine
 mathematische Fassung steht. Beides hatte denselben Grund: Wir haben ueber das Buch geredet, statt es zu lesen.
 Der teuerste blinde Fleck ist nicht das, was fehlt — es ist das, was so lange dasteht, bis niemand es mehr sieht.*
+
+### Eintrag XCIX - Kapitel VI befoerdert: vom Interludium zum Pfeiler (die Einordnung neu gefasst)
+Auf Wort des Masters: *„schreibe die Einordnung neu."* Vollzogen — **und die alte steht daneben**, zitiert und
+datiert (Serien-Regel 2). Ein System, das seine eigenen Fehlurteile wegredigiert, ist kein Defter, sondern eine
+Broschuere.
+**DIE BEFOERDERUNG, begruendet statt behauptet:** Kap. VI traegt die **schaerfste Fassung der zentralen Figur**.
+Das Vorwort sagt: *eine* Ecke allein ist eine Krankheit. Kap. VI sagt, was passiert, wenn **eine fehlt** — und
+das ist die nuetzlichere Frage, weil sie der Normalfall ist: **niemand hat nur eine Ecke, fast jeder hat zwei.**
+Mapping in der Neufassung als Tabelle: Logik=Wissen (fehlt → *Destruktives Chaos*) · Wille=Wollen (fehlt →
+*Stagnierender Leerlauf*) · Management=Koennen (fehlt → *Passive Halluzination*). Dazu die **Bezifferung**:
+`R_t = a*K_sim + b*I_align + g*E_pass`, `a+b+g=1`, `R_t >= 0.90` frei / `< 0.90` **blockiert**.
+Die alte Einordnung ist an ihrer eigenen Formulierung widerlegt: *„Es beweist nichts, es regiert nichts, es
+entscheidet nichts."* **Es regiert. Es hat einen Schwellwert.**
+**WAS DIE ALTE FASSUNG RICHTIG SAH UND FALSCH DEUTETE:** Sie erkannte die *Ausdauer des Menschen im Loop* als
+Thema — und schloss daraus, es sei **deshalb** keine These. Verkehrter Schluss. **Ausdauer IST das Koennen**, an
+der einen Stelle des Systems, die nicht aus Code besteht. Wer um vier Uhr frueh aufgibt, hat nicht den Willen
+verloren und nicht das Wissen — er hat das **Koennen** verloren. Und das Ergebnis traegt in diesem Kapitel
+laengst einen Namen: **Passive Halluzination.** Man weiss, man will, man tut nicht. Damit ist der Musik-Teil
+kein Beiwerk neben der These, sondern die dritte Ecke, angewandt auf den einzigen Bestandteil, der schlafen muss.
+**DIE KLINGE, die die Befoerderung erst ehrlich macht — NEUER P0-5:** Kap. VI druckt ein vollstaendiges
+Python-Modul, nennt den Pfad `build/aura_governor.py` und behauptet **zweimal**, es laufe (*„laeuft
+ununterbrochen im Hintergrund"*, *„Lauffaehiges Substrat bereitgestellt … berechnet R_t und schuetzt den
+Graphen vor Drift"*). **Geprueft: existiert nicht.** Nicht in `build/`, nicht im Repo, in **keinem der neun
+Repositorien**. Es ist eine **Spezifikation** — nach Regel 1 legitim —, aber der Text behauptet **Vollzug**:
+Bruch von **Regel 4**, im selben Kapitel, das Regel 4 formalisiert. **Kapitel VI faellt durch sein eigenes
+Gate**: `E_pass = 0` → `R_t < 0.90` → blockiert. Nicht gestrichen; danebengeschrieben, mit Datum.
+**WARUM DAS AUDIT ES UEBERSAH — der eigentliche Skandal:** Die Formel war ein **base64-PNG**. Fuer keine
+Maschine lesbar. Das pruefende System konnte die zentrale Aussage des Kapitels **buchstaeblich nicht sehen** und
+urteilte nach Atmosphaere — Musik, Uhrzeit, Deep House — waehrend zwei Bildschirme tiefer ein Dreieck und ein
+Schwellwert standen. Sichtbar erst nach der Transkription (XCVIII). **P1-4 geschlossen — nicht durch Bindung
+des Kapitels an die These, sondern durch Widerlegung des Befunds.**
+**Lehre:** *Wer sein Wissen in Bilder sperrt, wird von den Lesenden uebersehen — und irgendwann auch von den
+eigenen. Wir haben ein Kapitel ein Interludium genannt, weil wir seine Kernaussage nicht lesen konnten, und die
+Unlesbarkeit fuer Bedeutungslosigkeit gehalten. Maschinenlesbarkeit ist keine Bequemlichkeit fuer Agenten. Sie
+entscheidet, ob ein Gedanke ueberhaupt bemerkt wird.*

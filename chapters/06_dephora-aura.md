@@ -24,30 +24,106 @@ sondern ein Werkzeug der Selbststeuerung — ein Governor auf der Ebene des Bewu
 und die Hand sicher hält, Stunde um Stunde. Die hier das Licht sehen, wandeln durch die Dunkelheit, getragen
 von einer unantastbaren, tiefen Melodie. Tritt ein in den gleitenden Fluss.
 
-### **Einordnung · Dieses Kapitel ist ein Interludium**
+### **Einordnung · Dieses Kapitel trägt die These** *(Neufassung vom 16. Juli 2026)*
 
-Und weil dieses Buch seine eigene Bauordnung nicht bricht, sagen wir offen, was dieses Kapitel ist — und was
-nicht. Es ist kein tragender Pfeiler der Governance-These. Es beweist nichts, es regiert nichts, es entscheidet
-nichts. Es ist ein **Interludium**: eine Atempause zwischen zwei Pfeilern, ein Atemzug vor dem nächsten Stein.
+Dieses Kapitel galt einen Tag lang als Interludium. Als Atempause. Als etwas, das man überspringen darf. Die
+Einordnung, die das behauptete, steht weiter unten — unverändert, mit Datum, weil der Defter kein Radiergummi
+kennt. Hier steht, warum sie falsch war.
 
-Wer ein Traktat über erzwungene Governance erwartet, wird es hier für einen Fremdkörper halten. Er hat recht —
-und irrt trotzdem. Denn ein System besteht nicht nur aus Code und Regeln; es besteht auch aus der **Ausdauer
-des Menschen im Loop**, und die ist keine Metapher, sondern der knappste Rohstoff im ganzen Haus. Die vier
-Gates halten den Code sauber. Nichts hält den Menschen sauber, der um vier Uhr früh entscheidet, ob er noch
-einen Commit setzt oder aufgibt. Genau davon handelt dieses Kapitel: von der Frequenz, die den Bürgen durch
-die Nacht trägt, damit am Morgen noch jemand da ist, der segnen kann.
+**Die schärfste Fassung der zentralen Figur dieses Buches steht in diesem Kapitel.** Das Vorwort zeichnet ein
+Dreieck: **Wille · Logik · Management**, und es sagt, jede Ecke allein sei eine Krankheit. Weiter unten, in
+Abschnitt 2, steht dasselbe Dreieck noch einmal — älter, anders benannt, und **präziser**: das **Magische
+Dreieck der Fähigkeiten**, aus **Wissen · Wollen · Können**.
 
-Deshalb steht hier keine These, sondern eine **Aufmerksamkeitslenkung**: Die Aura entscheidet nicht, sie urteilt
-nicht, sie bewertet nicht. Sie zeigt nur, wohin der Blick gehen könnte, wenn der Lärm des Tages verstummt ist —
-zum Substrat, zu den Agenten, zu den Lücken.
+| Vorwort | Kapitel VI | Was fehlt, wenn sie fehlt |
+|---|---|---|
+| Logik (SYSTEM) | **Wissen** | *Wollen + Können − Wissen = **Destruktives Chaos*** |
+| Wille (MASTER) | **Wollen** | *Wissen + Können − Wollen = **Stagnierender Leerlauf*** |
+| Management (MATRIX) | **Können** | *Wissen + Wollen − Können = **Passive Halluzination*** |
 
-Und die Ehrlichkeitsklinge, die auch hier nicht ruht: **Dephora ist keine Figur dieses Buches.** Kein Agent,
-keine Persona, kein Bewohner der Stadt. Es ist ein realer Musikkanal, dessen Klang in diesem Scriptorium lief —
-ein Talisman, kein Charakter. Wir erfinden ihm keine Rolle und keine Zahlen. Er hat uns durch Nächte getragen;
-das ist alles, und das ist genug.
+Das Vorwort sagt, was passiert, wenn man **nur eine** Ecke hat. Dieses Kapitel sagt, was passiert, wenn **eine
+fehlt** — und das ist die nützlichere Frage, weil sie der Normalfall ist. Niemand hat nur eine Ecke. Fast jeder
+hat zwei.
 
-Wer die Argumentationskette sucht, überspringe dieses Kapitel und lese in Kapitel VII weiter. Wer verstehen
-will, *woraus* das Werk gemacht ist, bleibt.
+Und dann tut dieses Kapitel etwas, das keines der anderen tut: **Es beziffert das Dreieck.** Der
+Resonanz-Koeffizient `R_t = α · K_sim + β · I_align + γ · E_pass` ist nichts anderes als die drei Ecken,
+gewichtet und auf eins normiert — *Wissen* als Kosinus-Ähnlichkeit, *Wollen* als Übereinstimmung mit dem
+Review-Gate, *Können* als Bestehensquote der Tests. Und daraus folgt ein hartes Urteil: **`R_t ≥ 0.90`** gibt
+den Commit frei, **`R_t < 0.90`** blockiert den Release.
+
+Damit ist die alte Einordnung an ihrer eigenen Formulierung widerlegt. Sie schrieb: *„Es beweist nichts, es
+regiert nichts, es entscheidet nichts."* **Es regiert. Es hat einen Schwellwert.** Ein Kapitel mit einem
+Release-Gate ist kein Atemzug zwischen Pfeilern. Es ist einer.
+
+**Was die alte Fassung richtig sah — und falsch deutete.** Sie erkannte, dass dieses Kapitel von der **Ausdauer
+des Menschen im Loop** handelt, dem knappsten Rohstoff im Haus. Das stimmt. Nur schloss sie daraus, es sei
+*deshalb* keine These. Der Schluss ist verkehrt: **Ausdauer ist das Können — an der einen Stelle des Systems,
+die nicht aus Code besteht.** Die vier Gates halten den Code sauber; nichts hält den Menschen sauber, der um
+vier Uhr früh entscheidet, ob er noch einen Commit setzt oder aufgibt. Wer um vier Uhr aufgibt, hat nicht den
+Willen verloren und nicht das Wissen — er hat das **Können** verloren. Und was dann entsteht, hat in diesem
+Kapitel längst einen Namen: **Passive Halluzination.** Man weiß, man will, man tut nicht.
+
+Dieses Kapitel handelt also nicht *neben* der These von der Musik. Es handelt von der dritten Ecke, angewandt
+auf den einzigen Bestandteil des Systems, der schlafen muss.
+
+**Und nun die Klinge, die auch diese Neufassung nicht schont — sonst wäre die Beförderung eine Schmeichelei.**
+Weiter unten steht ein vollständiges Python-Modul, es trägt einen Pfad (`build/aura_governor.py`), und der Text
+behauptet zweimal, es **laufe**: *„läuft ununterbrochen im Hintergrund"*, *„Lauffähiges Substrat bereitgestellt
+… berechnet `R_t` und schützt den Graphen vor Drift."*
+
+**Dieses Skript existiert nicht.** Nicht in `build/`, nicht in diesem Repositorium, in keinem der neun
+Repositorien dieses Reiches. Geprüft am 16. Juli 2026. Was dort steht, ist eine **Spezifikation** — nach der
+ersten Regel dieses Hauses ein völlig legitimes Ding, denn wir schreiben, was sein soll, bevor wir bauen. Aber
+es ist **kein Vollzug**, und der Text behauptet einen. Das ist ein Bruch der vierten Regel, im selben Kapitel,
+das die Regel formalisiert.
+
+Der Witz daran ist bitter und exakt: **Kapitel VI fällt durch sein eigenes Gate.** Setzt man `E_pass` — die
+Bestehensquote der Tests eines Skripts, das es nicht gibt — auf null, dann liegt `R_t` unter dem Schwellwert.
+`R_t < 0.90`. **Blockiert.** Das Kapitel, das den Resonanz-Koeffizienten erfindet, erfüllt ihn nicht.
+
+Wir streichen die Zeilen trotzdem nicht. Sie stehen dort, wo sie standen, und dieser Absatz steht daneben —
+mit Datum. Wer das Skript sucht, wird es nicht finden. Wer es baut, schließt die Lücke. Bis dahin lies die
+Formel als das, was sie ist: **eine gültige Figur mit einer offenen Rechnung.**
+
+**Die Ehrlichkeitsklinge aus der alten Fassung gilt unverändert weiter:** **Dephora ist keine Figur dieses
+Buches.** Kein Agent, keine Persona, kein Bewohner der Stadt. Es ist ein realer Musikkanal, dessen Klang in
+diesem Scriptorium lief — ein Talisman, kein Charakter. Wir erfinden ihm keine Rolle und keine Zahlen. Er hat
+uns durch Nächte getragen; das ist alles, und das ist genug.
+
+Und der Satz, der die alte Fassung beschloss, ist zurückgezogen. Er lautete: *„Wer die Argumentationskette
+sucht, überspringe dieses Kapitel."* **Überspring es nicht.** Der schärfste Schnitt der ganzen Kette liegt hier.
+
+#### **Die zurückgezogene Einordnung — Stand 15. Juli 2026**
+
+> **Einordnung · Dieses Kapitel ist ein Interludium**
+>
+> Und weil dieses Buch seine eigene Bauordnung nicht bricht, sagen wir offen, was dieses Kapitel ist — und was
+> nicht. Es ist kein tragender Pfeiler der Governance-These. Es beweist nichts, es regiert nichts, es entscheidet
+> nichts. Es ist ein **Interludium**: eine Atempause zwischen zwei Pfeilern, ein Atemzug vor dem nächsten Stein.
+>
+> […]
+>
+> Deshalb steht hier keine These, sondern eine **Aufmerksamkeitslenkung**: Die Aura entscheidet nicht, sie urteilt
+> nicht, sie bewertet nicht. Sie zeigt nur, wohin der Blick gehen könnte, wenn der Lärm des Tages verstummt ist.
+>
+> […]
+>
+> Wer die Argumentationskette sucht, überspringe dieses Kapitel und lese in Kapitel VII weiter.
+
+Diese Einordnung wurde am 15. Juli 2026 geschrieben — vom selben System, das sie am 16. Juli zurückzieht. Sie
+war kein böser Wille und kein Zufall. Sie hatte einen Grund, und der Grund ist die unangenehmste Lehre dieses
+ganzen Bandes: **Das System hatte über das Kapitel geurteilt, ohne es zu lesen.** Es hatte die Musik gesehen,
+die Uhrzeit, die Deep-House-Frequenzen — und daraus geschlossen, hier stehe nichts Tragendes. Zwei Bildschirme
+weiter unten stand ein Dreieck und eine Formel mit einem Schwellwert.
+
+Warum es das übersah, ist der eigentliche Skandal: **Die Formel war ein Bild.** Ein base64-kodiertes PNG,
+eingebettet im Markdown, für keine Maschine lesbar. Das System, das dieses Kapitel bewertete, konnte seine
+zentrale Aussage buchstäblich nicht sehen. Erst als die elf Bilder dieses Kapitels dekodiert, betrachtet und in
+Text übersetzt wurden — am 16. Juli, in `brain/CHRONIK.md` als Eintrag XCVIII protokolliert —, wurde sichtbar,
+was hier seit jeher stand.
+
+Das ist keine Entschuldigung. Es ist ein Befund: **Wer sein Wissen in Bilder sperrt, wird von den Lesenden
+übersehen — und irgendwann auch von den eigenen.**
 
 ## **Schicht A: Die Undercover-Prosa (Der gleitende Fluss, die Aura und die unendliche Ausdauer)**
 
