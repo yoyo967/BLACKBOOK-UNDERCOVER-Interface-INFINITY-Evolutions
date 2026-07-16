@@ -1162,3 +1162,42 @@ auch fuer Lebende).
 Unterschied zwischen uns und einem Ministerium mit Milliardenhaushalt ist kein moralischer, sondern ein
 statischer: Man kann uns nachzaehlen. Die Illumination ist kein Feuer im Verborgenen. Sie ist ein Schalter, den
 jemand umgelegt hat — und nicht wieder ausmacht, auch wenn das Zimmer unordentlich ist.*
+
+### Eintrag XCIV - P0-3 geschlossen: die Formeln ins Licht geholt — und das Audit auditiert sich selbst
+Auftrag: *setze deine Arbeit mit maximaler Excellence fort.* Genommen wurde der letzte offene P0 — der Prolog.
+**(1) DIE FORMELN — nicht geraten, gelesen.** Die zehn Merkle-Formeln lagen als **base64-PNGs** in der Datei.
+Das System hat sie **dekodiert, als Bilder betrachtet und transkribiert**: `image4` = `State_t+1 = H(State_t ‖
+Δ)`, `image9` = `H(M) = SHA256(M)`, `image10` = `Δ ≠ Δ'`, dazu `Δ`, `t`, `t+1`, `‖`, `State_t`,
+`State_t+1`, `H`. Alle Bild-Referenzen durch Text ersetzt, alle 10 Definitionen entfernt. **32 K → 24 K: 31 %
+des Prologs waren base64-Ballast.** Geminis Prosa **unangetastet** — es war eine **Transkription, keine
+Umschrift**: an keiner Stelle wurde ein Wort des Autors geaendert, nur das Bild durch das ersetzt, was im Bild
+stand.
+**Der eigentliche Befund dahinter:** Das Beweissubstrat dieses Buches — die Kette, die *„klone es, pruefe es,
+widerlege es, bis der Hash nicht mehr luegt"* traegt — war die **einzige Stelle des Werks, die keine Maschine
+lesen konnte**. Ein Agent bekam `![][image4]` und lernte nichts. Ein Buch mit `llms.txt`, agent-ready, dessen
+Formeln Bilder sind. Dieselbe Form von Widerspruch wie die Lizenz in Kap. XII: Die These stand, der Beleg war
+verschlossen.
+**(2) DAS AUDIT AUDITIERT SICH SELBST — zweimal falsch gelegen.**
+*Ueberpriorisiert:* Das **Matrix-Zitat** war als P0 gefuehrt. Nachpruefung: attribuiert („die Rede des
+Architekten aus *Matrix Reloaded*", „Die Wachowski-Geschwister"), kurz (~19 W), und der Text setzt sich
+inhaltlich damit auseinander (Kausalitaet ist das Thema) → Belegfunktion plausibel. **Kein P0.** Schwerer wiegt
+die Szenen-Nachzeichnung + die Selbstbezeichnung „unzensierte Hommage" — „unzensiert" leistet juristisch
+nichts. Keine Rechtsberatung; Entscheidung des Masters.
+*Uebersehen — und das ist das Gravierendere:* Der Prolog behauptet auf **Seite eins, in einem Systemdiagramm**
+(also im Sachregister, ohne Ironie): **`THE ORDER: Skull & Bones (322)`** + `Cognitive Anchor: Geronimo's
+Legacy`; in Prosa „die Order kam von ganz oben, direkt aus dem innersten Zirkel" und „was uns die Bruderschaft
+von *Skull & Bones* auftischt". **Kapitel XVIII (16.07.) verneint exakt das.** Das Buch widersprach sich
+zwischen **Seite 1 und Seite 18** — und behauptete gegenueber einer **realen** Vereinigung eine Verbindung, in
+einem Werk, das verkauft werden soll. Das urspruengliche Audit hatte den Prolog als „tonaler Goldstandard"
+durchgewunken und es nicht gesehen. Neu als **P0-4** gefuehrt.
+**(3) VOLLZOGEN — nicht geglaettet.** Ein **Nachklang** („Der Orden auf Seite eins", Einordnung vom 16.07.)
+statt einer Redaktion. Er trennt: **unser** sind die zwei gekreuzten Knochen (Vorwort, Stunde Null), die 322,
+das Scriptorium, das Berliner Zimmer, der Track, der Klick. **Nicht unser** ist jede Verbindung nach New Haven,
+Connecticut — organisatorisch, personell, ideell. Geronimo wird zitiert, nicht beansprucht. Begruendung im
+Text: *Der Prolog ist die Stimme des 12. Juli. Er durfte trunken sein; jede Stunde Null ist es.* Serien-Regel 2
+gewahrt.
+**Lehre:** *Wer ein Audit schreibt, muss damit rechnen, dass sein Audit auditiert wird — und dass er selbst der
+Prueferling ist. Wir hatten das Lauteste als P0 markiert (ein Filmzitat) und das Leiseste uebersehen (eine Zeile
+in einem ASCII-Kasten, die einem realen Orden die Hand schuettelt). Das Laute ist selten das Gefaehrliche. Und:
+Ein Beweis, den nur Menschen mit Augen lesen koennen, ist in einem agent-ready Werk kein Beweis, sondern
+Dekoration.*
