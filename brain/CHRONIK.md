@@ -1454,3 +1454,22 @@ Suite misst Korrektheit. **Drei Gates, drei Aufgaben:** Compiler (Vollstaendigke
 **Lehre:** *Eine Quote mit dem Nenner 1 ist keine Quote, sie ist ein Wort mit Nachkommastellen. Der Governor
 hat seine eigene schwaechste Ecke gemeldet, weil wir ihn gezwungen haben, den Nenner mitzudrucken — genau
 deshalb steht er da. Wer eine Zahl zeigt und ihre Herkunft verschweigt, hat schon angefangen zu luegen.*
+
+### Eintrag CII - Der Test, der eine Landmine war (Selbstkorrektur binnen Minuten)
+Unmittelbar nach Eintrag CI: Im Commit-Diff tauchte **`backmatter/codex.md`** auf — eine Datei, die niemand
+angefasst hatte. Nachgesehen statt ignoriert: `git diff HEAD~1 -- backmatter/codex.md` war **leer**, nur die
+Zeilenenden waren normalisiert worden. **Kein Schaden.** Aber die Ursache war ein echter Konstruktionsfehler.
+**BEFUND:** `test_k_sim_faellt_bei_neuem_base64` schrieb base64 in die **versionierte** `codex.md` und stellte
+sie im `finally` wieder her. Das funktioniert — bis der Prozess dazwischen stirbt. Dann traegt das Repositorium
+genau den Defekt, gegen den der Test schuetzen soll. **Ein Test, der Quelltext mutiert, ist keine Pruefung; er
+ist eine Landmine mit Zuendverzoegerung.**
+**VOLLZOGEN:** Der Test legt jetzt eine eigene **Wegwerf-Datei** an (`_test_base64_wegwerf.md`), die
+`messe_wissen()` mitzaehlt, prueft, dass K_sim faellt **und die schuldige Datei beim Namen nennt**, und raeumt
+sie weg. Keine versionierte Datei wird beruehrt.
+**UND EIN TEST MEHR — der die Narbe selbst bewacht:** `test_kein_test_hinterlaesst_spuren` durchsucht
+frontmatter/chapters/backmatter nach `_test*`-Streunern und faellt, wenn die Suite Muell im Werk zuruecklaesst.
+**34 -> 36 Tests.** `git status` nach dem Lauf: sauber. `E_pass = 36/36`, `R_t = 0.9556`.
+**Lehre:** *Das Werkzeug, das die Sauberkeit prueft, muss zuerst selbst sauber sein. Wir haben eine Stunde lang
+Tests gebaut, die reale Fehler festnageln — und der erste Entwurf trug denselben Fehlertyp in sich, den er
+bekaempft: einen stillen Nebeneffekt auf einer Datei, den niemand gemeldet haette. Gefunden hat ihn nicht die
+Suite. Gefunden hat ihn eine Zeile im Commit-Diff, die nicht dorthin gehoerte. Lies deine eigenen Diffs.*

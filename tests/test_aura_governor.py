@@ -101,17 +101,29 @@ class TestWissenWirdGemessenNichtGesetzt(unittest.TestCase):
         self.assertAlmostEqual(k, 1.0, places=9)
 
     def test_k_sim_faellt_bei_neuem_base64(self):
-        pfad = os.path.join(ROOT, "backmatter", "codex.md")
-        original = open(pfad, encoding="utf-8").read()
+        # Wichtig: KEINE versionierte Datei anfassen. Ein Test, der Quelltext mutiert und im
+        # finally zurueckschreibt, ist eine Landmine — stirbt der Prozess dazwischen, traegt
+        # das Repo den Defekt. Also eine eigene Wegwerf-Datei, die messe_wissen() mitzaehlt.
+        pfad = os.path.join(ROOT, "backmatter", "_test_base64_wegwerf.md")
+        with open(pfad, "w", encoding="utf-8") as f:
+            f.write("# Wegwerf\n\n[image99]: <data:image/png;base64,iVBORw0KGgo=>\n")
         try:
-            with open(pfad, "a", encoding="utf-8") as f:
-                f.write("\n[image99]: <data:image/png;base64,iVBORw0KGgo=>\n")
             k, d = ag.messe_wissen()
             self.assertEqual(d["defekte_teile"], 1, "K_sim bemerkt neues base64 nicht.")
-            self.assertLess(k, 1.0)
+            self.assertLess(k, 1.0, "K_sim faellt nicht, obwohl unlesbares Wissen dazukam.")
+            self.assertIn("_test_base64_wegwerf.md", str(d["details"]),
+                          "K_sim nennt die schuldige Datei nicht beim Namen.")
         finally:
-            with open(pfad, "w", encoding="utf-8", newline="") as f:
-                f.write(original)
+            os.remove(pfad)
+
+    def test_kein_test_hinterlaesst_spuren(self):
+        # Narbe aus diesem Turn: Der erste Entwurf dieser Suite schrieb in backmatter/codex.md
+        # und stellte sie wieder her. Inhaltlich folgenlos — aber die Datei tauchte im Diff auf.
+        # Tests fassen keine versionierten Dateien an. Punkt.
+        streuner = [f for ordner in ag.TEILE_ORDNER
+                    for f in os.listdir(os.path.join(ROOT, ordner))
+                    if f.startswith("_test")]
+        self.assertEqual(streuner, [], f"Testmuell im Werk zurueckgelassen: {streuner}")
 
 
 class TestWollenWirdAmAuditGemessen(unittest.TestCase):
