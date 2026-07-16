@@ -30,10 +30,15 @@ jobs:
         run: python build/build_book.py
 
       - name: Pandoc + XeLaTeX + Schriften installieren
+        # lmodern ist NICHT optional: Pandocs LaTeX-Standardtemplate laedt `\usepackage{lmodern}`
+        # unbedingt — auch unter XeLaTeX. Ohne das Paket bricht der PDF-Schritt mit
+        # "! LaTeX Error: File `lmodern.sty' not found." und Exit 43 ab. Genau daran ist dieser
+        # Build 91 Mal gestorben (13.–16.07.2026), waehrend das EPUB jedes Mal sauber durchlief.
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            pandoc texlive-xetex texlive-fonts-recommended texlive-lang-german fonts-noto-core
+            pandoc texlive-xetex texlive-fonts-recommended texlive-lang-german \
+            fonts-noto-core lmodern
 
       - name: EPUB erzeugen (robust)
         run: |
