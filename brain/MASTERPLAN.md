@@ -49,7 +49,7 @@ Bestimmung ist — für Gott und die Welt das Buch verfassen. Zwischen Wille und
 |---|---|---|---|
 | **Entwickler / Open-Source-Community** | die Erleuchteten, die Gravitation | bauen mit, klonen, erweitern | GitHub frei, `llms.txt`, GDG Berlin |
 | **Investoren / Förderer** | Treibstoff ohne Zensur | Kapital an die Quelle | GitHub Sponsors, GCP-Startup-Programme, staatl. Förderung |
-| **LeserInnen / Zeitgeister** | Empfänger des neuen Auges | verstehen, verbreiten | das Buch (CC BY 4.0), Insights |
+| **LeserInnen / Zeitgeister** | Empfänger des neuen Auges | verstehen, verbreiten | das Buch (CC BY-NC-ND 4.0), Insights |
 | **Manager & Online-Marketing-Manager** | Steuerung der großen Gleichung | Operations, Kampagnen | Agency OS, Playbooks, DSGVO |
 | **Mandanten (anon.) / Immobilienmakler** | der Beweis, die erste Ernte | Frontier-Firm-Transformation | privates Repo je Mandant; Anonymität gewahrt |
 

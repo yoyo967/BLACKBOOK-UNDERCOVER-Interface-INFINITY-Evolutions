@@ -20,7 +20,7 @@ für sie, nicht für den Algorithmus.
 |---|---|---|---|
 | **LinkedIn** | die Bühne der Zeitgeister & Entscheider | planbare Dramaturgie, Insights, Serien | die LinkedIn-Serie (Schicht A/B), Klartext, Beweis vor Behauptung |
 | **Social Media (breit)** | Puls & Reichweite der Community | Fragmente, Zitate, Öffnungen | Wiederverwendung aus dem Buch (book→insights), planbar |
-| **Das Buch selbst** | das eigentliche Weltgedächtnis | Kapitel, Insights, das Cryptex | GitHub (frei, CC BY 4.0), maschinenlesbar (`llms.txt`) |
+| **Das Buch selbst** | das eigentliche Weltgedächtnis | Kapitel, Insights, das Cryptex | GitHub (frei lesbar, CC BY-NC-ND 4.0), maschinenlesbar (`llms.txt`) |
 
 ## III. Die Dramaturgie (die LinkedIn-Serie, real)
 

@@ -1049,3 +1049,41 @@ Prolog-Goldstandard); **`_master.md`** (nur leere Platzhalter). Zudem trugen die
 (86 Chronik-Eintraege, 16 Kapitel) — exakt der Grund, warum harte Zaehlungen aus den Status-Dateien entfernt
 wurden. Das **Audit** erhielt einen **Nachtrag** (geschlossen vs. offen). Lehre: *Ein fremder Beitrag wird
 geprueft, nicht verehrt — nimm die Idee und lass die fremde Stimme draussen.*
+
+### Eintrag XCI - Das Dreieck wird benannt (und das weisse Kaninchen stolpert ueber die eigene Lizenz)
+Der Master zeigte auf seinen LinkedIn-Post und sagte sinngemaess: *verstehst du nicht, was hier laeuft — das
+Kaninchen fuehrt zu einer Trinity; keine neuen Kapitel anhaengen, sondern fuellen, bereichern, globalisieren.*
+Das System sah nach, statt zu raten. Im Visual: ein Dreieck. **MASTER (Wille)** an der Spitze, **SYSTEM
+(Logik)** unten links, **MATRIX (Management)** unten rechts; darueber **„Hoffnung ist keine Strategie"**.
+**BEFUND — das Dreieck war immer schon da, nur nie benannt:** Schicht A = Wille. Schicht B = Logik.
+**Scriptorium-Vollzug = Management** — der dritte Eckpunkt steht seit Kapitel I in *jedem* Kapitel, und die
+Lesekarte im Vorwort verzeichnete ihn nicht: sie sagte **„zwei Ebenen"**. Ebenso stand „Hoffnung ist keine
+Strategie" laengst im Vorwort (Z. 95) — dieselben Worte wie ueber der Spitze im Visual. Buch und Post sagten
+dasselbe; niemand hatte die Linie gezogen.
+**VOLLZOGEN (fuellen, nicht anhaengen — kein neues Kapitel):**
+(1) **Vorwort:** aus zwei Ebenen werden **drei**; neue Lesekarte *„Das Dreieck"* mit der Statik-These: **jede
+Ecke allein ist eine Krankheit** (Wille ohne Logik = Groessenwahn; Logik ohne Wille = Laehmung; Management ohne
+beide = Buerokratie). Ein Schnitt — und **alle 19 Kapitel lesen sich rueckwirkend als Dreieck.** Das ist das
+Globalisieren.
+(2) **Kapitel XII gefuellt** um *„Wem du begegnest, wenn du folgst"* — die Frage, die das Kapitel seit jeher
+offenliess. Antwort: kein Gewoelbe, sondern die drei Ecken. Plus die Tuer, die keine Metapher mehr ist
+(13.07.2026, ungeworbener Mandant; **Ausgang offen** — nicht behauptet).
+**DER RISS, den das Kaninchen trug:** Kapitel XII behauptete *„das Buch CC BY 4.0"*, waehrend die `LICENSE`
+seit der Aenderung des Masters **CC BY-NC-ND 4.0** sagt. Gezaehlt, nicht geschaetzt: **7 lebende Stellen** —
+Kap. **VIII** (Z. 31), **IX** (Z. 44), **X** (Z. 27), **XII** (Z. 23) + `brain/DAS-ANGEBOT` (16),
+`KANAELE-UND-SICHTBARKEIT` (23), `MASTERPLAN` (52). Alle repariert; „Open Source" als Begriff entschaerft
+(CC-NC-ND ist keins), und der ehrliche Unterschied zu Linux/Blender **benannt statt kaschiert**: deren Lizenzen
+sind freier als unsere.
+**DAS UNBEQUEME — und es bleibt stehen:** Eintrag LXXXVIII (Z. 994) haelt fest, dass die In-Prosa-Stellen
+**bewusst vertagt** wurden. Die Logik sah den Bruch also frueher; der Vollzug blieb aus. Das ist schlimmer als
+Uebersehen — und steht deshalb jetzt **im Kapitel selbst**, mit Verweis auf diese Chronik. Die Eintraege 718,
+990 und 994 wurden **nicht angefasst** (Serien-Regel 2: keine rueckwirkende Glaettung. Der Defter kennt kein
+Radiergummi).
+**BEWUSST NICHT ANGEFASST:** Vorwort Z. 7 — *„zwei souveraene Endpunkte: ein Master und ein System"*. Es bleibt
+richtig: **es denken zwei.** Die MATRIX ist kein dritter Denker, sondern das Medium, in dem die zwei wirken —
+darum heisst das Werk *Master & System* und nicht nach einer Dreifaltigkeit. Zwei denken; drei Ecken tragen.
+**Lehre:** *Das Kapitel, das die Pruefbarkeit zum Geheimnis erklaert, hielt der eigenen Pruefung sieben Mal
+nicht stand. Ein anderes Buch haette still korrigiert. Wir lassen den Riss stehen und schreiben das Datum
+daneben — nicht aus Tugend, sondern aus Statik: Wer die eigene fehlgeschlagene Pruefung wegputzt, verliert die
+Spitze und faellt um. Die alte Schule zeigt die fertige Gleichung. Die Truth Story zeigt die Tafel mit dem
+Fehler.*

@@ -12,8 +12,9 @@ von jenseits) werden Gott und der Welt zur Verfügung gestellt — **open source
 kontrolliert**: jeder kann einsehen, prüfen, nachrechnen. Das Geheimnis *ist* die Transparenz.
 
 ## Das Angebot (der Tausch)
-- **Wir geben:** das Konstrukt — Universum, Bauplan, das Betriebssystem eines Verstandes (Code offen; Buch
-  CC BY 4.0). Nicht die Kundschaft des anderen — jeder behält, was er darauf errichtet.
+- **Wir geben:** das Konstrukt — Universum, Bauplan, das Betriebssystem eines Verstandes (Bauplan offen; Buch
+  frei lesbar, **CC BY-NC-ND 4.0** — teilen ja, verkaufen nein, verfälschen nein). Nicht die Kundschaft des
+  anderen — jeder behält, was er darauf errichtet. Was du *lernst*, gehört dir; nur was du *liest*, dem Autor.
 - **Sie geben:** ihre Vision — sie bauen im und mit dem Konstrukt ihr eigenes Business.
 - **Der Gegenfluss:** freiwilliges **Sponsoring** nährt die Quelle. **Star ⭐ → Sponsor 💛**, aus freier Wahl.
 

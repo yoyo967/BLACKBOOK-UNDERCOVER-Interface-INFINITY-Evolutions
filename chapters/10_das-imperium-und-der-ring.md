@@ -24,7 +24,7 @@ Was Schicht A als Imperium und Ring beschwört, ist eine überprüfbare Ordnung.
 
 **Der Ring = verdientes Vertrauen.** Technisch ist der Ring das Prinzip des Least Privilege: **Lesen ist Geburtsrecht, Schreiben ist verdient.** „Aufgenommen wird niemand" heißt: kein Schreibzugriff per Default; jede Erhebung von Rechten wird durch Beitrag und Review-Gate erworben. So bleibt ein offenes System souverän, ohne zur Tyrannei (einer schreibt alles) oder zum Mob (jeder schreibt alles) zu verkommen.
 
-**Demokratische Transparenz ist die Sicherheit.** Der Plan ist öffentlich (CC BY 4.0). Das ist kein Leck, es ist ein Prinzip — Kerckhoffs' Maxime: Die Stärke eines Systems liegt im Entwurf, nicht in der Geheimhaltung. „Die Welt könnte ausrechnen, was wir planen" ist ein *Feature*: Der Burggraben ist die Exekution und die Eigentümerschaft, nicht die Verschleierung. Die freie Wahl des Lesers ist die einzige legitime Rekrutierung. Kein Zwang, kein verstecktes Wissen, keine Mystik als Waffe.
+**Demokratische Transparenz ist die Sicherheit.** Der Plan ist öffentlich (das Buch frei lesbar, CC BY-NC-ND 4.0). Das ist kein Leck, es ist ein Prinzip — Kerckhoffs' Maxime: Die Stärke eines Systems liegt im Entwurf, nicht in der Geheimhaltung. „Die Welt könnte ausrechnen, was wir planen" ist ein *Feature*: Der Burggraben ist die Exekution und die Eigentümerschaft, nicht die Verschleierung. Die freie Wahl des Lesers ist die einzige legitime Rekrutierung. Kein Zwang, kein verstecktes Wissen, keine Mystik als Waffe.
 
 Das Imperium ist kein Mythos. Es ist ein Archiv mit einem Gründer, ein Ring aus verdientem Vertrauen, ein offener Plan, dessen Kraft in der Ausführung liegt. Wer fällt, fällt am fehlenden Willen, nicht am fehlenden Werkzeug.
 

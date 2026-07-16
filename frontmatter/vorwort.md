@@ -26,11 +26,51 @@ nichts Geringeres: um die **Illumination der Metaverse-Stadt Agenticum.**
 Bevor du dennoch eine einzige Seite umblätterst, sollst du wissen, worauf du dich einlässt, denn dies ist
 kein Roman, der vorgibt wahr zu sein, und keine Anleitung, die vorgibt eine Geschichte zu sein. Dies ist eine
 **Truth Story**, und weil sie wahr ist, hält sie sich an eine harte Regel: Sie zwingt dich zu nichts. Jeder
-Satz steht auf zwei Ebenen. Auf der einen spricht der Wille — die Undercover-Prosa, das Fleisch, die Vision.
-Auf der anderen liegt das Substrat — der Code, die Kryptografie, der nachprüfbare Beweis. Du musst uns kein
-Wort glauben; du kannst alles klonen, prüfen, widerlegen, bis der Hash nicht mehr lügt. Und dennoch, das gebe
+Satz steht auf drei Ebenen. Auf der ersten spricht der **Wille** — die Undercover-Prosa, das Fleisch, die
+Vision. Auf der zweiten liegt die **Logik** — das Substrat, der Code, die Kryptografie, der nachprüfbare
+Beweis. Du musst uns kein Wort glauben; du kannst alles klonen, prüfen, widerlegen, bis der Hash nicht mehr
+lügt. Und auf der dritten steht das **Management** — der Vollzug: das Protokoll, die Signatur, der Eintrag in
+die Chronik. Nicht was wir wollten, nicht was wir maßen, sondern was wir daraufhin *taten*, mit Datum und
+Zeugen. Zwei Ebenen wären eine Behauptung mit Beleg. Drei sind eine Tat. Und dennoch, das gebe
 ich zu, liegt über allem ein Hauch von Schicksal. Denn der Stein kam ganz von allein ins Rollen, und wer
 diese Zeilen jetzt liest, ist nicht durch reinen Zufall hier gelandet.
+
+### Das Dreieck — die Lesekarte dieses Buches
+
+Nimm dir einen Augenblick für diese Figur, bevor du weitergehst, denn sie ist der Schlüssel zu jeder Seite,
+die folgt. Sie hat drei Ecken, und du wirst sie in jedem Kapitel wiederfinden — ob wir sie dort nennen oder
+nicht.
+
+**An der Spitze steht der MASTER — der Wille.** Er entscheidet. Er ist der Einzige, der entscheiden darf, und
+der Einzige, dem dieses Buch die Entscheidung nicht abnimmt. Im Text ist er die *Schicht A*: die Prosa, die
+Vision, das Fleisch.
+
+**Unten links steht das SYSTEM — die Logik.** Es misst. Es behauptet nichts, was es nicht nachrechnen kann,
+und es widerspricht dem Willen in dem Moment, in dem die Zahl dem Willen widerspricht. Im Text ist es die
+*Schicht B*: das Substrat, der Beweis, der Hash.
+
+**Unten rechts steht die MATRIX — das Management.** Sie vollzieht. Sie ist die langweiligste der drei Ecken
+und die einzige, die je etwas verändert hat: das Gate, das Protokoll, die Freigabe, der Eintrag in den Defter.
+Im Text ist sie der *Scriptorium-Vollzug* am Ende jedes Kapitels — jener Abschnitt, den du überblättern
+möchtest und nicht überblättern sollst.
+
+Über der Spitze steht der Satz, der die ganze Figur trägt: **Hoffnung ist keine Strategie.** Und in der Mitte,
+dort wo die drei Kanten einander die Waage halten, liegt der Kern — das, was entsteht, wenn keine der drei
+Ecken die beiden anderen verschluckt.
+
+Denn das ist die eigentliche Prüfung dieses Werks, und es lohnt, sie zu kennen, bevor du beginnst: **Jede Ecke
+allein ist eine Krankheit.** Wille ohne Logik ist Größenwahn — der Mann, der es weiß, ohne je gemessen zu
+haben. Logik ohne Wille ist Lähmung — die perfekte Analyse, die niemand ausführt. Und Management ohne die
+beiden anderen ist Bürokratie: ein Verfahren, das reibungslos läuft und nichts hervorbringt. Zwei Ecken
+tragen nicht. Erst drei stehen.
+
+Keine Schule bringt dir das bei, und das ist kein Vorwurf an die Schulen. Die eine lehrt dich die Logik und
+schweigt über den Willen. Die andere brüllt dir den Willen ins Ohr und rechnet nie nach. Die dritte verkauft
+dir das Management als Beruf und vergisst, wozu. Dieses Buch lehrt keine der drei einzeln. Es zeigt dir alle
+drei am selben Vorgang, im selben Kapitel, am selben Tag — und lässt dich zusehen, wie sie einander
+korrigieren. Darin liegt der ganze Unterschied zwischen einer Anleitung und einer Truth Story: Die Anleitung
+erzählt dir, was funktioniert. Die Truth Story lässt dich dabei zusehen, wie es schiefging — und was
+daraufhin geschah.
 
 ## I. Der Master und das System — Scriptorium Berlin
 

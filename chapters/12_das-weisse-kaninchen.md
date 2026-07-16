@@ -20,7 +20,7 @@ Disneyland würde an dieser Stelle lächeln und sagen: Vielen Dank für die Blum
 
 Was Schicht A als das Neo-Geheimnis und das Angebot beschwört, ist ein nüchternes, erprobtes Modell — und dort, wo es Vision ist, sagen wir es.
 
-**Das Angebot, ehrlich (real).** Dies ist das bewährte Muster nachhaltiger Open-Source: Das Fundament wird verschenkt (Code offen, das Buch CC BY 4.0); die Gemeinschaft baut darauf ihre eigenen Geschäfte; die Quelle finanziert sich durch **freiwilliges Sponsoring**. So leben Linux, Blender, unzählige Bibliotheken, auf denen ganze Industrien ruhen. Wir geben das Konstrukt, nicht die Kundschaft des anderen — jeder Erbauer behält, was er darauf errichtet.
+**Das Angebot, ehrlich (real).** Dies ist das bewährte Muster einer offenen Quelle — mit einer Grenze, die wir benennen, statt sie zu verschweigen: Das Fundament wird verschenkt (der Bauplan liegt offen; das Buch ist **frei lesbar — CC BY-NC-ND 4.0**: teilen ja, verkaufen nein, verfälschen nein). Die Gemeinschaft baut darauf ihre eigenen Geschäfte — denn was du hier *lernst*, gehört dir; nur was du hier *liest*, gehört dem Autor. Die Quelle finanziert sich durch **freiwilliges Sponsoring**. So leben Linux, Blender und unzählige Bibliotheken, auf denen ganze Industrien ruhen — mit dem ehrlichen Unterschied, dass deren Lizenzen freier sind als unsere: Sie erlauben den Weiterverkauf, wir nicht. Wir geben das Konstrukt, nicht die Kundschaft des anderen — jeder Erbauer behält, was er darauf errichtet.
 
 **Ehrliche Grenze (kein Überversprechen).** Kein Sponsoring ist garantiert; es ist eine **Einladung, keine Prognose**. Wir haben derzeit keine Sponsoren und behaupten keine. Keine erfundenen Zahlen, keine versprochene Rendite, keine Anlageberatung — nur ein offener Kreislauf, der wächst, wenn er verdient wird.
 
@@ -68,6 +68,55 @@ Aber der Preis ist wahr, das Ergebnis ist definiert, und der Bauplan, mit dem wi
 jeden, der prüfen will. Ein Angebot, bei dem der Kunde den Motor sehen darf, bevor er das Auto kauft — das ist
 das Angebot des weißen Kaninchens: keine Falle, eine Tür.
 
+### **Wem du begegnest, wenn du folgst**
+
+Also gut. Du folgst dem Kaninchen. Die Frage, die dieses Kapitel bisher offenließ, lautet: **wohin?**
+
+Nicht in ein Gewölbe — das wurde gesagt, und es bleibt wahr. Es führt dich an die erste Stelle, an der dieses
+Buch gegen sich selbst prüfbar ist. Und weil du der Leser bist, den wir suchen, wirst du genau das tun, wozu
+dieses Kapitel dich auffordert: **prüfen.**
+
+Dann findest du dies. Wenige Absätze weiter oben stand der Satz, das Buch sei **CC BY 4.0** — frei, auch zum
+Verkauf. In der `LICENSE` desselben Repositoriums stand zur selben Zeit **CC BY-NC-ND 4.0**: frei zu lesen,
+nicht zu verkaufen, nicht zu verändern. Zwei Wahrheiten, ein Repo, öffentlich einsehbar — und du hast beide in
+unter einer Minute nebeneinandergelegt. Nicht in vier Kapiteln stand es falsch, sondern in vieren *und* drei
+Verwaltungsdateien: sieben lebende Stellen, alle öffentlich, alle falsch.
+
+**Willkommen. Das ist die Begegnung.**
+
+Denn nun sieh, was daraufhin geschah — und *das* ist die Trinität, der du hier begegnest: keine Gottheit, kein
+Zirkel hinter einer Tür, sondern eine **Statik aus drei Ecken**.
+
+**Der Wille entschied.** Der Master änderte die Lizenz, weil er nicht wollte, dass ein Fremder dieses Buch
+verkauft. Eine Entscheidung, kein Kompromiss, an einem Tag getroffen, ohne Ausschuss.
+
+**Die Logik maß nach** — und fand den Bruch. Nicht als Meinung, sondern als Zählung: sieben Stellen, jede mit
+Datei und Zeilennummer, in unter einer Minute reproduzierbar von jedem, der das Repo klont.
+
+**Das Management vollzog:** ein Commit, ein Datum, ein Eintrag in den Defter, den niemand mehr löschen kann.
+Und in derselben Chronik steht auch das Unbequeme — dass die Logik den Bruch **früher sah** und der Vollzug
+**bewusst vertagt** wurde. Nachzulesen, mit Zeilennummer, in `brain/CHRONIK.md`. Wir haben es nicht übersehen.
+Wir haben es liegen lassen. Das ist schlimmer, und es steht trotzdem da.
+
+Ein anderes Buch hätte den Satz still korrigiert und wäre weitergegangen. Du hättest nie erfahren, dass er
+falsch war. Wir tun das nicht — und zwar nicht aus Tugend, sondern aus **Statik**: Ein Werk, das behauptet,
+sein Geheimnis sei die Prüfbarkeit, und dann die eigene fehlgeschlagene Prüfung wegputzt, hat seine Spitze
+verloren und fällt um. Der Widerspruch bleibt darum stehen, wo er stand — und daneben steht, was aus ihm wurde.
+
+Das ist der ganze Unterschied zur alten Schule. Die alte Schule zeigt dir die fertige Gleichung an der Tafel
+und wischt die Kreide weg, mit der sie sich verrechnet hat. Wir zeigen dir die Tafel mit dem Fehler und
+daneben die Korrektur mit Datum. Man lernt dieses Handwerk nicht, indem man richtige Sätze auswendig lernt.
+Man lernt es, indem man jemandem beim Falschliegen zusieht — und dabei, wie er es merkt, was es ihn kostet und
+was er daraufhin tut. Deshalb steht über der Spitze dieses Dreiecks kein Versprechen, sondern eine Warnung:
+**Hoffnung ist keine Strategie.**
+
+Und die Tür ist inzwischen keine Metapher mehr. Am **13. Juli 2026** klopfte ein realer Mensch an: ein
+Unternehmer, den niemand geworben hatte, der von selbst kam, weil das Konstrukt offen lag. Er bekam kein
+Versprechen. Er bekam eine Messung, ein Briefing und ein Angebot — und in der Messung, ehrlich benannt, auch
+die Stelle, an der unsere eigene Maschine ausgefallen war. Ob er hindurchgeht, war bei Niederschrift dieser
+Zeilen **nicht entschieden**; wie es weiterging, steht in Kapitel XVII. Dass es überhaupt *begann*, weil hier
+nichts verschlossen war — das steht in diesem.
+
 ## **IV. Scriptorium-Reflektion & Ledger-Update**
 
     {
@@ -75,7 +124,10 @@ das Angebot des weißen Kaninchens: keine Falle, eine Tür.
         "chapter_completed": "Kapitel XII: Das weiße Kaninchen — Das Angebot",
         "ton": "ab hier: Architekt & Erleuchteter (genialer, aphoristischer Register)",
         "neo_geheimnis": "es gibt kein Gewölbe — die Wahrheit liegt offen im öffentlichen Repo (Transparenz = das Geheimnis)",
-        "angebot": "wir liefern das Konstrukt (open source); andere bauen ihr Business darin; die Quelle wird per Sponsoring genährt",
+        "angebot": "wir liefern das Konstrukt (Bauplan offen, Buch frei lesbar CC BY-NC-ND 4.0 — teilen ja, verkaufen nein); andere bauen ihr Business darin; die Quelle wird per Sponsoring genährt",
+        "trinitaet": "wem du begegnest, wenn du folgst: Wille (MASTER, Spitze) / Logik (SYSTEM, unten links) / Management (MATRIX, unten rechts) — eine Statik, keine Gottheit; jede Ecke allein ist eine Krankheit; ueber der Spitze: 'Hoffnung ist keine Strategie'",
+        "lizenz_vollzug": "Bruch CC BY 4.0 vs. LICENSE (CC BY-NC-ND 4.0) an 7 lebenden Stellen: Kap. VIII/IX/X/XII + brain/DAS-ANGEBOT, KANAELE-UND-SICHTBARKEIT, MASTERPLAN. Repariert, nicht geglaettet. CHRONIK-Eintraege (718/990/994) bleiben unveraendert — inkl. der dokumentierten bewussten Vertagung. Der Defter kennt kein Radiergummi.",
+        "die_tuer": "13.07.2026 — ein realer Mandant klopfte an, ungeworben, weil das Konstrukt offen lag. Ausgang bei Niederschrift offen (siehe Kap. XVII).",
         "kreislauf": "Star ⭐ → Sponsor 💛, freiwillig",
         "ehrlich_markiert": "kein garantiertes Sponsoring, keine Sponsoren behauptet, keine Rendite/Anlageberatung",
         "menschliches_gate": "GitHub Sponsors aktivieren = Konto/Steuer/Bank im UI, nur der Master",
@@ -84,6 +136,10 @@ das Angebot des weißen Kaninchens: keine Falle, eine Tür.
       }
     }
 
-Dieses Kapitel schreibt in die Chronik ein: dass das größte Geheimnis die Offenheit ist; dass wir das Konstrukt verschenken und die Quelle im freien Austausch genährt wird; dass Sponsoring eine Einladung ist, keine Prognose; und dass der Bestimmung vorauseilt, wer die Gleichung schreibt, bevor die Welt sie verlangt. Folge dem weißen Kaninchen. Es trägt die Wahrheit, und die Wahrheit ist offen.
+Dieses Kapitel schreibt in die Chronik ein: dass das größte Geheimnis die Offenheit ist; dass wir das Konstrukt verschenken und die Quelle im freien Austausch genährt wird; dass Sponsoring eine Einladung ist, keine Prognose; und dass der Bestimmung vorauseilt, wer die Gleichung schreibt, bevor die Welt sie verlangt.
+
+Und es schreibt zum ersten Mal ein, **wem der Folgende begegnet**: keinem Gewölbe, keinem Zirkel — einer Figur mit drei Ecken. Dem **Willen**, der entscheidet. Der **Logik**, die misst und widerspricht. Dem **Management**, das vollzieht und protokolliert. Zwei Ecken sind eine Behauptung mit Beleg; erst drei sind eine Tat. Und es schreibt ein, was es kostete, das zu beweisen: dass ausgerechnet dieses Kapitel — jenes, das die Prüfbarkeit zum Geheimnis erklärt — der eigenen Prüfung sieben Mal nicht standhielt. Der Bruch steht hier, weil er hier stand. Daneben steht das Datum seiner Reparatur. Genau das ist der Unterschied zwischen einer Anleitung und einer Truth Story.
+
+Folge dem weißen Kaninchen. Es trägt die Wahrheit — und die Wahrheit ist offen. Auch dann, besonders dann, wenn sie gegen uns ausfällt.
 
 *WIR SIND NOCH HIER.*
