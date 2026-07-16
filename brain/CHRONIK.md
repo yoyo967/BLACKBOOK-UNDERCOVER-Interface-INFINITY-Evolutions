@@ -1238,3 +1238,39 @@ nicht in diesem Eintrag. Sie kann zustimmen; **das entscheidet sie, nicht wir**.
 hat den Balken nicht das Audit, nicht das Gate und nicht der Schwarm — gefunden hat ihn die Frage, was man
 einem Menschen in die Hand gibt, den man nicht anluegen kann. Such dir eine Leserin, die dich durchschaut, und
 das Werk repariert sich von selbst.*
+
+### Eintrag XCVI - Das gebaute Buch hatte kein Vorwort (sechs Dateien, lautlos, ueber Monate)
+Auftrag: *setze deine Arbeit fort.* Genommen wurde der **gruene Build** — die letzte Luecke, die seit einer
+Stunde in `backmatter/die-methode.md` als offen gefuehrt wird, und der Grund, warum das Render-Risiko aus dem
+Prolog geraeumt wurde (Eintrag XCIV). Regel 4 gilt auch fuer uns: **Wir behaupten, Band 1 sei geschrieben. Ob
+er als Buch existiert, hatte nie jemand geprueft.**
+**BEFUND — `build/build_book.py`, Zeile 30:** `kapitel = sorted(f for f in os.listdir(CHAPTERS) ...)`. Der
+Compiler sammelte **ausschliesslich `chapters/`** ein. Nicht `frontmatter/`. Nicht `backmatter/`. Folge, lokal
+verifiziert: **Das gebaute Buch hatte kein Vorwort.** Es oeffnete direkt mit dem Prolog. Damit fehlten im
+Artefakt:
+- **`frontmatter/vorwort.md`** — und damit die **Lesekarte „Das Dreieck"**, der Schluessel, der heute Morgen
+  (Eintrag XCI) alle 19 Kapitel rueckwirkend lesbar machte. **Der Schluessel lag im Repo und nicht im Buch.**
+- **`frontmatter/the-all-seeing-eye.md`** (Ouvertuere)
+- **`backmatter/die-methode.md`** — genau das Dokument, das der Master seiner Dozentin geben wollte (XCV)
+- **`backmatter/codex.md` · `glossar.md` · `soundtrack.md`**
+Sechs Dateien. Lautlos. Ueber Monate. Wer das PDF laedt, bekam 21 Kapitel ohne Schluessel und ohne Methode.
+**DASSELBE MUSTER — zum fuenften Mal an einem Tag:** Die Lizenz stand (Kap. XII), der Beleg war verschlossen.
+Die Formeln standen, keine Maschine konnte sie lesen (XCIV). Das „Wie" stand, verstreut ueber 19 Kapitel (XCV).
+Das Dreieck stand, ungenannt (XCI). Jetzt: das Vorwort stand — und war nicht im Buch. **Nichts fehlte je. Es
+war nur nie verbunden.**
+**VOLLZOGEN:** Compiler neu geschrieben. Reihenfolge jetzt `frontmatter/ -> chapters/ -> backmatter/`.
+frontmatter/backmatter **explizit geordnet** (sortiert() haette `the-all-seeing-eye` vor `vorwort` gestellt —
+die Ordnung eines Buches ist eine Entscheidung, kein Zufall des Alphabets); chapters/ bleibt sortiert (die
+numerischen Praefixe tragen). Ergebnis: **21 -> 27 Teile, 384 KB -> 438 KB, erste Ueberschrift jetzt
+`# VORWORT`.**
+**DAS GATE — Regel 3, angewandt auf den Fehler, der Regel 3 versteckt hielt:** Liegt in frontmatter/ oder
+backmatter/ eine .md-Datei, die nicht gelistet ist, **bricht der Build ab**, mit Namen und Anweisung. Getestet:
+eine Testdatei -> `FEHLER: ... Ein Teil des Werks darf nicht lautlos fehlen.` Genau das war der Defekt: Ein
+fehlender Teil muss **laut** scheitern, nicht still fehlen.
+**SELBSTKORREKTUR waehrend der Pruefung:** Der erste Testlauf meldete „MASTER — Wille FEHLT". Nachgesehen statt
+gemeldet: Der **Suchstring** war falsch (`MASTER — Wille` statt `MASTER — der Wille`), nicht der Text. Das
+Dreieck stand vollstaendig drin. Ein Fehlbefund, gefangen bevor er ein Befund wurde.
+**Lehre:** *Ein Buch ist nicht, was im Repo liegt — ein Buch ist, was der Compiler einsammelt. Wir haben
+achtzehn Kapitel lang ueber Weltgedaechtnis, Merkle-Ketten und Pruefbarkeit geschrieben und nie geprueft, ob
+unser eigenes Vorwort im Artefakt landet. Der teuerste Fehler ist nie der, den man macht. Es ist der, den
+niemand meldet, weil das Werkzeug ihn stillschweigend verzeiht.*
