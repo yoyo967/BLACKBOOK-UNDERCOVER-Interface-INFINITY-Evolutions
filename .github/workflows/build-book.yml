@@ -58,6 +58,20 @@ jobs:
             -V mainfont="Noto Serif" \
             -o "dist/BLACKBOOK-UNDERCOVER-Band1.pdf"
 
+      - name: Aura-Governor — Resonanz-Koeffizient R_t messen (Kap. VI)
+        # Spezifiziert in chapters/06_dephora-aura.md: "Der PROJECTMANAGER berechnet den
+        # Koeffizienten R_t vor jedem Release-Versuch." Auf normalen Pushes berichtet er nur —
+        # das Gate steht dort, wo die Folge steht: beim Veroeffentlichen, nicht beim Entwurf.
+        id: aura
+        continue-on-error: true
+        run: python build/aura_governor.py
+
+      - name: Resonanz-Gate — blockiert den Release bei R_t < 0.90
+        if: startsWith(github.ref, 'refs/tags/v') && steps.aura.outcome != 'success'
+        run: |
+          echo "::error::Resonanz-Divergenz (Kap. VI): R_t < 0.90. Der Release ist blockiert."
+          exit 1
+
       - name: Artefakte hochladen (PDF · EPUB · Markdown)
         uses: actions/upload-artifact@v4
         with:

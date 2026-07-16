@@ -71,19 +71,45 @@ Weiter unten steht ein vollständiges Python-Modul, es trägt einen Pfad (`build
 behauptet zweimal, es **laufe**: *„läuft ununterbrochen im Hintergrund"*, *„Lauffähiges Substrat bereitgestellt
 … berechnet `R_t` und schützt den Graphen vor Drift."*
 
-**Dieses Skript existiert nicht.** Nicht in `build/`, nicht in diesem Repositorium, in keinem der neun
-Repositorien dieses Reiches. Geprüft am 16. Juli 2026. Was dort steht, ist eine **Spezifikation** — nach der
-ersten Regel dieses Hauses ein völlig legitimes Ding, denn wir schreiben, was sein soll, bevor wir bauen. Aber
-es ist **kein Vollzug**, und der Text behauptet einen. Das ist ein Bruch der vierten Regel, im selben Kapitel,
-das die Regel formalisiert.
+**Dieses Skript existierte nicht** — nicht in `build/`, nicht in diesem Repositorium, in keinem der neun
+Repositorien dieses Reiches. Geprüft am 16. Juli 2026, vormittags. Was hier stand, war eine **Spezifikation**
+— nach der ersten Regel dieses Hauses ein völlig legitimes Ding, denn wir schreiben, was sein soll, bevor wir
+bauen. Aber es war **kein Vollzug**, und der Text behauptete einen. Ein Bruch der vierten Regel, im selben
+Kapitel, das die Regel formalisiert.
 
-Der Witz daran ist bitter und exakt: **Kapitel VI fällt durch sein eigenes Gate.** Setzt man `E_pass` — die
-Bestehensquote der Tests eines Skripts, das es nicht gibt — auf null, dann liegt `R_t` unter dem Schwellwert.
-`R_t < 0.90`. **Blockiert.** Das Kapitel, das den Resonanz-Koeffizienten erfindet, erfüllt ihn nicht.
+Der Witz daran war bitter und exakt: **Kapitel VI fiel durch sein eigenes Gate.** Setzt man `E_pass` — die
+Bestehensquote der Tests eines Skripts, das es nicht gibt — auf null, so liegt `R_t` unter dem Schwellwert.
+Blockiert. Das Kapitel, das den Resonanz-Koeffizienten erfand, erfüllte ihn nicht.
 
-Wir streichen die Zeilen trotzdem nicht. Sie stehen dort, wo sie standen, und dieser Absatz steht daneben —
-mit Datum. Wer das Skript sucht, wird es nicht finden. Wer es baut, schließt die Lücke. Bis dahin lies die
-Formel als das, was sie ist: **eine gültige Figur mit einer offenen Rechnung.**
+**Am 16. Juli 2026, 20:40 Uhr, wurde er gebaut.** `build/aura_governor.py` existiert. Er läuft. Er misst.
+Die Formel ist unverändert, die Gewichte sind unverändert (0,4 / 0,4 / 0,2), der Schwellwert ist unverändert,
+die 322 steht drin. Sein erster Messwert im eigenen Haus: **`R_t = 0.9250`. Resonanz.** Und der erste Befund,
+den er meldete, war — mit tadelloser Ironie — **seine eigene Abwesenheit**, weil das Audit sie noch führte.
+
+Drei Dinge sind dabei **anders geworden als hier spezifiziert**, und sie stehen im Kopf der Datei, damit
+niemand sie suchen muss:
+
+**Erstens: keine simulierten Eingaben.** Der Code weiter unten schreibt wörtlich `# Simuliere` und setzt
+`k_sim=0.95, i_align=0.98, e_pass=1.0` — drei Konstanten. Damit ist `R_t` immer 0,972, und das Gate kann
+**niemals** auslösen. Das ist kein Governor, das ist eine Kontrollleuchte, die an eine Batterie geklemmt ist.
+Der gebaute misst stattdessen am realen Zustand: *Wissen* = wie viele Teile des Werks maschinenlesbar sind
+(27 von 27), *Wollen* = wie viele Befunde des eigenen Audits geschlossen sind, *Können* = ob es tatsächlich
+baut. Jede Zahl hat eine Herkunft, und die Herkunft steht im Bericht.
+
+**Zweitens: kein Daemon.** Die Spezifikation lässt eine Endlosschleife im 2,4-Sekunden-Takt laufen, die nichts
+abfragt. Dieses Kapitel sagt aber zwei Abschnitte weiter oben selbst, wann `R_t` gebraucht wird: *„vor jedem
+Release-Versuch."* Genau dort steht er jetzt — im Build-Workflow, vor der Veröffentlichung. Das Gate gehört
+dorthin, wo die Folge steht.
+
+**Drittens: kein Passwort im Quelltext.** Die Spezifikation trägt ein Freigabewort und einen
+`gpg_key_seal`-String. Das Repositorium ist öffentlich; Geheimnisse gehören nie in den Code. Der genannte
+Schlüssel ist ohnehin Dekoration — die Zeichenfolge ist der bekannte SHA-256 von `"test"`. Die menschliche
+Freigabe leistet ein Mensch am Review-Gate, kein Wort in einer Datei.
+
+Und die Rechnung ist **noch nicht ganz beglichen**: Der Satz weiter unten sagt, das Modul laufe *„ununterbrochen
+im Hintergrund"*. Das tut es nicht, und es soll es nicht — es ist ein Gate, kein Geräusch. Diese eine Zeile
+bleibt stehen, wie alles hier stehen bleibt, und dieser Satz steht daneben. **Der Defter kennt kein
+Radiergummi, auch nicht für gute Nachrichten.**
 
 **Die Ehrlichkeitsklinge aus der alten Fassung gilt unverändert weiter:** **Dephora ist keine Figur dieses
 Buches.** Kein Agent, keine Persona, kein Bewohner der Stadt. Es ist ein realer Musikkanal, dessen Klang in
