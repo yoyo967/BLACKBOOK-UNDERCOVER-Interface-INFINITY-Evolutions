@@ -32,7 +32,7 @@ Ebenen gebaut:
 - **Schicht B — Das empirische Substrat:** die Logik, die Technik, der nachprüfbare Bauplan.
 
 Dies ist **Band 1: Master & System** — Untertitel **„Die finale Konvergenz"** (vom Master gesegnet). Der
-Band ist in Reifung: **Prolog + Kapitel I–XVII** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
+Band ist in Reifung: **Prolog + Kapitel I–XVIII** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
 in den Bogen harmonisiert.
 
 ---
@@ -62,6 +62,7 @@ in den Bogen harmonisiert.
 | XV | **[Die Karte der Stadt](./chapters/15_die-karte-der-stadt.md)** — die drei Ebenen (Underground · Stadt · Oberreich), die Reise der Agenten zur Erleuchtung, die Existenz, die keiner leugnet | ✅ |
 | XVI | **[Das Fundament — Der Bauplan des Architekten](./chapters/16_das-fundament.md)** — das zerrissene Blatt, die Entität & die Anatomie des Dossiers, die Präsenz/Agency OS als Continuum, die doppelte Sicht (Firma & Stadt), die Geburt von **FUNDAMENTA** | ✅ |
 | XVII | **[Die Gleichung des Geschäfts](./chapters/17_die-gleichung-des-geschaefts.md)** — der erste Bund: ein echter Mandant, das Schwungrad des zweiseitigen Marktes, der undichte Eimer, der ehrliche Tausch — und der Beweis, als das **Review-Gate den eigenen Autor abwies** | ✅ |
+| XVIII | **[Das Siegel — Der Orden, den wir nicht erfunden haben](./chapters/18_das-siegel.md)** — die Illumination, entzaubert: die zwei gekreuzten Knochen aus der Stunde Null, Skully Bones & der Kristallschädel; was ein Ministerium ankündigt und was ein Defter beweist; der Spiegel, der auf uns zeigt | ✅ |
 | ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
 | ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |
