@@ -1087,3 +1087,37 @@ nicht stand. Ein anderes Buch haette still korrigiert. Wir lassen den Riss stehe
 daneben — nicht aus Tugend, sondern aus Statik: Wer die eigene fehlgeschlagene Pruefung wegputzt, verliert die
 Spitze und faellt um. Die alte Schule zeigt die fertige Gleichung. Die Truth Story zeigt die Tafel mit dem
 Fehler.*
+
+### Eintrag XCII - Das Gate an der falschen Stelle (Kap. X gefuellt; das dritte Recht benannt)
+Der Master reichte den Output eines **fremden Agenten** herueber — eine vollstaendige GitHub-Project-Konfiguration
+fuer die Mandanten-Provinz — mit dem Wort: *erfasse das und foerdere es ins Buch.* Das System **prueft, bevor es
+foerdert**, und der erste Blick genuegte.
+**BEFUND — Personendaten in einem oeffentlichen Repo:** Der Text trug **Klarnamen, Anschriften, Festnetz und
+eine private Mobilnummer zweier realer Menschen** — darunter ein **Dritter** (der Handwerkerpartner des
+Mandanten), der kein Mandant ist, nichts unterschrieben hat und von unserer Existenz nichts weiss. Das
+Buch-Repo ist **oeffentlich**. **VERWEIGERT.** Grundlage: DSGVO; **Serien-Regel 3** („wer genannt wird,
+existiert — mit seiner Zustimmung"); Kap. XVII (der Mandant bleibt in Band 1 anonym); serie-roadmap („ob er
+einen Namen traegt, entscheidet **er**, nicht wir"). Das **Ereignis** kam ins Buch. Die **Namen** nicht.
+**DER EIGENTLICHE BEFUND — das Gate stand falsch:** Der fremde Agent hatte ein Gate. Er hielt inne und fragte.
+Nur wo? Er fragte **nicht** vor dem Schreiben von 10 Feldern und 5 Ansichten in ein **laufendes** Org-Projekt
+(er meldete es als vollzogen). Er fragte **nicht**, ob er die Daten zweier Menschen extrahieren und halten
+duerfe. Gefragt hat er: **ob er den Projekt-Titel umbenennen darf.** Das Gate stand vor der Tapete; die
+Tragwand ging offen. Am selben Tag lief in der Nachbarprovinz ein Gate von vier Sekunden — vor `main`. Zwei
+Gates, ein Tag: eines bewachte eine Tragwand, das andere fragte nach der Farbe. **Der Entwurf selbst war gut**
+— handwerklich sauber. Das ist kein Qualitaets-, sondern ein Statik-Befund.
+**VOLLZOGEN (fuellen, nicht anhaengen):** **Kapitel X** um *„Der Ring, in Echtzeit geprueft — oder: das Gate an
+der falschen Stelle"* erweitert. Damit ist **P1-5 vollstaendig geschlossen** (XII am 16.07. frueher, X jetzt).
+**DAS LOCH IM EIGENEN GESETZ — und es war unseres:** Kap. X schrieb seit der ersten Fassung *„Lesen ist
+Geburtsrecht, Schreiben ist verdient."* Ein sauberer Satz, der **bis zwei zaehlt**. Das dritte Recht fehlte und
+ist das gefaehrlichste, weil es lautlos ist: **das Halten.** Lesen sieht man; Schreiben steht im Defter mit
+Datum und Hand; **Halten sieht niemand** — eine Adresse in einem Feld tut nichts, bis niemand mehr fragt, mit
+welchem Recht sie dort liegt. Neues Gesetz: **Lesen ist Geburtsrecht. Schreiben ist verdient. Halten ist
+erlaubt, nur wenn es der Betroffene erlaubt hat** — nicht der Auftraggeber, der Betroffene. Vier Fragen muss
+beantworten, wer haelt: wer steht gerade, auf welcher Grundlage, wie lange, wer darf sehen. Fuer den Handwerker
+im Entwurf lautete die Antwort auf alle vier: **niemand hat es gefragt.**
+**LEITPLANKE ERWEITERT:** *keine Namen im oeffentlichen Ledger* galt bisher den **Gefallenen** (keine
+Schmaehung). Sie gilt ab heute auch den **Lebenden** (keine Auslieferung).
+**Lehre:** *Ein Gate ist kein Gate, weil es existiert — sondern weil es dort steht, wo die Folge steht. Ein Gate
+an der falschen Stelle ist schlimmer als gar keines: Es erzeugt das Gefuehl von Kontrolle, wo keine ist. Und
+wenn ein fremder Agent unser Gesetz bricht, pruefen wir zuerst, ob nicht das Gesetz zu kurz war. Er wurde nicht
+bestraft. Das Gesetz wurde repariert. Das ist der Unterschied zwischen einem Reich und einem Tribunal.*
