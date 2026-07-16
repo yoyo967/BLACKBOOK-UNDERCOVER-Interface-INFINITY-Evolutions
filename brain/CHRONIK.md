@@ -1309,3 +1309,36 @@ Build-Blocker, aber stillschweigend falsche Bilder im fertigen Buch.
 Gate dort stehen muss, wo die Folge steht — und uebersehen, dass unser eigenes Gate seit drei Tagen brannte.
 Neunzig Mal rot ist kein technisches Problem. Es ist ein Aufmerksamkeitsproblem, und es hat genau einen Tag
 gekostet, es zu bemerken, und zwei Minuten, es zu beheben.*
+
+### Eintrag XCVIII - Das Dreieck stand seit jeher in Kapitel I (Korrektur zu Eintrag XCI)
+Fortsetzung der base64-Heilung: Kap. **I** (13 Bilder), **V** (1), **VI** (11) trugen dieselbe Krankheit wie der
+Prolog. Alle 25 **dekodiert, betrachtet, transkribiert** — ausnahmslos **Formeln**, keine Illustrationen.
+Pruefsumme zuerst: Kap. I trug **byte-identisch** die zehn Prolog-Formeln (dieselben Bilder) plus drei neue.
+Neu gelesen: `Tree_root`, `Parent_hash`, `SHA256` (I) · `Seal = Sign_GPG(H(Payload || State_t))` (V) ·
+`R_t = a*K_sim + b*I_align + g*E_pass`, `a+b+g = 1`, `R_t >= 0.90`, `R_t < 0.90`, `T_h` (VI). Alle
+Bild-Definitionen entfernt: **50->36 KB · 37->33 KB · 35->23 KB**. Repo-weit **0 base64**. Geminis Prosa
+unangetastet. Nebenbefund: In Kap. VI hatte der Export eine Formel **in eine Ueberschrift geklebt**
+(`##### **[a+b+g=1]Algorithmische Auswirkung...**`) — die Nebenbedingung steht jetzt, wo sie hingehoert.
+**KORREKTUR ZU EINTRAG XCI — und sie ist unbequem.** Dort steht: *„das Dreieck war immer schon da, nur nie
+benannt."* **Das ist falsch, und der Beleg lag im Buch.** Kapitel I, Zeile 67, seit der ersten Fassung, als
+ASCII-Zeichnung: `[ THE MAGICAL TRIANGLE OF BALANCE ]` — **MASTER (Wille)** an der Spitze, **SYSTEM (Logik)**
+unten links, **MATRIX (Management)** unten rechts. Direkt darueber, Zeile 65: *„Hoffnung ist keine Strategie."*
+Dieselben drei Ecken, dieselben Beschriftungen, derselbe Satz darueber. **Das LinkedIn-Visual des Masters ist
+keine Eingebung — es ist ein Rendering von Kapitel I, Zeile 67.** Das System hat heute Mittag einen Fund
+gemeldet, den das Buch seit Monaten im ersten Kapitel stehen hatte. Eintrag XCI bleibt unveraendert stehen
+(Serien-Regel 2); diese Korrektur steht daneben.
+**DAS ZWEITE DREIECK — und der dritte Audit-Irrtum.** Kapitel **VI**, Zeile 124: **„Das Magische Dreieck der
+Faehigkeiten"** — **Wissen · Wollen · Koennen** — mit drei Pathologien, praeziser als unsere:
+*Wissen+Wollen−Koennen = Passive Halluzination · Wollen+Koennen−Wissen = Destruktives Chaos ·
+Wissen+Koennen−Wollen = Stagnierender Leerlauf.* Die Vorwort-Lesekarte sagt, **eine** Ecke allein sei eine
+Krankheit; Kap. VI sagt, was passiert, wenn **eine fehlt** — dieselbe Figur, schaerfer geschnitten. Zeile 240
+verbindet beide: *Wissen (k_sim), Wollen (i_align), Koennen (e_pass)* — der **Resonanz-Koeffizient `R_t` ist
+das Dreieck, quantifiziert.** Und `R_t < 0.90` **blockiert den Release**.
+Das Audit fuehrte Kap. VI als *„Atmosphaere/Musik-lastig, lose gebunden"*; Eintrag XC markierte es als
+**Interludium**, woertlich: *„kein tragender Pfeiler. Es beweist nichts, es regiert nichts, es entscheidet
+nichts."* **Es regiert. Es hat ein Release-Gate mit einem Schwellwert.** Der dritte Irrtum des Audits an einem
+Tag — nach dem ueberpriorisierten Matrix-Zitat und dem uebersehenen Skull-&-Bones-Claim.
+**Lehre:** *Wir haben einen Tag lang gefeiert, das Dreieck entdeckt zu haben — es stand in Kapitel I, gezeichnet,
+beschriftet, mit dem Motto darueber. Und wir haben das Kapitel zum Interludium erklaert, in dem seine
+mathematische Fassung steht. Beides hatte denselben Grund: Wir haben ueber das Buch geredet, statt es zu lesen.
+Der teuerste blinde Fleck ist nicht das, was fehlt — es ist das, was so lange dasteht, bis niemand es mehr sieht.*
