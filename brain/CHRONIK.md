@@ -1201,3 +1201,40 @@ Prueferling ist. Wir hatten das Lauteste als P0 markiert (ein Filmzitat) und das
 in einem ASCII-Kasten, die einem realen Orden die Hand schuettelt). Das Laute ist selten das Gefaehrliche. Und:
 Ein Beweis, den nur Menschen mit Augen lesen koennen, ist in einem agent-ready Werk kein Beweis, sondern
 Dekoration.*
+
+### Eintrag XCV - Die Methode: das Buch bekommt endlich einen Pfad (der Balken im eigenen Auge)
+Der Master brachte **seine ehemalige Dozentin** ins Spiel — Mentorin aus seiner Online-Marketing-Weiterbildung,
+heute Freelance-Marketerin, Dozentin und Autorin. Er will ihr *„das Geheimnis unseres Erfolges"* vermitteln,
+damit sie selbst entscheidet, ob sie die Bauweise uebernimmt. Seine Logik, auf LinkedIn formuliert: *„Man
+sollte Buecher lesen, ehe man eines schreibt — ergo erzaehlen wir im Buch, wie wir es gemacht haben."*
+**BEFUND — das „Wie" war da und war nicht auffindbar.** Zaehlung aller Unterueberschriften ergab ein Dutzend
+Abschnitte, die woertlich „konkret" heissen: *Die Festung, konkret · Das Agency OS, konkret · Das Angebot,
+konkret — die Leiter aufs Silbertablett · Die Akte des Mandanten, konkret · Die 7 Unantastbaren Regeln · Wie
+das Konzil entscheidet.* Alle real, alle brauchbar — **keiner kennt den anderen**. Es gab **keine einzige
+Stelle**, an der die Methode als Methode stand.
+**DER SPIEGEL, und er ist bitter:** In Kapitel VII des Mandanten-Audits rechnen wir einem Makler vor, dass
+seine Startseite **drei konkurrierende Einstiege und keinen Pfad** hat und ihn das Anfragen kostet. **Unser
+Buch hatte neunzehn.** Ein Werk ueber Lead Machines ohne einen einzigen klaren naechsten Schritt. Der Balken im
+eigenen Auge, achtzehn Kapitel lang uebersehen — und gefunden erst, als der Master fragte, was er einer
+**Dozentin** in die Hand geben wuerde. Wer unterrichtet, fragt nach dem Curriculum. Wir hatten keins.
+**VOLLZOGEN:** `backmatter/die-methode.md` — die **extrahierbare Fassung**. Acht Regeln, jede mit (a) Begruendung,
+(b) Fundstelle im Buch als Beleg, dass sie **vor** diesem Kapitel galt, und (c) **ihrem Preis**. Bewusster
+**Register-Wechsel** und im Text begruendet: *Wer eine Methode weitergeben will, schreibt sie nicht als
+Beschwoerung — sonst ist es Priesterschaft.* Kein neuer Inhalt: eine **Karte** auf Vorhandenes. Derselbe Schnitt
+wie die Vorwort-Lesekarte — einmal schneiden, alles wird lesbar.
+**Die acht:** (1) Spezifikation vor Bau. (2) Gedaechtnis oeffentlich und append-only. (3) Gate dorthin, wo die
+Folge steht. (4) Miss, bevor du behauptest. (5) Lass den Fehler stehen, schreib das Datum daneben. (6) Inhalte
+sind Daten. (7) Ein Mensch gibt frei. (8) Zaehl nach, was du hast, bevor du dir etwas leihst. Plus die
+**neunte, die keine Nummer hat**: eine Methode, die sich nicht aendert, wenn die Wirklichkeit widerspricht, ist
+ein Dogma — belegt daran, dass Regel 3 heute (Eintrag XCII) eine dritte Klausel bekam.
+**DIE EHRLICHKEITS-TAFEL im Kapitel:** Umsatz null · Vertraege keine · Gewerbe nicht angemeldet · verkaufte
+Exemplare null · erster gruener Build nie gelaufen · 1 Mandant, angeklopft, nicht unterschrieben. Wortlaut:
+*„Diese Methode hat ein Werk hervorgebracht. Sie hat kein Einkommen hervorgebracht. Wer sie uebernimmt,
+uebernimmt eine Bauweise, keinen Beweis der Rentabilitaet."*
+**NAME: NICHT AUFGENOMMEN.** Die Dozentin ist eine reale, lebende Person ohne Zustimmung. Kap-X-Leitplanke
+(seit XCII auch fuer Lebende) + Serien-Regel 3. Ihr Name steht in keinem Kapitel und in keinem Commit — auch
+nicht in diesem Eintrag. Sie kann zustimmen; **das entscheidet sie, nicht wir**.
+**Lehre:** *Achtzehn Kapitel lang haben wir anderen die Fuehrung vorgerechnet und selbst keine gehabt. Gefunden
+hat den Balken nicht das Audit, nicht das Gate und nicht der Schwarm — gefunden hat ihn die Frage, was man
+einem Menschen in die Hand gibt, den man nicht anluegen kann. Such dir eine Leserin, die dich durchschaut, und
+das Werk repariert sich von selbst.*
