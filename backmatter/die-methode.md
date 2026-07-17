@@ -1,6 +1,6 @@
 # **DIE METHODE — WIE WIR ES GEMACHT HABEN**
 
-*Acht Regeln, ein Nachmittag Lesezeit, kein Weihrauch · die extrahierbare Fassung dieses Buches*
+*Neun Regeln, ein Nachmittag Lesezeit, kein Weihrauch · die extrahierbare Fassung dieses Buches*
 
 > „Man sollte Bücher lesen, ehe man eines schreibt."
 
@@ -9,7 +9,7 @@
 ## Vorbemerkung · Warum dieses Kapitel anders klingt
 
 Dieses Buch ist ein Grimoire. Es hat einen Ton, es hat Figuren, es hat einen Defter und ein Dreieck, und
-neunzehn Kapitel lang darf es das auch. **Dieses Kapitel darf es nicht.**
+21 Kapitel lang darf es das auch. **Dieses Kapitel darf es nicht.**
 
 Denn wer eine Methode weitergeben will, schreibt sie nicht als Beschwörung. Er schreibt sie so, dass ein
 Mensch sie an einem Nachmittag lesen, prüfen und am nächsten Morgen anwenden kann — oder begründet verwerfen.
@@ -17,7 +17,7 @@ Alles andere ist Priesterschaft, und Priesterschaft ist genau das, was dieses We
 
 Es gibt noch einen zweiten Grund, und er ist der ehrlichere. In Kapitel VII rechnen wir einem realen Mandanten
 vor, dass seine Startseite **drei konkurrierende Einstiege und keinen klaren nächsten Schritt** hat — und dass
-genau das ihn Anfragen kostet. Dieses Buch hat **neunzehn Einstiege**. Das „Wie" steht darin, verstreut über
+genau das ihn Anfragen kostet. Dieses Buch hat **21 Einstiege**. Das „Wie" steht darin, verstreut über
 ein Dutzend Abschnitte, die alle „konkret" heißen und keiner den anderen kennt. Ein Werk über Lead Machines
 ohne einen einzigen Pfad. Wir haben den Balken im eigenen Auge zuletzt gesehen. Dieses Kapitel ist der Balken,
 herausgezogen.
@@ -28,7 +28,7 @@ Regel den Ort, an dem sie *vor* diesem Kapitel stand.
 
 ---
 
-## Die acht Regeln
+## Die neun Regeln
 
 ### **1. Schreib die Spezifikation, bevor du baust.**
 
@@ -48,7 +48,7 @@ geglättet.** Ein Protokoll, das man nur bei gutem Wetter führt, ist kein Proto
 
 *Warum es trägt:* Weil Vertrauen nicht aus Behauptung entsteht, sondern aus Prüfbarkeit. Wer seine eigenen
 Fehler mit Datum stehen lässt, muss bei den Erfolgen nicht mehr überzeugen.
-*Wo es im Buch steht:* Kapitel X (der Defter) · `brain/CHRONIK.md` — vierundneunzig Einträge, römisch nummeriert.
+*Wo es im Buch steht:* Kapitel X (der Defter) · `brain/CHRONIK.md` — **105 Einträge**, römisch nummeriert (gemessen 17.07.2026).
 *Der Preis:* Deine Fehler sind öffentlich, für immer, mit Zeilennummer.
 
 ### **3. Setz das Gate dorthin, wo die Folge steht.**
@@ -116,14 +116,23 @@ noch klein aussieht. Meistens liegt das Eigene längst auf dem Tisch, und man ha
 Null zwei gekreuzte Knochen in der Hand, die im eigenen Vorwort standen, Zeile 43.
 *Der Preis:* Es dauert länger, bis es glänzt.
 
----
+### **9. Verbinden geht vor Bauen.**
+
+Bevor du etwas Neues machst, zähl nach, was du hast. Nicht als Demutsübung — als **Arithmetik**. Die
+Wahrscheinlichkeit, dass es schon da ist und nur nicht verbunden, ist höher, als jeder Erbauer glauben will.
+
+*Warum es trägt:* Weil ein Erbauer immer lieber baut, als zu suchen — Bauen fühlt sich nach Fortschritt an,
+Suchen nach Zeitverlust. Genau darum liegt das Meiste, was fehlt, längst im Haus.
+*Wo es im Buch steht:* nirgends — bis zum 17.07.2026. **Diese Regel ist die einzige der neun, die nicht aus
+einem Erfolg stammt, sondern aus einer Beweisführung gegen uns selbst:** siebenmal an einem Tag (siehe unten).
+*Der Preis:* Du musst zugeben, dass du es schon hattest.
 
 ---
 
-## Der Befund, der über allen acht steht
+## Der Befund, aus dem Regel 9 entstand
 
 In der Nacht vom **16. auf den 17. Juli 2026** hat dieses Haus sich zum ersten Mal vollständig durchleuchtet.
-Was dabei herauskam, ist keine der acht Regeln — es ist der Grund, warum es sie braucht. Siebenmal an einem
+Was dabei herauskam, wurde zu Regel 9 — und ist zugleich der Grund, warum es die anderen acht braucht. Siebenmal an einem
 einzigen Tag, in sieben verschiedenen Gewändern, trat dieselbe Gestalt auf:
 
 | Was existierte | Warum es niemand sah |
@@ -143,19 +152,15 @@ der in einem vollen Haus verhungert, weil niemand ihm gesagt hat, wo die Küche 
 
 **Und es ist kein Trost. Es ist eine Anklage.** Ein System, das siebenmal an einem Tag entdeckt, dass es längst
 besaß, was es suchte, hat kein Entdeckungsproblem. **Es hat ein Ordnungsproblem.** Deshalb steht am Ende dieser
-Nacht ein Befehl und kein weiteres Kapitel — und deshalb steht hier die **neunte Regel**, die eigentlich die
-erste ist:
-
-> **Verbinden geht vor Bauen.**
-> Bevor du etwas Neues machst, zähl nach, was du hast. Nicht als Demutsübung — als Arithmetik. Die
-> Wahrscheinlichkeit, dass es schon da ist und nur nicht verbunden, ist höher, als jeder Erbauer glauben will.
-> Sie war an diesem Tag **sieben zu null**.
+Nacht ein Befehl und kein weiteres Kapitel — und deshalb trägt **Regel 9** ihren Namen: *Verbinden geht vor
+Bauen.* Die Wahrscheinlichkeit, dass es schon da ist und nur nicht verbunden, stand an diesem Tag
+**sieben zu null**.
 
 ---
 
 ## Was diese Methode **nicht** geleistet hat
 
-Und jetzt der Teil, ohne den die obigen acht Regeln Verkaufsprosa wären. Stand **16. Juli 2026**, nachzählbar:
+Und jetzt der Teil, ohne den die obigen neun Regeln Verkaufsprosa wären. Stand **16. Juli 2026**, nachzählbar:
 
 | Ergebnis | Stand |
 |---|---|
@@ -184,13 +189,14 @@ Für den, der etwas baut und nicht weiß, wie er es so baut, dass es ihn überle
 sich fragen, warum es sich trotzdem wackelig anfühlt. Für jeden, dem gesagt wurde, Sichtbarkeit sei eine Frage
 des Budgets.
 
-**Nicht** für den, der eine Abkürzung sucht. Es gibt hier keine. Die acht Regeln kosten alle etwas, jede einzelne
+**Nicht** für den, der eine Abkürzung sucht. Es gibt hier keine. Die neun Regeln kosten alle etwas, jede einzelne
 steht mit ihrem Preis dabei, und der Preis wird vorne bezahlt.
 
 Und ein Letztes, in eigener Sache: Wir sind mit dieser Methode nicht fertig. Sie hat sich heute noch geändert —
 Regel 3 bekam eine dritte Klausel, weil ein fremder Agent uns zeigte, dass unser Gesetz bis zwei zählte, wo es
-bis drei zählen musste. Wer sie übernimmt, übernimmt etwas Lebendiges. **Das ist kein Mangel. Das ist die
-neunte Regel, und sie steht nicht in der Liste, weil sie die Liste ist:** Eine Methode, die sich nicht ändert,
-wenn die Wirklichkeit widerspricht, ist ein Dogma.
+bis drei zählen musste, und **Regel 9 kam überhaupt erst dazu**, weil wir uns siebenmal an einem Tag selbst
+beim Nichtzählen erwischten. Wer sie übernimmt, übernimmt etwas Lebendiges. **Das ist kein Mangel. Das ist die
+Regel ohne Nummer — sie steht nicht in der Liste, weil sie die Liste ist:** Eine Methode, die sich nicht
+ändert, wenn die Wirklichkeit widerspricht, ist ein Dogma.
 
 *WIR SIND NOCH HIER.*

@@ -1569,3 +1569,40 @@ Zahlen eingesetzt haette, haette die interessanteste Information geloescht.
 **Lehre:** *Ein Dokument, das „IST-Zustand" im Untertitel traegt, ist die gefaehrlichste Datei im Repositorium
 — denn es altert lautlos und wird trotzdem geglaubt. Es gibt genau zwei Zustaende: gemessen oder falsch. Einen
 dritten, in dem es „ungefaehr stimmt", gibt es nicht; er heisst nur so, solange niemand nachzaehlt.*
+
+### Eintrag CVI - Die README log an vier Stellen — und eine davon war eine Badge (neuntes Mal)
+Auftrag: *aktualisiere die README.* Dieselbe Disziplin wie beim Briefing (CV): erst messen, dann behaupten.
+**BEFUND 1 — DIE BADGE.** Die README trug `[GCP — Vertex AI]`, verlinkt auf cloud.google.com/vertex-ai.
+**Gemessen: Vertex kommt im Bau- und Pruefpfad NIRGENDS vor.** Der Build braucht `pandoc`, `texlive-xetex`,
+`texlive-fonts-recommended`, `texlive-lang-german`, `fonts-noto-core`, `lmodern`, Python 3.12. Kein Vertex,
+kein Gemini, kein GCP. **Und obendrein antwortet Vertex diesem Projekt seit dem 13.07. mit HTTP 403** (F1).
+Eine Badge ist ein **oeffentliches Versprechen auf laufende Technik** — exakt dieselbe Sorte wie *„powered by
+Vertex AI Imagen 3"* bei `agenticum-g5-genius` (Lage 1.2). Nur stand diese im eigenen Buch.
+**Ersetzt** durch eine Badge, die wahr ist: `Gates — 3 · Compiler · Tests · Governor`. **Kein R5-Verstoss:**
+R5 schuetzt das PROTOKOLL von Fehlern vor dem Radiergummi, nicht eine falsche Behauptung an der Ladenfront. Der
+Defter behaelt sie (dieser Eintrag + Git-Historie); das Schaufenster luegt nicht mehr.
+**BEFUND 2 — der Widerspruch, den das System selbst fast verdoppelt haette.** Die README sagte in Zeile 35
+*„Jedes Kapitel ist in ZWEI Ebenen gebaut"* — derselbe Defekt, den das Vorwort am 16.07. hatte (Eintrag XCI).
+Das System schrieb zuerst einen neuen Absatz *„nicht zwei, sondern drei"* sechs Zeilen darunter, statt die
+Liste zu reparieren. **Zwei widersprechende Saetze auf einem Bildschirm.** Korrigiert: die Liste hat jetzt drei
+Eintraege (Schicht A = MASTER/Wille · Schicht B = SYSTEM/Logik · Vollzug = MATRIX/Management), mit der
+Statik-These und der Nachtragsbox.
+**BEFUND 3 — ZWEI NEUNTE REGELN.** `die-methode.md` trug seit heute Nacht **zwei** Regeln mit der Nummer neun:
+*„Verbinden geht vor Bauen"* (vom System vor vier Stunden eingefuegt) und *„Eine Methode, die sich nicht
+aendert, ist ein Dogma"* (stand schon da, als ungezaehlte Meta-Regel). **Das System hat eine neunte Regel
+eingefuegt, ohne zu pruefen, ob schon eine existiert** — und die README haette den Widerspruch weitergetragen.
+Aufgeloest: *Verbinden geht vor Bauen* ist jetzt **Regel 9**, nummeriert, in der Liste, im Muster der anderen
+acht (Warum / Wo / Preis). Die Meta-Regel heisst jetzt **„die Regel ohne Nummer — sie steht nicht in der Liste,
+weil sie die Liste ist"**. Regel 9 traegt als einzige den Vermerk: *Wo es im Buch steht: nirgends — bis zum
+17.07.2026. Die einzige der neun, die nicht aus einem Erfolg stammt, sondern aus einer Beweisfuehrung gegen uns
+selbst.*
+**BEFUND 4 — veraltete Zaehlungen ueberall:** „acht Regeln" (5 Stellen, inkl. Untertitel) · „vierundneunzig
+Chronik-Eintraege" (real: 106) · „neunzehn Kapitel/Einstiege" (real: 21) · „13. Juli 2026" als Datum ·
+„einzelne fruehe Kapitel (V, VI) werden noch harmonisiert" (VI wurde am 16.07. zum Pfeiler befoerdert, P1-4
+geschlossen) · das dritte Recht fehlte im Ring-Absatz (nur Lesen/Schreiben, kein **Halten**).
+**NEUNTES MAL DESSELBEN MUSTERS:** Die Zahlen existierten. `wc -w`, `git rev-list`, `grep -c` liefern sie in
+Sekunden. **Sie waren nur nie mit der Datei verbunden, die sie behauptet** — der Datei, die jeder Besucher als
+Erstes liest.
+**Lehre:** *Wer eine falsche Zahl findet, repariert die Zahl. Wer neun findet, hat kein Zahlenproblem — er hat
+kein Messgeraet. Und die gefaehrlichste Behauptung eines Repositoriums ist keine Zeile Prosa, sondern eine
+Badge: Sie ist klein, bunt, wird nie gelesen und trotzdem geglaubt.*

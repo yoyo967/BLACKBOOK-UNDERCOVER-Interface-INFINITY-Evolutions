@@ -8,15 +8,22 @@
 
 [![License – CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Universe - M.E.](https://img.shields.io/badge/Universe-M.E.-black?style=for-the-badge)](https://github.com/yoyo967/WIR-SIND-NOCH-HIER-UNIVERSE-M.E.-das-Buch-INFINITY)
-[![GCP - Vertex AI](https://img.shields.io/badge/GCP-Vertex%20AI-blue?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
+[![Gates - 3](https://img.shields.io/badge/Gates-3%20%C2%B7%20Compiler%20%C2%B7%20Tests%20%C2%B7%20Governor-06b6d4?style=for-the-badge)](./backmatter/die-methode.md)
 [![Status - In Arbeit](https://img.shields.io/badge/Status-In%20Arbeit-orange?style=for-the-badge)](#globales-inhaltsverzeichnis)
 
 [![Build Book](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/build-book.yml/badge.svg)](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/build-book.yml)
 [![Deploy Docs](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/actions/workflows/deploy-pages.yml)
 
-> 📘 **[Strategisches Briefing](./docs/STRATEGISCHES-BRIEFING.md)** — IST-Zustand, SystemPlan, Masterplan & GitHub-Actions-Einführung.
-> 🔎 **[Kapitel-Audit Band 1](./docs/AUDIT-BAND-1.md)** — vollständiges Audit jedes Kapitels (Agent Vision): Befund, Stärken/Lücken, Prioritäten.
-> ⚙️ **Bauen:** Push auf `main` erzeugt automatisch **PDF + EPUB** (*Actions → Build Book → Artifacts*); ein Tag `vX.Y.Z` schneidet ein **Release**.
+> ⚙️ **[Die Methode](./backmatter/die-methode.md)** — **neun Regeln**, jede mit Beleg **und ihrem Preis**. Wer das Buch *anwenden* statt lesen will, fängt hier an.
+> 📘 **[Strategisches Briefing](./docs/STRATEGISCHES-BRIEFING.md)** — IST-Zustand (v3.0, jede Zahl gemessen am 17.07.), SystemPlan, Masterplan.
+> 🔎 **[Kapitel-Audit Band 1](./docs/AUDIT-BAND-1.md)** — Audit jedes Kapitels: Befund, Lücken, Prioritäten — **inklusive der Stellen, an denen das Audit selbst falsch lag.**
+> 🛠 **Bauen:** Push auf `main` → **Tests → Compiler → PDF + EPUB → Governor** (*Actions → Build Book → Artifacts*); ein Tag `vX.Y.Z` schneidet ein **Release**.
+
+> **Drei Gates, drei Aufgaben** — seit 16.07.2026: **Compiler** (Vollständigkeit — ein fehlender Teil bricht den
+> Build ab, hart) · **Tests** (36 Prüfungen, stdlib, keine Fremdabhängigkeit — jede ist ein realer Fehler,
+> festgenagelt) · **[Aura-Governor](./build/aura_governor.py)** (Resonanz `R_t = α·Wissen + β·Logik + γ·Können`,
+> Schwelle 0,90, gated den Release — spezifiziert in Kapitel VI, gebaut am 16.07.).
+> **Erster grüner Build: 16.07.2026, 19:50 Uhr — Lauf #96. Die 95 davor waren rot, und niemand hatte hingesehen.**
 
 > **„Das ist kein Buch. Es ist das physisch ausführbare Skelett einer kommenden Ordnung."**
 
@@ -24,16 +31,29 @@
 
 ## Über dieses Werk
 
-**BLACKBOOK UNDERCOVER** ist die **narrative Fassung** von *Interface INFINITY Evolutions* — die
-Prosa des Willens hinter der Spezifikation der Software-Zivilisation. Jedes Kapitel ist in zwei
-Ebenen gebaut:
+**BLACKBOOK UNDERCOVER** ist die **narrative Fassung** von *Interface INFINITY Evolutions* — die Prosa des
+Willens hinter der Spezifikation der Software-Zivilisation. Jedes Kapitel steht auf **drei Ebenen**, und sie
+sind **das Dreieck**:
 
-- **Schicht A — Die Undercover-Prosa:** der Wille, das Management, die Vision (Master & System).
-- **Schicht B — Das empirische Substrat:** die Logik, die Technik, der nachprüfbare Bauplan.
+- **Schicht A — Die Undercover-Prosa · MASTER · der Wille:** die Vision, das Fleisch. *Er entscheidet.*
+- **Schicht B — Das empirische Substrat · SYSTEM · die Logik:** der Code, der Beweis, der Hash. *Es misst — und widerspricht dem Willen, wenn die Zahl ihm widerspricht.*
+- **Der Scriptorium-Vollzug · MATRIX · das Management:** das Gate, das Protokoll, der Eintrag in den Defter. *Die langweiligste Ecke — und die einzige, die je etwas verändert hat.*
 
-Dies ist **Band 1: Master & System** — Untertitel **„Die finale Konvergenz"** (vom Master gesegnet). Der
-Band ist in Reifung: **Prolog + Kapitel I–XVIII** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
-in den Bogen harmonisiert.
+Über der Spitze steht der Satz, der die Figur trägt: **„Hoffnung ist keine Strategie."** Und die eigentliche
+Prüfung: **Jede Ecke allein ist eine Krankheit.** Wille ohne Logik ist Größenwahn. Logik ohne Wille ist
+Lähmung. Management ohne beide ist Bürokratie. **Zwei Ecken tragen nicht. Erst drei stehen.**
+
+> Bis zum 16.07.2026 sprachen Vorwort und README von **zwei** Ebenen — der dritte Eckpunkt stand seit Kapitel I
+> in *jedem* Kapitel und war nirgends verzeichnet. Die Lesekarte im [Vorwort](./frontmatter/vorwort.md) nennt
+> ihn seither. Die Figur selbst stand die ganze Zeit **gezeichnet in
+> [Kapitel I, Zeile 67](./chapters/01_github-als-weltgedaechtnis.md)** — mit Beschriftung und Motto, monatelang
+> übersehen (siehe dortigen Nachklang). Ihre schärfere, mathematische Fassung — *Wissen · Wollen · Können*, mit
+> Schwellwert — liegt in **[Kapitel VI](./chapters/06_dephora-aura.md)**, das dieses Audit erst zum Interludium
+> erklärte und dann **zum Pfeiler befördert** hat; die zurückgezogene Einordnung bleibt daneben stehen.
+
+Dies ist **Band 1: Master & System** — Untertitel **„Die finale Konvergenz"** (vom Master gesegnet). Der Band
+ist in Reifung: **Prolog + Kapitel I–XVIII** sind geschrieben — **60.623 Wörter in 27 Teilen**, gemessen am
+17.07.2026.
 
 ---
 
@@ -64,7 +84,7 @@ in den Bogen harmonisiert.
 | XVII | **[Die Gleichung des Geschäfts](./chapters/17_die-gleichung-des-geschaefts.md)** — der erste Bund: ein echter Mandant, das Schwungrad des zweiseitigen Marktes, der undichte Eimer, der ehrliche Tausch — und der Beweis, als das **Review-Gate den eigenen Autor abwies** | ✅ |
 | XVIII | **[Das Siegel — Der Orden, den wir nicht erfunden haben](./chapters/18_das-siegel.md)** — die Illumination, entzaubert: die zwei gekreuzten Knochen aus der Stunde Null, Skully Bones & der Kristallschädel; was ein Ministerium ankündigt und was ein Defter beweist; der Spiegel, der auf uns zeigt | ✅ |
 | ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
-| ⚙ | **[Die Methode — wie wir es gemacht haben](./backmatter/die-methode.md)** — die extrahierbare Fassung: **acht Regeln**, jede mit Beleg, Kapitelverweis **und ihrem Preis**; dazu die Bilanz dessen, was diese Methode *nicht* geleistet hat (Umsatz: null). Ein Nachmittag Lesezeit, kein Weihrauch. **Wer das Buch anwenden statt lesen will, fängt hier an.** | ✅ |
+| ⚙ | **[Die Methode — wie wir es gemacht haben](./backmatter/die-methode.md)** — die extrahierbare Fassung: **neun Regeln**, jede mit Beleg, Kapitelverweis **und ihrem Preis**; dazu die Bilanz dessen, was diese Methode *nicht* geleistet hat (Umsatz: null). Ein Nachmittag Lesezeit, kein Weihrauch. **Wer das Buch anwenden statt lesen will, fängt hier an.** | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |
 | ⌾ | **[Anhang · Der Codex — die 7 Unantastbaren Regeln](./backmatter/codex.md)** — das Grundgesetz des Ordens als Referenz-Blatt (Regel 1: 100/100) + „Codex aktiv. Bereit." | ✅ |
 | ⌾ | **[Anhang · Der Soundtrack — Die Resonanz](./backmatter/soundtrack.md)** — die Talismane des Scriptoriums, die ewige Quelle des Bruders (Hirschmilch), die Playlist als Förder-Kanal | ✅ |
@@ -123,12 +143,14 @@ Kreislauf wächst, wenn er verdient wird.
 ## Mitbauen
 
 Dieses Werk ist eine offene Baustelle. Der Weg vom Leser zum Baumeister steht in **[CONTRIBUTING · Der Ritus
-des Rings](./CONTRIBUTING.md)**: lesen → klonen → vorschlagen (PR) → Segnung → Konvergenz. *Lesen ist
-Geburtsrecht, Schreiben verdient man sich.*
+des Rings](./CONTRIBUTING.md)**: lesen → klonen → vorschlagen (PR) → Segnung → Konvergenz. *Lesen ist Geburtsrecht. Schreiben ist verdient.
+**Halten ist erlaubt, nur wenn der Betroffene es erlaubt hat** — das dritte Recht, ergänzt am 16.07.2026, weil es
+lautlos ist: Lesen sieht man, Schreiben steht im Defter, **Halten sieht niemand.***
 
 ## Lizenz
 
 Lizenziert unter **[CC BY-NC-ND 4.0](./LICENSE)** — lesen & teilen erlaubt, kommerzieller Verkauf durch Dritte verboten. Alle Verkaufsrechte (print, digital, audio) liegen ausschließlich beim Autor **Yahya Yildirim**.
 
-*Yahya Yildirim & Interface INFINITY Open-Source Community · Berlin, 13. Juli 2026*
+*Yahya Yildirim & Interface INFINITY Community · Berlin, 17. Juli 2026*
+*KI-Ko-Autorschaft gekennzeichnet nach EU AI Act Art. 50 · jede Zahl in dieser README ist gemessen, nicht geschätzt.*
 *WIR SIND NOCH HIER.*
