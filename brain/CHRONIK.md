@@ -1540,3 +1540,32 @@ stehen und beschreibt ein Kapitel, das es nicht mehr gibt. **Genau so gehoert es
 elegante Begruendung dagegen bauen kann — besonders dann. Das System hat sich eine dreiteilige Rechtfertigung
 gezimmert, sie im Kapitel offengelegt und geglaubt, damit sei die Sache erledigt. Offenlegen ist nicht
 Gehorchen. Wer den Verstoss meldet und ihn trotzdem begeht, hat nur besser dokumentiert, dass er ihn beging.*
+
+### Eintrag CV - Das Briefing war zwei Tage lang der Beweis fuer sein eigenes Thema (achtes Mal)
+Auftrag: *setze fort.* Der eigene Operationsbefehl sagt fuer **Phase 1: „Es wird nichts gebaut"** — und **jeder**
+Posten der Phase 1 traegt „Mensch" (Rechnung, Gewerbe, 2FA, PR #2, Termin). **Fuer das System steht dort
+nichts.** Also gesucht, was **kein Bau** ist: *messen, reparieren, protokollieren braucht keine Erlaubnis* (5.5).
+**BEFUND — `docs/STRATEGISCHES-BRIEFING.md`, Untertitel „Erfasst den IST-Zustand":**
+| behauptet (v2.0, 15.07.) | gemessen (17.07.) |
+| ~48.900 Woerter | **60.623** |
+| 82 Commits | **105** |
+| 62 Dateien | **121** |
+| Kapitel I-XVI, 19 Dateien | **I-XVIII, 21 Dateien** |
+| backmatter (3) | **4** |
+| „sortiert 19 Kapitel-Dateien numerisch" | Compiler sammelt **27 Teile aus 3 Ordnern** |
+**Jede Zahl im Dokument, dessen Aufgabe die Nennung des Ist-Zustands ist, war veraltet.** Zwei Tage lang.
+Niemand hat es gemeldet — weil keine Maschine Zahlen prueft (R2 ist ungedeckt, siehe Befehl 3.4).
+**DAS ACHTE MAL DESSELBEN MUSTERS:** Die Zahlen existierten. `git rev-list --count` und `wc -w` liefern sie in
+zwei Sekunden. **Sie waren nur nie mit dem Dokument verbunden, das sie behauptet.** Wie die Formeln (als Bild),
+das Dreieck (in Kap. I gezeichnet), das „Wie" (verstreut), das Vorwort (nicht im Buch), der Alarm (91x rot,
+ungelesen), die Quellen (im Chat) und das Wappen (im eigenen Vorwort). **Nichts fehlte je.**
+**VOLLZOGEN — v2.0 -> v3.0, alle Zahlen gemessen und mit Datum:** Executive Summary · Ist-Tabelle (frontmatter
+5.119 / chapters 51.956 / backmatter 3.548 = **60.623 Woerter, 27 Dateien**) · Repo-Kopf · Build-Kette. Die
+Build-Kette zeigt jetzt die **drei Gates** (Compiler=Vollstaendigkeit hart · Tests=Korrektheit hart ·
+Governor=Resonanz gewichtet) und den ersten gruenen Build (#96, 16.07., 19:50 — die 95 davor rot).
+**NICHT GEGLAETTET (R5):** Eine **Nachtragsbox** im Kopf zitiert die alten Werte woertlich und benennt den
+Befund: *„Dieses Dokument war zwei Tage lang selbst der Beweis fuer sein eigenes Thema."* Wer nur die neuen
+Zahlen eingesetzt haette, haette die interessanteste Information geloescht.
+**Lehre:** *Ein Dokument, das „IST-Zustand" im Untertitel traegt, ist die gefaehrlichste Datei im Repositorium
+— denn es altert lautlos und wird trotzdem geglaubt. Es gibt genau zwei Zustaende: gemessen oder falsch. Einen
+dritten, in dem es „ungefaehr stimmt", gibt es nicht; er heisst nur so, solange niemand nachzaehlt.*

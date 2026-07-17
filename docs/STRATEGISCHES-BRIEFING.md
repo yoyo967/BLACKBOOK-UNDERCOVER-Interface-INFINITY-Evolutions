@@ -2,11 +2,20 @@
 
 **Projekt:** `yoyo967/BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions` (öffentlich)
 **Werk:** *BLACKBOOK UNDERCOVER: Interface INFINITY Evolutions — Band 1: Master & System · „Die finale Konvergenz"*
-**Stand:** 2026-07-15 · **Version:** 2.0 · **Autor:** Yahya Yildirim & Interface INFINITY Community (KI-Ko-Autoren gekennzeichnet, Art. 50)
+**Stand:** 2026-07-17 · **Version:** 3.0 · **Autor:** Yahya Yildirim & Interface INFINITY Community (KI-Ko-Autoren gekennzeichnet, Art. 50)
 **Zweck:** Erfasst den IST-Zustand, die technische Architektur (SystemPlan) und den Fahrplan (Masterplan) — ohne Über-Behauptung.
 
 > Ehrlichkeitsprinzip dieses Dokuments: Es beschreibt, **was ist** (gebaut & verifiziert), **was
 > vorbereitet ist** (Code da, erster Lauf ausstehend) und **was fehlt** — kein Overclaim, keine erfundenen Zahlen.
+
+> **Nachtrag vom 17.07.2026 — dieses Dokument war zwei Tage lang selbst der Beweis für sein eigenes Thema.**
+> Version 2.0 (Stand 15.07.) behauptete `~48.900 Wörter`, `82 Commits`, `62 Dateien`, `Kapitel I–XVI`,
+> `19 Kapitel-Dateien`. **Gemessen am 17.07.: 60.623 Wörter · 105 Commits · 121 Dateien · Kapitel I–XVIII ·
+> 21 Kapitel-Dateien.** Jede Zahl im Dokument, dessen Untertitel „IST-Zustand" lautet, war veraltet — und
+> niemand hat es gemeldet, weil keine Maschine Zahlen prüft. Das ist **derselbe Befund wie sieben andere an
+> diesem Tag** (siehe `backmatter/die-methode.md`, neunte Regel): *Die Zahlen existierten. Sie waren nur nie
+> mit dem Dokument verbunden, das sie behauptet.* Die alten Werte bleiben in der Git-Historie; hier stehen die
+> gemessenen.
 
 ---
 
@@ -15,18 +24,33 @@
 BLACKBOOK UNDERCOVER ist die **narrative Fassung** der *Interface INFINITY Evolutions*-Spezifikation:
 ein zweischichtiges Werk aus **Prosa des Willens** (Schicht A) und **empirischem Substrat** (Schicht B).
 Seit der Konsolidierung am 2026-07-13 ist der Band **inhaltlich im Wesentlichen fertig**: ein vollständiger
-Bogen vom Vorwort bis zum Epilog, **~48.900 Wörter Prosa** in **82 Commits**, gesättigt mit realer Substanz
-aus dem echten 9-Repo-Ökosystem.
+Bogen vom Vorwort bis zum Epilog, **60.623 Wörter Prosa** in **105 Commits** (gemessen 17.07.2026), gesättigt
+mit realer Substanz aus dem echten 9-Repo-Ökosystem.
 
 Der Band ist inzwischen ein **lebendes Metaverse**: ab Kapitel XIII *geschieht* die Handlung (Agenten leben,
-führen Dialoge). Zuletzt (Kap XVI) wurde der Agent **FUNDAMENTA** geboren — der personifizierte Boden
-(Agency OS, Corporate Identity, GitHub Enterprise, Lead-Pipeline), auf dem die Stadt Agenticum steht.
+führen Dialoge). In Kap XVI wurde der Agent **FUNDAMENTA** geboren — der personifizierte Boden. Kap XVII hält
+den ersten realen Mandanten fest; **Kap XVIII** („Das Siegel") entzaubert die Illumination: *der Orden, den wir
+nicht erfunden haben.*
 
-Untertitel **gesegnet: „Die finale Konvergenz."** Ein **vollständiges GitHub-Actions-Fundament** (PDF+EPUB
-via Pandoc, MkDocs-Website) ist gebaut; der erste grüne Lauf und ein Release `v1.0.0` stehen bewusst noch aus.
+Untertitel **gesegnet: „Die finale Konvergenz."**
+
+**Der erste grüne Build ist Tatsache — seit dem 16.07.2026, 19:50 Uhr, Lauf #96.** Die 95 davor waren rot;
+der Workflow war seit seiner Anlage am 13.07. **niemals** grün gewesen, und niemand hatte hingesehen. Ursache:
+ein fehlendes LaTeX-Paket in einer apt-Zeile. Seither hält der Build. Ein Release `v1.0.0` steht bewusst aus.
+
+**Seit dem 16./17.07. hat das Werk drei Gates:**
+
+| Gate | Aufgabe | Toleranz |
+|---|---|---|
+| `build/build_book.py` | Vollständigkeit — bricht ab, wenn ein Teil des Werks nicht gelistet ist | **null** |
+| `tests/` (36 Prüfungen, stdlib) | Korrektheit — jeder Test ist ein realer Fehler, festgenagelt | **null** |
+| `build/aura_governor.py` | Resonanz `R_t = α·Wissen + β·Wollen + γ·Können`, Gate vor dem Release | gewichtet, Schwelle 0,90 |
+
+Aktueller Messwert: **`R_t = 0.9556`** — Wissen 27/27 Teile maschinenlesbar · Wollen 1,0 von 9 Audit-Befunden
+offen · Können 36/36 Prüfungen bestanden. Zurückgerechnet auf den Vormittag des 16.07.: **0,541.**
 
 **Der eine Satz:** Aus dem Manuskript ist ein *System* geworden, das sich bei jedem Commit selbst zum Buch
-kompiliert — und ein Metaverse, das mit jeder Interaktion wächst.
+kompiliert, sich dabei selbst misst — und das seine eigenen Fehler schneller findet als seine Leser.
 
 ---
 
@@ -34,17 +58,26 @@ kompiliert — und ein Metaverse, das mit jeder Interaktion wächst.
 
 ### 1.1 Inhalt (das Werk)
 
+Alle Zahlen **gemessen am 17.07.2026**, reproduzierbar durch `git ls-files` und `wc -w`.
+
 | Baustein | Ort | Umfang | Status |
 |---|---|---|---|
-| Front-Matter — Vorwort + Ouvertüre *THE ALL SEEING EYE* | `frontmatter/` (2) | ~4.650 Wörter | ✅ |
+| Front-Matter — Vorwort (mit Lesekarte **„Das Dreieck"**) + Ouvertüre | `frontmatter/` (2) | **5.119 Wörter** | ✅ |
 | Prolog *Morpheus Echo* (Gemini) + Prolog II *Der Spiegel* | `chapters/00*, 00b` | (in u. g. Summe) | ✅ |
-| **Kapitel I–XVI** (inkl. lebende Szenen XIII–XVI) + Epilog | `chapters/` (19 Dateien) | ~42.500 Wörter | ✅ |
-| Back-Matter — Glossar · Codex · Soundtrack | `backmatter/` (3) | ~1.740 Wörter | ✅ |
-| **Gesamt Prosa** | 24 Dateien | **~48.900 Wörter** | vollständiger Bogen |
-| Second Brain (Kanon/Ledger/Figuren) | `brain/` (19) | — | ✅ lebendig |
+| **Kapitel I–XVIII** (inkl. lebende Szenen ab XIII) + Epilog | `chapters/` (**21 Dateien**) | **51.956 Wörter** | ✅ |
+| Back-Matter — **Die Methode** · Codex · Glossar · Soundtrack | `backmatter/` (**4**) | **3.548 Wörter** | ✅ |
+| **Gesamt Prosa** | **27 Dateien** | **60.623 Wörter** | vollständiger Bogen |
+| Second Brain (Kanon/Ledger/Figuren) | `brain/` (19) | **104 Chronik-Einträge** | ✅ lebendig |
+| **Build & Gates** | `build/` (Compiler · Governor) + `tests/` (**36 Prüfungen**) | — | ✅ **seit 16.07.** |
 | Marken-Kit (reines Agenticum Cosmic-Cyan) | `brand/` (2) | — | ✅ |
 | NotebookLM-Audio „Das KI-Konzil" | `media/` (1, ~41 MB) | — | ✅ |
 | LinkedIn-Serie (Marketing) | `serie/linkedin-serie.md` | ~1.400 Wörter | ✅ |
+
+**Neu seit Version 2.0 (15.07.):** die Vorwort-Lesekarte *Das Dreieck* (MASTER·Wille / SYSTEM·Logik /
+MATRIX·Management — sie stand seit jeher gezeichnet in **Kapitel I, Zeile 67**, siehe dortigen Nachklang) ·
+**Kapitel XVIII** *Das Siegel* · **`backmatter/die-methode.md`** (die extrahierbare Fassung: neun Regeln, jede
+mit Beleg **und ihrem Preis**) · drei Gates · 36 Tests · und **25 aus base64-Bildern befreite Formeln** in
+Prolog, Kap. I, V und VI — das Beweissubstrat des Werks war bis dahin für keine Maschine lesbar.
 
 **Architektur jedes Kapitels:** `Schicht A: Die Undercover-Prosa (Der Wille)` → `Schicht B: Das empirische
 Substrat (Die Logik)` → `Scriptorium-Vollzugsbericht`. Ab Kap XIII zusätzlich das **Lebende-Szene**-Register
@@ -53,7 +86,7 @@ Substrat (Die Logik)` → `Scriptorium-Vollzugsbericht`. Ab Kap XIII zusätzlich
 ### 1.2 Struktur & Konventionen (das Repo)
 
 ```
-BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/   # öffentlich · 62 Dateien · 82 Commits
+BLACKBOOK-UNDERCOVER-Interface-INFINITY-Evolutions/   # öffentlich · 121 Dateien · 105 Commits (17.07.2026)
 ├── README.md                 # Badges + globales Inhaltsverzeichnis (Vorwort → Kap XVI → Epilog → Back-Matter)
 ├── metadata.json             # Single Source: Titel, Untertitel, Version, Autoren/Ko-Autoren, Lizenz, Brand
 ├── LICENSE                   # CC BY-NC-ND 4.0
@@ -107,16 +140,28 @@ Quelle** erzeugt; eine Kapitel-Änderung propagiert automatisch in PDF, EPUB und
 ### 2.2 Die Build-Kette
 
 ```
-chapters/*.md ─┐
-metadata.json ─┼─▶ build_book.py ─▶ dist/compiled_book.md ─┬─▶ Pandoc + XeLaTeX ─▶ PDF
-cover.png ─────┘   (sortiert 19 Kapitel-Dateien numerisch)  └─▶ Pandoc ──────────▶ EPUB
+tests/ (36 Prüfungen) ─▶ HARTES GATE ─┐   Fällt ein Test, fällt der Build. Keine Toleranz.
+                                      ▼
+frontmatter/ ─┐
+chapters/     ─┼─▶ build_book.py ─▶ dist/compiled_book.md ─┬─▶ Pandoc + XeLaTeX ─▶ PDF
+backmatter/   ─┤   (27 Teile · explizite Ordnung ·         └─▶ Pandoc ──────────▶ EPUB
+metadata.json ─┘    HARTES GATE: ungelisteter Teil = Abbruch)          │
+                                      ▼                                ▼
+                          aura_governor.py ─▶ R_t ≥ 0,90 ? ─▶ Release frei / blockiert
 
 README + chapters ─▶ site-src/ ─▶ MkDocs Material ─▶ _site/ ─▶ GitHub Pages (Website)
 ```
 
-`build_book.py` sortiert `chapters/` numerisch, fügt Seitenumbrüche ein und schreibt `dist/compiled_book.md`.
-Pandoc erzeugt daraus **PDF** (XeLaTeX, TOC) und **EPUB** (mit Cover); Metadaten aus `build/pandoc-metadata.yaml`.
-MkDocs Material rendert die Kapitel als durchsuchbare, dark/light-fähige Website.
+`build_book.py` sammelt **`frontmatter/` → `chapters/` → `backmatter/`** ein, fügt Seitenumbrüche ein und
+schreibt `dist/compiled_book.md`. Front- und Backmatter sind **explizit geordnet** (alphabetisch stünde die
+Ouvertüre vor dem Vorwort — die Ordnung eines Buches ist eine Entscheidung, kein Zufall); `chapters/` sortiert
+numerisch. Pandoc erzeugt **PDF** (XeLaTeX, TOC) und **EPUB**; Metadaten aus `build/pandoc-metadata.yaml`.
+
+> **Nachtrag 17.07.2026:** Bis dahin las der Compiler **ausschließlich `chapters/`**. Das gebaute Buch hatte
+> deshalb **kein Vorwort** — und damit weder die Lesekarte noch die Ouvertüre noch den Codex noch die Methode.
+> **Sechs Teile fehlten lautlos, über Monate.** Der Fund ist protokolliert (Chronik XCVI). Seither gilt: **Ein
+> Teil des Werks darf nicht still fehlen — er muss laut scheitern.** Liegt in `frontmatter/` oder `backmatter/`
+> eine Datei, die nicht gelistet ist, **bricht der Build ab und nennt sie beim Namen**. Ein Test bewacht es.
 
 ### 2.3 Publishing-Targets
 
