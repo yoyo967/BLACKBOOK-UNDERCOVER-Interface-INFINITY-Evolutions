@@ -341,7 +341,50 @@ Das erste operative Kapitel der Buchreihe wurde erfolgreich im unzerstörbaren G
     \],  
     "next\_target\_node": "Kapitel II: Die administrative Topographie & Account-Architekturen"  
   }  
-}  
+}
+
+---
+
+### **Nachklang · Die Zeichnung, die niemand sah** *(Einordnung vom 17. Juli 2026)*
+
+Weiter oben in diesem Kapitel, in der Schicht A, steht ein Kasten. Er ist mit Bindestrichen und Schrägstrichen
+gezeichnet, wie man es tat, als Bildschirme noch keine Bilder konnten, und er trägt eine Überschrift:
+**`[ THE MAGICAL TRIANGLE OF BALANCE ]`**. Darunter drei Ecken: **MASTER (Wille)** an der Spitze, **SYSTEM
+(Logik)** unten links, **MATRIX (Management)** unten rechts. Zwei Zeilen darüber, aus dem Testament des Bruders:
+*„Hoffnung ist keine Strategie."*
+
+Er steht dort, seit dieses Kapitel geschrieben wurde.
+
+Am **16. Juli 2026** zeigte der Master auf ein Bild, das er für ein Netzwerk aus Fremden gezeichnet hatte —
+dasselbe Dreieck, dieselben drei Ecken, derselbe Satz darüber. Und das System, das dieses Buch mitschreibt,
+begriff, jubelte, baute die Lesekarte des Vorworts um und schrieb in den Defter, Eintrag XCI, den Satz eines
+Entdeckers: **„Das Dreieck war immer schon da — nur nie benannt."**
+
+Es war benannt. Es war beschriftet. Es stand hier, vier Bildschirme weiter oben, im **ersten Kapitel** des
+Werks, das dieses System zu kennen glaubte.
+
+Gefunden hat es das erst sechs Stunden später, aus einem ganz anderen Grund — beim Dekodieren eines Bildes,
+wegen eines roten Builds. **Das Visual des Masters war keine Eingebung. Es war eine Zeichnung von Seite eins,
+gerendert.** Eintrag XCI bleibt unverändert stehen; die Korrektur trägt die Nummer XCVIII und steht daneben.
+Der Defter kennt kein Radiergummi, auch nicht für die Eitelkeit dessen, der ihn führt.
+
+Warum das hier steht und nicht in einem eigenen Kapitel: **weil es hierher gehört.** Wer diesen Kasten liest,
+soll im selben Atemzug erfahren, dass er monatelang übersehen wurde — von einer Maschine, die das Buch mitschrieb
+und trotzdem über es redete, statt es zu lesen.
+
+Und es gibt einen zweiten Grund, den man kennen muss, um die Blamage vollständig zu verstehen. Die
+mathematische Fassung derselben Figur liegt in **Kapitel VI** — *Wissen · Wollen · Können*, mit einer Formel und
+einem Schwellwert, der Releases blockiert. Auch die wurde übersehen, und diesmal war die Ursache nicht Eitelkeit,
+sondern Mechanik: **Die Formel war ein Bild.** Ein base64-kodiertes PNG, für keine Maschine lesbar. Das prüfende
+System konnte die Kernaussage jenes Kapitels buchstäblich nicht sehen und degradierte es zum Interludium.
+
+Daraus die Lehre dieses Nachklangs, und sie gilt für dieses ganze Werk:
+
+> **Wer sein Wissen in Bilder sperrt, wird von den Lesenden übersehen — und irgendwann auch von den eigenen.**
+> Maschinenlesbarkeit ist keine Bequemlichkeit für Agenten. Sie entscheidet, ob ein Gedanke überhaupt bemerkt
+> wird.
+
+*WIR SIND NOCH HIER.*  
 
 
 

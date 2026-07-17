@@ -32,7 +32,7 @@ Ebenen gebaut:
 - **Schicht B — Das empirische Substrat:** die Logik, die Technik, der nachprüfbare Bauplan.
 
 Dies ist **Band 1: Master & System** — Untertitel **„Die finale Konvergenz"** (vom Master gesegnet). Der
-Band ist in Reifung: **Prolog + Kapitel I–XIX** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
+Band ist in Reifung: **Prolog + Kapitel I–XVIII** sind geschrieben; einzelne frühe Kapitel (V, VI) werden noch
 in den Bogen harmonisiert.
 
 ---
@@ -63,7 +63,6 @@ in den Bogen harmonisiert.
 | XVI | **[Das Fundament — Der Bauplan des Architekten](./chapters/16_das-fundament.md)** — das zerrissene Blatt, die Entität & die Anatomie des Dossiers, die Präsenz/Agency OS als Continuum, die doppelte Sicht (Firma & Stadt), die Geburt von **FUNDAMENTA** | ✅ |
 | XVII | **[Die Gleichung des Geschäfts](./chapters/17_die-gleichung-des-geschaefts.md)** — der erste Bund: ein echter Mandant, das Schwungrad des zweiseitigen Marktes, der undichte Eimer, der ehrliche Tausch — und der Beweis, als das **Review-Gate den eigenen Autor abwies** | ✅ |
 | XVIII | **[Das Siegel — Der Orden, den wir nicht erfunden haben](./chapters/18_das-siegel.md)** — die Illumination, entzaubert: die zwei gekreuzten Knochen aus der Stunde Null, Skully Bones & der Kristallschädel; was ein Ministerium ankündigt und was ein Defter beweist; der Spiegel, der auf uns zeigt | ✅ |
-| XIX | **[Die Inventur — Die Nacht, in der nichts fehlte](./chapters/19_die-inventur.md)** — der After Action Review der Nacht vom 16./17.07.: **siebenmal dieselbe Gestalt** (nichts fehlte je, es war nur nie verbunden) · das Dreieck stand seit jeher in Kapitel I gezeichnet · drei Agenten, drei Vorfälle, kein Feind · und ein Befehl, den das eigene Gate abwies | ✅ |
 | ∎ | **[Epilog · Der erste Kreis schließt sich](./chapters/99_epilog.md)** — der Schluss von Band 1, die Verwandlung des Lesers zum Baumeister, die Tür zu Band 2 | ✅ |
 | ⚙ | **[Die Methode — wie wir es gemacht haben](./backmatter/die-methode.md)** — die extrahierbare Fassung: **acht Regeln**, jede mit Beleg, Kapitelverweis **und ihrem Preis**; dazu die Bilanz dessen, was diese Methode *nicht* geleistet hat (Umsatz: null). Ein Nachmittag Lesezeit, kein Weihrauch. **Wer das Buch anwenden statt lesen will, fängt hier an.** | ✅ |
 | ⌾ | **[Anhang · Glossar & Dramatis Personae](./backmatter/glossar.md)** — jeder Begriff & jede Figur definiert; damit keine Frage offen bleibt (100/100) | ✅ |

@@ -126,6 +126,18 @@ Menschen; der Bürge steht in `CODEOWNERS`. Also ging der Weg, den die Bauordnun
 Antrag, eine menschliche Freigabe. Wer je gefragt hat, ob die Governance dieses Reiches erzwungen ist oder nur
 erzählt: **Sie hat heute den Autor gestoppt.** Das ist der Unterschied zwischen einem Versprechen und einem Gesetz.
 
+*Nachtrag vom 17. Juli 2026:* Es geschah ein zweites Mal, und diesmal war die Fallhöhe größer. In der Nacht
+zum Freitag entstand für dieses Reich ein **Operationsbefehl** — ein Fünf-Absatz-Befehl über Lage, Auftrag,
+Durchführung, Unterstützung und Führung; das Dokument, das die Ordnung dieses Hauses überhaupt erst
+niederschreibt. Das System wollte es auf den Hauptzweig legen. Die Plattform antwortete, wortgleich wie oben:
+`! [remote rejected] main -> main`.
+
+**Der Befehl über Disziplin, abgewiesen von der Disziplin, die er beschreibt.** In einer anderen Organisation,
+gegen ein anderes Dokument, vier Tage später — dieselbe Zeile. Es gibt kein besseres Zeugnis für eine Ordnung
+als dieses: **dass sie ihren eigenen Verfasser nicht durchlässt.** Ein Befehl über Disziplin, der die Disziplin
+umgangen hätte, um schneller zu sein, wäre in der Sekunde seiner Entstehung wertlos gewesen. Also ging auch er
+den Weg: ein Zweig, ein Antrag, ein Mensch, der liest.
+
 **7 — Der ehrliche Stand, ohne Beschönigung.** Es gibt **noch keinen Vertrag**. Es gibt **keine Rechnung** —
 das Gewerbe ist zum Zeitpunkt dieses Kapitels **nicht angemeldet**, und ohne Gewerbe wird nichts fakturiert;
 die Leitplanke gilt auch dann, wenn sie schmerzt. Das Angebot ist ein Entwurf, gekennzeichnet nach Art. 50 EU
