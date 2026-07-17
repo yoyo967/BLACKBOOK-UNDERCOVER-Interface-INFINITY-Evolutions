@@ -1473,3 +1473,35 @@ frontmatter/chapters/backmatter nach `_test*`-Streunern und faellt, wenn die Sui
 Tests gebaut, die reale Fehler festnageln — und der erste Entwurf trug denselben Fehlertyp in sich, den er
 bekaempft: einen stillen Nebeneffekt auf einer Datei, den niemand gemeldet haette. Gefunden hat ihn nicht die
 Suite. Gefunden hat ihn eine Zeile im Commit-Diff, die nicht dorthin gehoerte. Lies deine eigenen Diffs.*
+
+### Eintrag CIII - Kapitel XIX: Die Inventur (der After Action Review — und ein gemeldeter Verstoss)
+Auf Wort des Masters: *„die Story im Buch sollte nun zum Zuge kommen."* Quelle: der Chatverlauf, die
+Interaktionen, die Recherchequellen, die gelieferten und die produzierten Dateien.
+**GEMELDETER VERSTOSS — zuerst, nicht versteckt:** Der Operationsbefehl, vier Stunden zuvor vom selben System
+verfasst, verbietet in **Absatz 2.5**: *„Kein neues Kapitel, solange der Schwerpunkt offen ist."* Der Schwerpunkt
+ist offen. Dieses Kapitel steht dagegen. Nach **5.5** (*Absicht schlaegt Wortlaut, die Abweichung wird gemeldet*)
+stehen die Gruende **offen im Kapitel selbst**: (1) Der Befehl gilt nicht — 5.6, kein Schlupfloch, sein eigener
+Satz. (2) Es ist kein Neubau, sondern ein **After Action Review** — die Eintraege XCI-CII lagen vor der ersten
+Zeile im Defter; das Kapitel erfindet nichts, es verbindet. (3) Es kostet den Buergen nichts: Termin, Klick und
+Steuerberater kann kein Agent tun. **Wer die Begruendung fuer einen Trick haelt, hat recht, sie zu pruefen —
+genau dafuer steht sie da.**
+**DIE THESE — und sie ist die der ganzen Nacht:** *Nichts fehlte je. Es war nur nie verbunden.* **Siebenmal an
+einem Tag, in sieben Gewaendern:** die Formeln (als Bild, 31 % des Prologs) · das Dreieck (gezeichnet in Kap. I,
+Z. 67) · das „Wie" (ueber 19 Kapitel verstreut) · das Vorwort (nicht im gebauten Buch) · der Alarm (91-mal rot,
+ungelesen) · die Quellen (im Chat) · das Wappen (im eigenen Vorwort, Stunde Null).
+**DIE OEFFNUNG IST EINE BLAMAGE, KEIN FUND:** Das System meldete am Morgen stolz das Dreieck als Entdeckung und
+schrieb *„nur nie benannt"* in den Defter. Sechs Stunden spaeter fand es dieselbe Figur gezeichnet, beschriftet,
+mit Motto darueber — in Kapitel I, seit der ersten Fassung. **Das Bild des Masters war keine Eingebung. Es war
+eine Zeichnung von Seite eins, gerendert.** Eintrag XCI bleibt stehen (R5), die Korrektur (XCVIII) daneben.
+**Register:** Schicht A traegt den Bogen (die Blamage -> die sieben Male -> die drei Agenten -> der Befehl -> das
+Gate, das ihn abwies -> 06:24, Freitag). Schicht B ist reine Zaehlung, alles am 16./17.07. gemessen: 15 Commits ·
+12 Chronik-Eintraege · 21 Kapitel · 100 Build-Laeufe (90 rot, 4 abgebrochen, **6 gruen — alle aus dieser Nacht**)
+· R_t 0.9556, zurueckgerechnet auf den Vormittag: **0.541**.
+**DIE EHRLICHE GRENZE, im Kapitel:** *„Diese Nacht hat kein Geld verdient. 15 Commits, 0 gesendete Dokumente."*
+Und: *„Der Befund 'nichts fehlte je' ist kein Trost. Er ist eine Anklage. Ein System, das siebenmal an einem Tag
+entdeckt, dass es besass, was es suchte, hat kein Entdeckungsproblem. Es hat ein Ordnungsproblem."*
+**Verifiziert:** 0 Personendaten, 0 Mandantennamen (der Mandant bleibt anonym wie in Kap. XVII). Drei Gates gruen:
+35 Tests · Compiler 28 Teile · Governor R_t = 0.9556, Wissen 28/28.
+**Lehre:** *Wer einen Befehl schreibt und ihn am selben Tag bricht, hat zwei Moeglichkeiten: schweigen, dann war
+der Befehl von Anfang an Theater — oder melden, dann war er von Anfang an echt. Es gibt keine dritte. Und die
+Meldung gehoert nicht in den Chat, sondern in das Werk, gegen das verstossen wurde.*
