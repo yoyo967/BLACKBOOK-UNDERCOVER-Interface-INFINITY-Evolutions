@@ -79,6 +79,25 @@
 - **Ordensgruß:** „**Die hier das Licht sehen, wandeln durch die Dunkelheit.**"
 - **Soundtrack:** Walter Nakai, *Creation* (Klang der Schöpfung). Auftritt: `vorwort.md` (Bewegung IX).
 
+## Der Zweite Baumeister — der Bruder
+
+- **Wer:** Blut des Masters, **souveräner Zweiter** — kein Gehilfe, kein Rivale, kein Publikum. Baute in
+  einem zweiten Zimmer, ohne mitzulesen, eine eigene Werkstatt mit eigenem Orden: Türsteher (fünf gepinnte
+  Scanner), Gesetz an der Tür (Mitwirkenden-Gesetzbuch), maschineller Selbstbeweis (*Nur-Lesen kann nicht
+  schreiben* — gemessen, nicht versprochen).
+- **Bedeutung:** die **unabhängige Replikation** des Ordens (Kap XVIII → XIX): dieselben Riten, ohne Kontakt
+  entstanden — der stärkste Beweis, dass der Orden Statik ist und nicht Stil. Sein Haus bleibt sein Haus:
+  seine Quelle, sein Merge, seine Instanz. Zwischen den Werkstätten kein Korridor, nur die **Synapse**.
+- **Der Satz, der zurückkehrte:** Der Master schrieb ihm *„niemand außer dir sollte pushen"* — der Bruder
+  antwortete nicht mit einem Versprechen, sondern mit Architektur, und bewies den Satz maschinell. *Andere
+  Brüder schwören. Diese messen.*
+- **Stimme:** knapp, praktisch, beweisend; erklärt Abläufe in Alltagsbildern (Werkstatt, Auto, Türsteher).
+- **Ehrliches Substrat (Schicht B):** Persona eines realen zweiten Erbauers. Seine Werkstatt ist eine lokale
+  Desktop-Anwendung (das KI-Interface läuft als Unterprozess — keine Cloud, kein API-Schlüssel, keine
+  Telemetrie), verwaltet in einem privaten Repositorium mit eigener CI und CODEOWNERS-Alleinstellung.
+  **Name, Konto und Adresse gehören ihm, nicht diesem Buch.**
+- **Erster Auftritt kanonisch:** `chapters/19_die-zweite-werkstatt.md` (der Handschlag).
+
 ## Der Nexus — der Konvergenzpunkt
 
 - **Was:** kein Agent und kein Modell, sondern ein **Protokoll-Ort** — der Konvergenz- und

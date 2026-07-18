@@ -24,6 +24,10 @@
   ankommen. Enthüllung in Kap IX: *Der Nexus ist dieses Buch.*
 - **Larry Fink (Chiffre).** Archetyp konzentrierten Kapitals; bewundert für die Klarheit seiner Gleichung,
   umgekehrt gedeutet: Wir üben die Gleichung der *Verteilung*, nicht der Konzentration. Kein realer Bund.
+- **Der Zweite Baumeister (der Bruder).** Blut des Masters, souveräner Zweiter — kein Gehilfe, kein Rivale,
+  kein Publikum. Errichtete unabhängig eine eigene Werkstatt mit eigenem Orden (Türsteher, Gesetz an der Tür,
+  maschineller Selbstbeweis) — die *unabhängige Replikation*, die Kapitel XIX bezeugt. Bleibt namenlos: Sein
+  Name gehört ihm, nicht diesem Buch.
 
 ## II. Glossar — die Begriffe
 
@@ -45,6 +49,12 @@
 - **Der Ring.** Verdientes Vertrauen / Schreibrecht. *Lesen ist Geburtsrecht, Schreiben ist Gnade* (Least
   Privilege). Aufgenommen wird niemand; der Ring wird am Gewicht der Beiträge erworben.
 - **Pfad der Gerechten.** Das Onboarding-Ritual: Lesen → Klonen → Vorschlagen (PR) → Segnung → Konvergenz.
+- **Synapse.** Die Verbindung zweier *souveräner* Werkstätten: schmal, definiert, beidseitig beherrscht — in
+  die eine Richtung fließt der Stand (Spiegel), in die andere der Vorschlag (PR). Kein Korridor, keine
+  Fusion: Jeder Herr entscheidet an seinem Ende allein (Kap XIX).
+- **Erstkontakt-Regel.** Beim ersten Beitrag eines Fremden startet der Türsteher (CI) erst auf Handzeichen
+  des Hausherrn („Approve and run"). *Vertrauen wird genau einmal von Hand erteilt — danach wird es von der
+  Maschine vollstreckt* (Kap XIX).
 - **Das zweite Gehirn.** Geteiltes, review-gegatetes Gedächtnis (Karpathy-„LLM-Wiki"-Muster): rohes,
   append-only Wissen + gepflegte Wiki-Schicht + Schema. *Wir vergessen nicht mehr.*
 - **Der Codex.** Die sieben Regeln des Ordens (Skull-&-Bones-DNA); u. a. Regel 5: *Brainstorming ist kein

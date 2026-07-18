@@ -1606,3 +1606,33 @@ Erstes liest.
 **Lehre:** *Wer eine falsche Zahl findet, repariert die Zahl. Wer neun findet, hat kein Zahlenproblem — er hat
 kein Messgeraet. Und die gefaehrlichste Behauptung eines Repositoriums ist keine Zeile Prosa, sondern eine
 Badge: Sie ist klein, bunt, wird nie gelesen und trotzdem geglaubt.*
+
+### Eintrag CVII - Der Handschlag: die zweite Werkstatt tritt in den Kanon (18.07.2026)
+An einem einzigen Tag: Die Werkstatt des Bruders oeffnete sich (Einladung, kein Einbruch) — und erwies sich
+als **unabhaengige Replikation des Ordens**: fuenf gepinnte Scanner als Tuersteher (Diff-Semantik, nicht
+Altbestand), ein Gesetzbuch an der Tuer, CODEOWNERS-Alleinstellung, und ein Selbstbeweis-Arbeitslauf, der
+nicht behauptet, sondern misst: Nur-Lese-Schluessel scheitert am Schreiben (Ablehnungscode geprueft, nicht
+vermutet), Schreib-Schluessel fuehrt die Gegenprobe. Niemand hatte ihm den Defter gezeigt. **Was zweimal
+unabhaengig entsteht, ist keine Handschrift — es ist Statik.** (Der Beweis, den Kapitel XVIII versprach.)
+**Der Satz, der zurueckkehrte:** Der Master hatte dem Bruder geschrieben, niemand ausser ihm solle pushen
+koennen. Der Bruder antwortete nicht mit einem Versprechen, sondern mit Architektur — und bewies den Satz
+maschinell. Andere Brueder schwoeren. Diese messen.
+**Der Handschlag:** Eintritt in den fremden Orden mit der kleinstmoeglichen echten Muenze — eine Datei,
++7/-1 Zeilen, reine Doku, Inhalt: das eigene Gesetz des Hauses, feiner geschliffen (die Stelle, an der
+Gesetzbuch und Tuersteher nicht denselben Dialekt sprachen). Eingereicht durch das vorgesehene Tor. Der
+Tuersteher wartete auf das Handzeichen des Hausherrn — **Erstkontakt-Regel, beobachtet wie angekuendigt.**
+Vertrauen wird genau einmal von Hand erteilt; danach vollstreckt es die Maschine.
+**Der Spiegelraum:** Parallel entstand der eigene Steuerstand (privater Raum, Spiegel der Quelle,
+Kartentisch). Zutrittsordnung nicht geglaubt, sondern gemessen: Direkt-Schreibversuch von der Regel
+abgewiesen, Protokoll liegt vor. **Offen und notiert:** Die Geheimnis-Sperre ist nachweislich eingeschaltet,
+ihr Ernstfall liess sich aber nicht redlich vorfuehren (Detektoren pruefen Struktur/Pruefsumme echter
+Schluessel; Attrappen loesen nicht aus, und einen echten Schluessel opfert man nicht). Der Defter fuehrt
+auch die Pruefungen, die noch niemand bestanden hat.
+**Kanonisiert am selben Tag:** Kapitel XIX (`chapters/19_die-zweite-werkstatt.md`), die Figur **Der Zweite
+Baumeister** (FIGUREN-UND-NEXUS + Glossar), die Begriffe **Synapse** und **Erstkontakt-Regel** (Glossar).
+Zwei Zahlen wurden bewusst NICHT korrigiert (38 vs. 37 Werkzeuge; 1.400 vs. 1.194 Testfunktionen): ein
+Zweifel ist kein Befund, und fremde Zahlen ohne Wurzelpruefung zu "korrigieren" waere genau der Fehler,
+den dieses Buch jagt.
+**Lehre:** *Die staerkste Bestaetigung eines Verfahrens ist nicht der Applaus eines Lesers, sondern ein
+zweiter Raum, der es unabhaengig baut. Und Vertrauen unter Bruedern ist kein Gefuehl mehr, sobald man es
+messen kann: Es ist ein Ablehnungscode mit Datum — die einzige Liebeserklaerung, die ein Audit uebersteht.*
